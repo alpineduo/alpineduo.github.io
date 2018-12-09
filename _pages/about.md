@@ -5,7 +5,6 @@ title: "About us"
 author_profile: true
 header:
   image: /assets/images/header_picture.jpg
-  caption: "Copyright AlpineDuo"
 ---
 
 We are two weirdos who perfectly complement each other. Together we are a young, dynamic duo up for an adventure anytime and anywhere. Besides mountains and outdoors, we loove trying new food/drinks and of course always enjoy the company of fellow outdoor enthusiasts. 
