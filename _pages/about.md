@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <figure style="width: 30%; float: right;">
-    <a href="/assets/images/about_us.jpg"><img src="/assets/images/about_us.jpg"></a>
+    <a href="/assets/images/about_us.jpg"><img src="/assets/images/about_us.jpg" title="about us" alt="alpine duo profile pic"></a>
 </figure>
 
 <div style="width: 60%;">
