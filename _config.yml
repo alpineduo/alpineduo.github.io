@@ -124,12 +124,12 @@ author:
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
     #   url: "https://github.com/alpineduo"
-    - label: "Instagram Martin"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/0xc0170"
     - label: "Instagram Dana"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/danka.ivanka"
+    - label: "Instagram Martin"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/0xc0170"
 
 # Site Footer
 # footer:
