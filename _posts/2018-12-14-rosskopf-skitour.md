@@ -25,4 +25,6 @@ The way to the top goes along the piste. I took us around 50min to reach Roßkop
 
 Overall much recomended for early birds who want to ski before work, with almost zero natural risks. Might be a little boring for those extreme adventurers among us. 
 
+## Activity view
+
 <iframe src="https://www.komoot.com/tour/53078126/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
