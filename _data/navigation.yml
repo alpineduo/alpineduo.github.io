@@ -5,8 +5,8 @@ main:
     # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Blog"
     url: /blog
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Gallery"
+    url: /gallery
   # - title: "Sitemap"
   #   url: /sitemap/
   - title: "About"
