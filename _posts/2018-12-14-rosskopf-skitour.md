@@ -11,7 +11,7 @@ tags:
   - pistentour
   - piste-skitour
   - earnyourturns
-  - humanpoweredoutdoors
+  - humanpoweredadventures
   - winter
 classes: wide
 ---
