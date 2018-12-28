@@ -2,7 +2,6 @@
 layout: splash 
 permalink: /gallery
 title: "Gallery"
-author_profile: true
 main-gallery:
   - url: assets/images/gallery_watermark/alpineduo_gallery_1.jpg
     image_path:  assets/images/gallery_watermark/alpineduo_gallery_1.jpg
