@@ -54,7 +54,7 @@ Start
 : Parking lot at Kurvenlift-Stüberl, free
 
 Ascent
-: around 50 hour
+: around 50 minutes
 
 Difficulty
 : easy
