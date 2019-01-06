@@ -56,9 +56,6 @@ Start
 Ascent
 : around 50 minutes
 
-Difficulty
-: easy
-
 ## Activity view
 
 <iframe src="https://www.komoot.com/tour/53078126/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
