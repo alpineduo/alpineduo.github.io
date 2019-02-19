@@ -94,7 +94,7 @@ After some refueling at the hut we went to Auerspitz to watch the sunset (we did
 
 The next day was equally plesant - spring like weather and good mood. We left after breakfast, traversed towards Kumpfl Scharte, skied direction to Großtiefentalalm and skinned via Kleintiefentalalm to Taubensteinhaus, where we took a beer & sunbathing break. From there its very close to the piste, which we took to get back to the parking lot where we started from. The last bit of the piste is the very last challange - long, wide and very little inclined track which will most likely force you to skate or put your skins back on. 
 
-Overall, deffinetely recomended tour, doable in one day also. We are looking forward to return here with on wheels in Summer. 
+Overall, definitely recomended tour, doable in one day also. We are looking forward to return here with on wheels in Summer. 
 
 {% include flexgallery id="gallery-rotwand-day2" caption="Rotwand, Spitzingsee skitour day 2- Feb 19" %}
 
@@ -124,6 +124,6 @@ Auerspitz evening
 
 #### 2. day
 
-Rotwandhaus - Spitzingsee
+Rotwandhaus - Spitzingsee via Taubenstein
 
 <iframe src="https://www.komoot.com/tour/56741792/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
