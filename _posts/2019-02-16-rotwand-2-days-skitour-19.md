@@ -90,13 +90,13 @@ We had visitors last weekend and and planned an outdoor weekend for that ocasion
 
 After some refueling at the hut we went to Auerspitz to watch the sunset (we did the same in Summer) - the view from there is great. The snow was already bit crusty on the south facing slopes from Rotwandhouse towards Auerspitz. We skied down from Auerspitz in direction Großtiefentalalm and skinned back up towards Rotwandhaus. By the time we were putting our skinns on it was dark but with moonshine so bright that healamps were not necesarry. The snow was pretty great on this side - loose, granual and not too heavy (some of us actually couldn't resist this slope and skied down from Kumpfl Scharte just to come back up again). The last traverse from Kumpfl Scharte to Rotwandhaus was a bit tricky. The tracks were worn out and icy - ski crampons worthy. We got back to the hut just in time for dinner at 7 pm. There was quite a bit of beer, liquer and laughter afterwards. 
 
-{% include flexgallery id="gallery-rotwand-day1" caption="Rotwand, Spitzingsee skitour day 1- Feb 19" %}
+{% include flexgallery id="gallery-rotwand-day1" caption="From Spitzingsee to Rotwandhaus + Auerspitz  skitour day 1 - Feb 19" %}
 
 The next day was equally plesant - spring like weather and good mood. We left after breakfast, traversed towards Kumpfl Scharte, skied direction to Großtiefentalalm and skinned via Kleintiefentalalm to Taubensteinhaus, where we took a beer & sunbathing break. From there its very close to the piste, which we took to get back to the parking lot where we started from. The last bit of the piste is the very last challange - long, wide and very little inclined track which will most likely force you to skate or put your skins back on. 
 
 Overall, definitely recomended tour, doable in one day also. We are looking forward to return here with on wheels in Summer. 
 
-{% include flexgallery id="gallery-rotwand-day2" caption="Rotwand, Spitzingsee skitour day 2- Feb 19" %}
+{% include flexgallery id="gallery-rotwand-day2" caption="From Rotwandhaus to Spitzingsee skitour day 2 - Feb 19" %}
 
 
 ## Tour info
