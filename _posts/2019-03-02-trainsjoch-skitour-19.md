@@ -75,11 +75,11 @@ gallery-trainsjoch:
 ---
 
 
-Parkplatz Mariandlalm was empty at 8 am today, only one car there. The beginning of the tour towards Mariandlalm is possible to skin up however snow melted away on the first 2 kilometers. Temperatures are not dropping, expecting to walk there in the few days. We found our way up on the snow side barrier or via small patches of ice. We knew from the start we will carry our skis on the way back here. It was quite warm day, 3 degrees in the morning. The snow in the beginning was slushy.
+Parkplatz Mariandlalm was empty at 8 am today, only one car there. The beginning of the tour towards Mariandlalm is possible to skin up however snow was gone on the first 2 kilometers. Temperatures are not dropping these days, expecting to walk there in the few days. We found our way up on the snow side barrier or on small icy patches. We knew from the start we will carry our skis on the way back here. It was quite warm day, 3 degrees in the morning. The snow in the beginning was slushy around Unter Trockenbach Alm.
 
 The snow became more granular above 1000 m.a.s.l. It turned to be more powdery at probably 1300 m.a.s.l. As soon as we arrived to the saddle below Trainsjoch, we noticed the large avalanche slide (see the picture below). We were following the tracks from the man who we met at the parking lot (the only person there besides us). He also was going up to Trainsjoch. We managed to arrive to Trainsjoch after 2 hours. The Trainsjoch descent was fine - fresh snow on the hard surface. We were hesitant to continue to Ascherjoch at first. Should we or not? We decided to continue up there to look for better lines. The descision turned out to be golden.
 
-Ascherjoch was covered by 10 cm of powder. We chose our line through the forest. No one around, just us. We had suddenly happy faces! The snow became slushy lower around Unter Trockenbach Alm. We put our skis on the shoulders on the first bridge and continued walking mostly to the parking lot. The parking lot was almost full in the early afternoon. Mariandlalm was opened after few days closed due to the avalanches (advertised on their webpage).
+Ascherjoch was covered by 10 cm of powder. We chose our line through the forest. No one around, just us. We had suddenly happy faces! We put our skis on the shoulders on the first bridge and continued walking mostly to the parking lot. The parking lot was almost full in the early afternoon. Mariandlalm was opened after few days closed due to the avalanches (advertised on their webpage).
 
 Thanks Horst for joining the tour. Ascherjoch was fun today!
 
