@@ -87,4 +87,4 @@ The rest of the hike
 
 <iframe src="https://www.komoot.com/tour/70072686/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
 
-I published this hike also on https://www.alpenvereinaktiv.com/en/tour/sonnenspitz-jochberg-rabenkopf-hike/120940927/
+I published this hike also on [alpenvereinaktiv](https://www.alpenvereinaktiv.com/en/tour/sonnenspitz-jochberg-rabenkopf-hike/120940927/)
