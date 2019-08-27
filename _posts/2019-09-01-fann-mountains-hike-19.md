@@ -44,10 +44,33 @@ Duration
 
 ## Activity view
 
-Part 1 - Kulikalon lakes hike
+Part 1 - Kulikalon lakes round hike
+
+<iframe src="https://www.komoot.com/tour/84574406/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.komoot.com/tour/84587554/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.komoot.com/tour/84587570/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.komoot.com/tour/84587573/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.komoot.com/tour/84587573/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
 
 Part 2 - Zamok and Energia summits
 
+<iframe src="https://www.komoot.com/tour/84587577/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.komoot.com/tour/84587593/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.komoot.com/tour/84587583/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.komoot.com/tour/84587584/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.komoot.com/tour/84587595/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.komoot.com/tour/84587597/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.komoot.com/tour/84587598/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.komoot.com/tour/84587599/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+
 Part 3 - Greater Allo to Iskanderkul
 
+<iframe src="https://www.komoot.com/tour/84587600/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.komoot.com/tour/84587610/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.komoot.com/tour/84587602/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+
 Part 4 - Hissar range
+
+<iframe src="https://www.komoot.com/tour/84587605/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.komoot.com/tour/84587612/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.komoot.com/tour/84587612/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
