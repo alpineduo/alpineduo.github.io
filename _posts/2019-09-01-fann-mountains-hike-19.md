@@ -161,17 +161,26 @@ gallery-fanky-part1:
 
 This is going to be slightly longer blog than our weekend trip. We were 5 of us going to Uzbekistan and Tajikistan this summer for 4 weeks. Our proposal was to spend 3 weeks hiking and one week sighseeing plus traveling.
 
+### Samarkand & Buchara
+
 The beginning of our trip start in Samarkand. There's small airport where only few flights land per week. Most of them are from Moscov, one we took as well. We arrived very early, at 5 am to Samarkand. Unfortunately, my backpack did not arrive with us so I had to deal with the crew of Aeroflot there. We were able to find someone to communicate in English however they were quite convinced my backpack would not be in the flight right after ours, few hours later as it was not Aeroflot. As we were exhausted and convinced my backpack will arrive on Sunday to Buchara - that was our agreement with the crew there. As soon as we left the terminal building one taxi driver approached us. We experienced the first what we later named "vulture". His first proposal was way out of the price we were eager to pay. After our first refusal, he left and on the way to find other taxis, we agreed on the price. As our initial plan was to go directly to Tajikistan, we had to find a hotel and stay in Samarkand for a day. Hiking postponed until my backpack arrives.
 
-Buchara
+Samarkand has lot of history. I was not aware of it much so discovering these new places with so much around them was astonishing. The first place we visited was Siyob bazaar. Tasty dried fruits, fresh products and our favorite restaurant in the centre of it. We had to return here on our way back from mountains to shop a bit. After two days of sightseeing, we traveled to Buchara. To catch a cab, you have to go north to the bus terminal. History repeates itself, 10 taxi drivers around us convincing us we should go with them. We agreed with one, 5 of us in one regular sedan car. He argued a bit with others for another 5 minutes while we waited in the car.
 
-My backpack back in Samarkand of course
+We spent one day in Buchara, walking around the city. We caught a bus on our way back. We wanted initially to go by taxi again but people were pointing us to a bus. New comfortable bus (like we see here in Europe for long distance traveling), suprising. We experienced one problem when they allocate seat by just writing a seat on your receipt. After a while people came to us claiming that we are at their seats. We had to move after all but all good.
 
-Sunday to Panjakent
+As soon as we get to Buchara, me and Stefan went to the airport to collect my backpack. What we found out, it was there since Friday morning (the next flight after ours). I have it finally ! Time to go to Tajikistan. Our next town was Panjakent. We again had to take taxi to the bus station where we took a cab to the border crossing. It opened in the recent years. We had no issue to go through. Just received questions about what are our plans there and if we are alpinists. Plenty of taxis right behind the bars, waiting for us. We arrived to Panjakent in the evening, booked a hostel. There are always some hikers or travelers. We met lot of interesting people with various stories. 
 
-Hostel
+We arranged a drive the next morning to Vertical Alaudin. The drive was quite good. The half of the trip is on the new road they built, then at Sarvoda you turn to the gravel road that leads to Vertical Alaudin. 4 wheels drive recommended. It was bumpy and steep. We arrived to Vertical Alaudin in the early afternoon. We looked arond and saw still plenty snow in the peaks around. We talked to people, there were some russian expeditions, mostly climbers and some smaller groups like us. We prepared our things for the first trip - Kulikalon lakes.
 
-Monday - Vertical Alaudin
+### Kulikalon lakes hike
+
+Early morning start to avoid afternoon sun. It was very warm. Our first saddle was at 3800 m.a.s.l. We started feeling the altitude while ascending to it. At the saddle we decided to go on the ridge to go to the peaks nearby. We left backpacks and walked for a half hour to be on top of to us unknown peak. We saw first donkeys carrying things. Apart from local people, we haven't met anyone on the way to the lakes. Once we reached the lakes, we went for a swim. Cold water - very much appreciated in that hot water. There is "chcaychana" at the lake where they cook and also sell some basic beverages. We had late lunch there and rested. We decided to move higher to lake Duschaka which is at 3000 m.a.s.l. . We found nice spot under the tree for almost all of us. There were no people around, neither ranger. He came the next day and we paid for these 2 nights (2 dollars per night per person). As this lake is higher and surrounded by mountains, the sun goes down earlier and we had quite cold evenings. The glacier is not that far from there. 
+
+The next day was our first acclimatizaiton summit - 3600 m.a.sl. . We hiked down to the Kulikalon lakes, went around them and started ascending. There was no trail going to the peak in the beginning. We later found one but often just disappeared. We had a quick lunch at the top and returned via the opposite site of the lakes. There are many streams so we had to cross them multiple times. 
+
+We started early at 6am to go to Alaudin pass and our destination for today was Alaudin lakes. There is also "cajchana", I believe two but we went to only one. We had to return to the Vertical Alaudin to leave some things there. 
+
 
 {% include flexgallery id="gallery-fanky-part1" caption="Fann mountains part 1 - Jul 19" %}
 
