@@ -78,7 +78,7 @@ gallery-saalbach:
 
 ---
 
-We have not been much biking this year, not to mention almost barely visited Alps on wheels. It was about the time to meet few friends and hit some trails. We were 8 of us for 3 days in Saalbach, Austria. 400 km of trails was waiting for us. Many of accommodations provide "Joker card" - most importantly, the lifts. Our plan was to bike as much as we can. Truth to be told, as much as your hands can handle.
+We have not been much biking this year, not to mention almost barely visited Alps on wheels. It was about the time to meet few friends and hit some trails. We were 8 of us for 3 days in Saalbach, Austria. 400 km of trails was waiting for us. Many of accommodations provide "Joker card" - most importantly, the lifts. Our plan was to bike as much as we can. Truth be told, as much as your hands can handle.
 
 We arrived on Thursday to Saalbach. As I had to work on Friday, I only joined my friends for a short morning ride. Thus I did Panorama trail twice. Friends stayed and enjoyed trails the entire day. Most of the time they spent in Panorama trail but they tried also x-line. They however complained it was steep with bigger drops so had to either aviod big drops or brake too much. Thus we were planning to stay on blue or red trails for the rest of the weekend. One of the reason as well was that the trails are damaged in some places due to the end of the season approaching. We had our hands pumped often!
 
