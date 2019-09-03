@@ -194,7 +194,7 @@ gallery-fanky-part1:
 
 ---
 
-This is going to be slightly longer blog than our weekend trip. We were 5 of us going to Uzbekistan and Tajikistan this summer for 4 weeks. Our proposal was to spend 3 weeks hiking and one week sighseeing plus traveling. We split the trip into 4 parts. This is just part 1 of our hike, including visiting two cities - Samarkand and Buchara.
+This is going to be slightly longer blog post than our weekend trip reports. We were 5 of us going to Uzbekistan and Tajikistan this summer for 4 weeks. Our proposal was to spend 3 weeks hiking and one week sighseeing plus traveling. We split the trip into 4 parts. This is just part 1 of our hike, including visiting two cities - Samarkand and Buchara.
 
 ### Samarkand & Buchara
 
