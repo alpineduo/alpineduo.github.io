@@ -207,9 +207,9 @@ gallery-fanky-part1:
 
 This is going to be slightly longer blog post than our weekend trip reports. We were 5 of us going to Uzbekistan and Tajikistan this summer for 4 weeks. Our proposal was to spend 3 weeks hiking and one week sighseeing plus traveling. We split the trip into 4 parts. This is just part 1 of our hike, including visiting two cities - Samarkand and Buchara.
 
-Our entire hike is planned [here]([http://alpenvereinaktiv.com/s/dcIRa).
+Our entire hike is planned [here on alpenvereinaktiv]([http://alpenvereinaktiv.com/s/dcIRa).
 
-Using slazav map (very good map): 
+Using slazav map (very good map for fann mountains): 
 
 <figure>
     <a href="https://lh3.googleusercontent.com/V20VmysLtsb7cuUl30jasXgUfokhwR2pWFGtQtytVq36tSDktlQeNWqR-gHGXErk8jevCvYDLpFdrbBBcCZ0aAx3THNv5T_kM7hy9LUde7dyVak-qTjSulvwYqSGuLzzEWKu8dgUMuRH3bcJI_FjOrkBBiMNssu66eAbFZI0vCjWDHGcJ5UswHk3ey5K0KhEDgw0IZhED5LNRHFZK3mrv2RLub7ToTRG6SVrgg7Sp0yIzUQKP3X-0Dxzeq6T0SpU4eddlTAwclHiXoU7YOX09pjDadaNfQaSVIbIe8cSnruQjJ7UJ9R22Su1Rmg1wh48H9gJ4fACBELbZv4y4fjrWuGEsrKpNluOCkmpWbfb5pX8x5h5jnWGxk5GBFuZ9e0t3MYkiZMtqpjLWgzNmkSkLIgo02KaREZLgE9IAt0T4NIDw_elaaP1x8I-MwtePJ-ItQc_L8HaiSu8eSGeIrPBMxhwHGv3z7hHC0eyewiSUS6csPY313lQbJqbTbg0uGdxvkaqoWCmDDeKjs7DWIHL2D7rMzAIHiPpWi6z4Bo42pBcJdl7gjl2BACcs1UMTzbtYDfLjdyCh6tFki2ILRwm0Ebxu4Zlm0zEwIk5f0fnLwnvCeoEAtAPUm5Rv2xMxFLgopVChM3hznK3BD9NRH-0iSgrQuNunMMUJJXNL5niq9M4_dJrPgYj2ZN2BgAbKXiESNdkvgYMRVgJ389buyqkwdWU3aP6o8IPIQUBfbERYMD8Pdc2Bw=w1532-h1540-no
@@ -218,6 +218,7 @@ Using slazav map (very good map):
     <figcaption>Our fann mountains hike - Slazam map</figcaption>
 </figure>
 
+We used this map often to navigate.
 
 ## Samarkand & Buchara
 
