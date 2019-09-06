@@ -205,7 +205,7 @@ gallery-fanky-part1:
 
 ---
 
-This is going to be slightly longer blog post than our weekend trip reports. We were 5 of us (myself, Stefan, Ivana, Tomas and Martin) going to Uzbekistan and Tajikistan this summer for 4 weeks. Our proposal was to spend 3 weeks hiking and one week sighseeing plus traveling. We split the trip into 4 parts. This is just part 1 of our hike, including visiting two cities - Samarkand and Buchara.
+This is going to be slightly longer blog post than our weekend trip reports. We were 5 of us (myself, Stefan, Ivana, Tomas and Martin) going to Uzbekistan and Tajikistan this summer for 4 weeks. Our proposal was to spend 3 weeks hiking and one week sighseeing plus traveling. We split the trip into 4 parts.
 
 Our entire hike is planned [here on alpenvereinaktiv](http://alpenvereinaktiv.com/s/dcIRa).
 
@@ -225,6 +225,15 @@ The planned hike in numbers:
 - 18 days in mountains
 - 160 km
 - over 12 km ascent meters
+
+Hike split into 4 parts:
+
+- Kulikalon lakes
+- Chimtarga pass (Zamok and Energia summits including)
+- Iskanderkul via Doinoi pass
+- Hissar range (White Pyramid summit)
+
+This is just part 1 of our hike, including visiting two cities - Samarkand and Buchara.
 
 ## Samarkand & Buchara
 
