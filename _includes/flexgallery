@@ -24,7 +24,7 @@
         {% else %}
           "{{ img.url | prepend: imagefolder | relative_url }}"
         {% endif %}
-        {% if img.title %}title="{{ img.title }}"{% endif %}
+        {% if img.title %}title="{{ img.title }}"{% endif %} class="image-popup"
       >
         <img src=
           {% if img.image_path contains "://" %}
