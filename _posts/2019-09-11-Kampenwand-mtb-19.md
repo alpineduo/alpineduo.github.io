@@ -71,10 +71,10 @@ After work ride with Peter in Kampenwand area in the middle of the week. We had 
 
 Our starting point was Chiemgauer Hochseilgarten. There is natural swimming pool next to it. The parking is free and almost empty when we arrived in the late afternoon. We somehow could not find the beginning of our trail so we crossed few meadows to find the ski bench and the forest road we should have taken. This forest road led us to Mais-Alm. The way up was fine, we also lost few dozen of ascent meters in the middle where we were wondering where to continue. As there was a trail going up, we decided to diverge from the proposed track and find our own way. This diversion allowed us to follow hiking trail, sometimes steep and narrow so we ended up pushing our bikes. Mais-Alm was still opened as it was sunny evening, plenty people sitting outside enjoying the week day evening.
 
-Few more turns up from Mais-Alm and the gravel road started going down. Note, you find Reitweg on the right side while descending first hunderds meters. Do not be scared of big rocks at the beginning, the trail is rated as S1. You can climb it in the opposite direction without problems. There are at least 2 trees fallen, the trail is not completely clear but nothing major. We did not continue to the lower part as there is a sign "no biking allowed", we were not certain why so we followed the gravel road down to the village and back to our car. It would be almost 3 km of trail with it, anyway good bike ride after work.
+Few more turns up from Mais-Alm and the gravel road started going down. Note, you find Reitweg on the right side while descending first hunderds meters. Do not be scared of big rocks at the beginning, the trail is rated as S1. You can climb it in the opposite direction without problems. There are at least 2 trees fallen, the trail is not completely clear but nothing major. We did not continue to the lower part as there is a sign "no biking allowed", we were not certain why so we followed the gravel road down to the village and back to our car. It would be almost 3 km of trail with it, anyway good bike ride after work. 
 
 {% include flexgallery id="gallery-reitweg" caption="Reitweg Kampenwand mtb - Sept 19" %}
-
+    
 ## Tour info
 
 Drive
