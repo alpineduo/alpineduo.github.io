@@ -1,0 +1,124 @@
+---
+title: "Berchtesgaden small round extended hike  - Nov 19"
+description: "Berchtesgaden small round extended hike"
+header:
+  image: https://lh3.googleusercontent.com/zs2lMCgI9iqvOlEuCYtTor344du-kXXhejL2sh3H5B5SnGXx9aHsM-vH68QFxJ6KOyACf8e53FMmVC3cy2VVRHHArXJg_e_bL024zv7CoUS9S2-gcNWiKlfeNG5-Wff82Ul3xbsAB4XY2upsdLaYQ4Pf5Ph4Bdl6HmgvDAS58PWtJg-BU86Ome8HlHHBWFcNfVx5qrhJBwXHJCjfFBARAj4F3TW3WCVRR0POWXxwxKS3iNhfxt4Gv6rk9AlrZjKH7452UUPdmv563aczacSFWn-5gc4Dn9X-Bb3PG4tAxL2xZlTcE2z5sUD5nFOGq_IfDaI1750rt42S4WkqrudJD10i-jKxFOqGyFK-y6lvda1KZA4mz1CDUhE-723ToePF7CnQYsC_iIjWEGd4t7YuVWHoODFkKPvZE-bdAMYvAOYXwbiss9-4KUQ-iGf1ZL3pwhJrvbBsamLHaTwMbbLRHHYgAcLGwpkp48DxTfjzrCMGApn0SD10xHpsoo5iMsu194SnsLwtYFQuA7oT5UlubvAkTC3jX5YJGuh7XG6xmheFJJiiwPyDXnpV5akVM6zvi-JB1acWVckRflpzPCaICY5Eg-l8zdierXHCwM82yz0iZx4t9y-_Z6ymZw1zrLmD_Arx3L8E_AbjUT-xjzezv6e5D_-AK2YtSNYrr5AC4t4Z9kyBMyWGKxp9PZufmk9BnAxgdi2q4ogSZXqgUQzzfEVKjUO5exLp94SdFdZ8NEVj-TsQvw=w2016-h1512-no
+  teaser: https://lh3.googleusercontent.com/zs2lMCgI9iqvOlEuCYtTor344du-kXXhejL2sh3H5B5SnGXx9aHsM-vH68QFxJ6KOyACf8e53FMmVC3cy2VVRHHArXJg_e_bL024zv7CoUS9S2-gcNWiKlfeNG5-Wff82Ul3xbsAB4XY2upsdLaYQ4Pf5Ph4Bdl6HmgvDAS58PWtJg-BU86Ome8HlHHBWFcNfVx5qrhJBwXHJCjfFBARAj4F3TW3WCVRR0POWXxwxKS3iNhfxt4Gv6rk9AlrZjKH7452UUPdmv563aczacSFWn-5gc4Dn9X-Bb3PG4tAxL2xZlTcE2z5sUD5nFOGq_IfDaI1750rt42S4WkqrudJD10i-jKxFOqGyFK-y6lvda1KZA4mz1CDUhE-723ToePF7CnQYsC_iIjWEGd4t7YuVWHoODFkKPvZE-bdAMYvAOYXwbiss9-4KUQ-iGf1ZL3pwhJrvbBsamLHaTwMbbLRHHYgAcLGwpkp48DxTfjzrCMGApn0SD10xHpsoo5iMsu194SnsLwtYFQuA7oT5UlubvAkTC3jX5YJGuh7XG6xmheFJJiiwPyDXnpV5akVM6zvi-JB1acWVckRflpzPCaICY5Eg-l8zdierXHCwM82yz0iZx4t9y-_Z6ymZw1zrLmD_Arx3L8E_AbjUT-xjzezv6e5D_-AK2YtSNYrr5AC4t4Z9kyBMyWGKxp9PZufmk9BnAxgdi2q4ogSZXqgUQzzfEVKjUO5exLp94SdFdZ8NEVj-TsQvw=w800-h300-no
+  caption: "alpineduo"
+categories: hike
+tags:
+  - bavaria
+  - hike
+  - berchtesgaden
+classes: wide
+gallery-berchtesgaden:
+  - url: https://lh3.googleusercontent.com/qD7F_QWS5Xs0siheC-2mR00-qNB_iZTokvf5xGrorAF8nxvVblTy358UkZ5ytnIdnka-c-t0GOzguryz5lRPiSljavRn2m70Pd1P5itrpNDOpKQZfCD-faknqpyMdspC39xHjl2xIFC0NsbdpWFEtH8MjOOwAqLYiOtlCjbIgtnndlYLYDpoM0r77ST-DPYVEtMCXIYX1rMXiNCqNsd01jTgNwF6uNyO_iqW-_emuaHW_jemG91HPEotryG5GYcY-3mzmDuf7U74PUGDyRqX-D1V9MmOvtR0JPYXt1Prg_2iT2cX-QxhMeTCO35XndctKqhlaVAaKo9KDb8oltkDkXggdhe5o0qQDRb9VrePoSFlOgZxypqN5_jmIkxh7j6QIoUfK3egjbmZ2IpeZc80QXN9axQF2w99BaM1bFlr2CfxHp8FIwTSVZRJcgCgcPUoqLL1WteikovQa0KfiVK4xsftzjk3fh63rwlLX7jiLhJkisz7CYSHRY9IZl1JK0mlqLL8I8bsLp3iTo8jPcGL4TVEu706Hb2i-SASvc7yv4cUnMNepxC4wCNBZLHFMTjdYsg1Gh6zLhcKYpnA34pEoe3qsgchwQRSPpH1vOG7Mm-CsYnGWeXoTzBlC2W7HBPgu9mZ_cAQscDny4K3RcA4LlJv-AEM0rPYDu40c_jMxLtg2Hp5BHNc5TrNyfvN4UDOEODbO_hDqQGLEUz5tixCV0YPgIE-sJ8hwtAAhgGhFbh1GlsqYw=w1156-h1540-no
+    image_path: https://lh3.googleusercontent.com/qD7F_QWS5Xs0siheC-2mR00-qNB_iZTokvf5xGrorAF8nxvVblTy358UkZ5ytnIdnka-c-t0GOzguryz5lRPiSljavRn2m70Pd1P5itrpNDOpKQZfCD-faknqpyMdspC39xHjl2xIFC0NsbdpWFEtH8MjOOwAqLYiOtlCjbIgtnndlYLYDpoM0r77ST-DPYVEtMCXIYX1rMXiNCqNsd01jTgNwF6uNyO_iqW-_emuaHW_jemG91HPEotryG5GYcY-3mzmDuf7U74PUGDyRqX-D1V9MmOvtR0JPYXt1Prg_2iT2cX-QxhMeTCO35XndctKqhlaVAaKo9KDb8oltkDkXggdhe5o0qQDRb9VrePoSFlOgZxypqN5_jmIkxh7j6QIoUfK3egjbmZ2IpeZc80QXN9axQF2w99BaM1bFlr2CfxHp8FIwTSVZRJcgCgcPUoqLL1WteikovQa0KfiVK4xsftzjk3fh63rwlLX7jiLhJkisz7CYSHRY9IZl1JK0mlqLL8I8bsLp3iTo8jPcGL4TVEu706Hb2i-SASvc7yv4cUnMNepxC4wCNBZLHFMTjdYsg1Gh6zLhcKYpnA34pEoe3qsgchwQRSPpH1vOG7Mm-CsYnGWeXoTzBlC2W7HBPgu9mZ_cAQscDny4K3RcA4LlJv-AEM0rPYDu40c_jMxLtg2Hp5BHNc5TrNyfvN4UDOEODbO_hDqQGLEUz5tixCV0YPgIE-sJ8hwtAAhgGhFbh1GlsqYw=w300-h400-no
+    title: "Starting point, Jennerbahn"
+    alt: "Starting point, Jennerbahn"
+
+  - url: https://lh3.googleusercontent.com/i1uj-WuaC75G3b0IZqFwp0Q9Y4nDWBPtQtPzFI51WKB_NYMqweR2L4ybcjZB7ZMkMo113jg71iM-ZsNQsOzEvOeeq9rXsWcLv3vld8ArkokvT75Z-_hONZvfCfzcEdGzUcqdWVT7UWkN0KZd5w-ntYeVYReVLSKhs5GpDL323TK8uv4KVupAYt7YyqmusyI5nqfp3LYwhPoEaX7B8i1qytyUtll80xkFtx0l3n0X2xn0WTUUW75_wJ0w_JpBO-2U9yAb1XZtb-LglIv0ZxcJVJJfOwl1jtTTlPckVgsokoAcPTXhFwUvqQv4EXdCJYSRTmf4OcMApic2cqy-8LevjB-ZJMuqhWnLk3tGBg-QlrFzMmguI2IVYDQ1ZWUqgwvNLt7R5B2U9vyLzp3-s6O0Gke3yUw8Id9sIKBJ5sujEvgWrQPZznIxeFVV3LehdasgiM2gW9afNYY4lF7keWdx69qVhgQjviUcZie8BrgRuaOiQAk-zAsXCppPVaALTiWegz6zVxbEgjN0FSAHVazSH-BYbIR31E4I0orObJ3vCp8QyCbSslzXyOvmD47OcWY29X09Z0w9S4z3J5OK34HEpgaQ_6PKiqxHy6pblyYoGqnCHtsm-bMH5-YYXp0qfzvxqNHJybI5dmLYenEB3n3brSNvzYoeCGLXv7OVEnUi6-UfWDGU_zQc5B8JjZneqK_huubRfhaDlMNSZJ-0XqbGeS9aR4IFFaAVnWO-0vRguYaoqzQwIA=w2016-h1512-no
+    image_path: https://lh3.googleusercontent.com/i1uj-WuaC75G3b0IZqFwp0Q9Y4nDWBPtQtPzFI51WKB_NYMqweR2L4ybcjZB7ZMkMo113jg71iM-ZsNQsOzEvOeeq9rXsWcLv3vld8ArkokvT75Z-_hONZvfCfzcEdGzUcqdWVT7UWkN0KZd5w-ntYeVYReVLSKhs5GpDL323TK8uv4KVupAYt7YyqmusyI5nqfp3LYwhPoEaX7B8i1qytyUtll80xkFtx0l3n0X2xn0WTUUW75_wJ0w_JpBO-2U9yAb1XZtb-LglIv0ZxcJVJJfOwl1jtTTlPckVgsokoAcPTXhFwUvqQv4EXdCJYSRTmf4OcMApic2cqy-8LevjB-ZJMuqhWnLk3tGBg-QlrFzMmguI2IVYDQ1ZWUqgwvNLt7R5B2U9vyLzp3-s6O0Gke3yUw8Id9sIKBJ5sujEvgWrQPZznIxeFVV3LehdasgiM2gW9afNYY4lF7keWdx69qVhgQjviUcZie8BrgRuaOiQAk-zAsXCppPVaALTiWegz6zVxbEgjN0FSAHVazSH-BYbIR31E4I0orObJ3vCp8QyCbSslzXyOvmD47OcWY29X09Z0w9S4z3J5OK34HEpgaQ_6PKiqxHy6pblyYoGqnCHtsm-bMH5-YYXp0qfzvxqNHJybI5dmLYenEB3n3brSNvzYoeCGLXv7OVEnUi6-UfWDGU_zQc5B8JjZneqK_huubRfhaDlMNSZJ-0XqbGeS9aR4IFFaAVnWO-0vRguYaoqzQwIA=w400-h300-no
+    title: "Watzmann peak"
+    alt: "Watzmann peak"
+
+  - url: https://lh3.googleusercontent.com/pvGB6IWlUu7OohHuZ3yCVbJmDM5aT2jpzhlBggMvEst4FN8-xqQa-H3C13WWPVo5XqXMNHXF6ZgHJ-3p3SqKR8uNjkRakW5aCruzM9FzjlyzcN34eF9dzzbvecjajXZPZ3Nz-sNduyGAQZpmt9w_W6K20aYCcCuC01-2HSr9VbrWcHIABBTtJ2wA7B-Nv4jRS0Ma3D8O3U029l-GmPT3RCssW_r5Mh4Vte2F2owP9HTMj8fJlZJVBayq5qF8L4UWuyf_qLuI66zQ5yhrgslTCVyaAFB3YdaGf0mG2CcGaaA7ureGh3cUU6Gh9yrPezmL5JdhHOIY67Qan9V1ZHqP_gpzCNRo5g2d3bPstmtuuRJDdlJVYnCz60DGvzBzblhgx50a8oqh1khi2ysTjglvVT0HpP1_j1nhPlXmSffcGUZ-CkUIo9_nSilRm_0vxE1iy8kDDN0lYc26h4CVm_Mh7WcPK72jRZ-HX7pkzfEJxAtxQHka9e6WOYtJfbsKgKJEvasXM6sri2nBdxnj2M5VcENEmzKxGusruwariH1N5_Hp8oJxIAe31jrXcksBY0FqsHUaPwdJmWP43-HviK4EZv7pF9f9rAAf9Wd4KLGqWQ48g7rndhM3rUO9lAS96BHo8S5xfeWrJT1nqm2p0gcCkIC7qj-IfS559SJ9yny2JFVvr1JX9nktcLPWdxujg-dMcvyBimKQ5srR_QcqG-kZ24jfrqoa2UDqc5BQZcjn2TV2UKi8-Q=w1156-h1540-no
+    image_path: https://lh3.googleusercontent.com/pvGB6IWlUu7OohHuZ3yCVbJmDM5aT2jpzhlBggMvEst4FN8-xqQa-H3C13WWPVo5XqXMNHXF6ZgHJ-3p3SqKR8uNjkRakW5aCruzM9FzjlyzcN34eF9dzzbvecjajXZPZ3Nz-sNduyGAQZpmt9w_W6K20aYCcCuC01-2HSr9VbrWcHIABBTtJ2wA7B-Nv4jRS0Ma3D8O3U029l-GmPT3RCssW_r5Mh4Vte2F2owP9HTMj8fJlZJVBayq5qF8L4UWuyf_qLuI66zQ5yhrgslTCVyaAFB3YdaGf0mG2CcGaaA7ureGh3cUU6Gh9yrPezmL5JdhHOIY67Qan9V1ZHqP_gpzCNRo5g2d3bPstmtuuRJDdlJVYnCz60DGvzBzblhgx50a8oqh1khi2ysTjglvVT0HpP1_j1nhPlXmSffcGUZ-CkUIo9_nSilRm_0vxE1iy8kDDN0lYc26h4CVm_Mh7WcPK72jRZ-HX7pkzfEJxAtxQHka9e6WOYtJfbsKgKJEvasXM6sri2nBdxnj2M5VcENEmzKxGusruwariH1N5_Hp8oJxIAe31jrXcksBY0FqsHUaPwdJmWP43-HviK4EZv7pF9f9rAAf9Wd4KLGqWQ48g7rndhM3rUO9lAS96BHo8S5xfeWrJT1nqm2p0gcCkIC7qj-IfS559SJ9yny2JFVvr1JX9nktcLPWdxujg-dMcvyBimKQ5srR_QcqG-kZ24jfrqoa2UDqc5BQZcjn2TV2UKi8-Q=w300-h400-no
+    title: "Jenner peak"
+    alt: "Jenner peak"
+    end_row: "true"
+
+  - url: https://lh3.googleusercontent.com/kiRj3b0RJuOcw3cXMeyvBO6rD0DNcCM1CGenJ7f3aefuaImgtMPKC0hUBGmBSlzMtdb02wgUShrI8aG1K7rIbKSw3D9bQHJBcJ7OaiS9dR0wBTY7p-PHeGqVxL07-O9MOcqpPjJrOKrfhBlAEpI7Xl3yLltmzh07b1iM3rxI1Xsilch94FAUMshZvsPEq2r1gm9RLT0djiJsiOas3ZFgvPiEYzbJ15dN0EPRFFs7KElk1sYHYFHVUxsOvhVg9PJTReO_uDK0QgxaQj0c81mPqew_v95MJl_pXItKLEashQLkkMCd5JnjJ5Nl0bUDRqGyhUxJKIi_DZMdm5cIwWmmrlcPG3pOkkKnUJ5uGV-s4BMaVJo2bN7B7yiilvx1Ml79E9EayVp5XJ5xPjw61TXZgoD-_ADRamH-wCLKgnrYvcRWu9CdfFbOjrwSCeWzp1AOrWGo8-_IDGE7zcfcbV_kmatd9h4fuErECK39nPpM5DtWhE2n9atJ1LS8wwltIjWRwpoy6tNzcqQKgiwyL9kVNaTklhILZNXeIS8dXoxUl7DFFIQfjdI0joxO0BNmZkVGfaUEwFXEAuZuNY9MAbaVyg0io06z57ToWNJA8dS4G6ZLxGnZpikgzbFNYXkm1JtRcKeC7pM5jiAbxgbCTBe8zVm099MoGro5j0P-CJenPNgzrrnOxhpBSz7lp8R5TIsIn5gW4TmmJPltbevVBCND873FEpMEjXuG36-JKxeKE-CFM-trJA=w2016-h1512-no
+    image_path: https://lh3.googleusercontent.com/kiRj3b0RJuOcw3cXMeyvBO6rD0DNcCM1CGenJ7f3aefuaImgtMPKC0hUBGmBSlzMtdb02wgUShrI8aG1K7rIbKSw3D9bQHJBcJ7OaiS9dR0wBTY7p-PHeGqVxL07-O9MOcqpPjJrOKrfhBlAEpI7Xl3yLltmzh07b1iM3rxI1Xsilch94FAUMshZvsPEq2r1gm9RLT0djiJsiOas3ZFgvPiEYzbJ15dN0EPRFFs7KElk1sYHYFHVUxsOvhVg9PJTReO_uDK0QgxaQj0c81mPqew_v95MJl_pXItKLEashQLkkMCd5JnjJ5Nl0bUDRqGyhUxJKIi_DZMdm5cIwWmmrlcPG3pOkkKnUJ5uGV-s4BMaVJo2bN7B7yiilvx1Ml79E9EayVp5XJ5xPjw61TXZgoD-_ADRamH-wCLKgnrYvcRWu9CdfFbOjrwSCeWzp1AOrWGo8-_IDGE7zcfcbV_kmatd9h4fuErECK39nPpM5DtWhE2n9atJ1LS8wwltIjWRwpoy6tNzcqQKgiwyL9kVNaTklhILZNXeIS8dXoxUl7DFFIQfjdI0joxO0BNmZkVGfaUEwFXEAuZuNY9MAbaVyg0io06z57ToWNJA8dS4G6ZLxGnZpikgzbFNYXkm1JtRcKeC7pM5jiAbxgbCTBe8zVm099MoGro5j0P-CJenPNgzrrnOxhpBSz7lp8R5TIsIn5gW4TmmJPltbevVBCND873FEpMEjXuG36-JKxeKE-CFM-trJA=w400-h300-no
+    title: "Our group for the weekend"
+    alt: "Our group for the weekend"
+
+  - url: https://lh3.googleusercontent.com/AMO9zDybfRhLrcPFpGk290RrVYvMfFyoWiGfpk4yheNd5CDoJFXpA2UXsq3sGGFxhLo44FdOzgPqqLFDwG8btS3WEmmA9xIgDu_0ZsbBEz2hdzwxA2ne67MFsCteZVKHfCjaULuekzCmYUEFE6QzQHV5l1JyiI0pRVjo39pP-OkF8pNR_GWztYvE-xa4Rl6cyK944aG8JvztFABwme-uVlTVmWlSWCERoBZTmABPQvyr4Ti2J-YBQxF6vrM22gjuBDlJ5jJBeWbZEvzdaekseGvzVHdR_qlFn-HFvLQqrmiRnf0E6QoWI5fF99nDB7wM7OX1s16fHN-fpU0T8D78vUuA_RaDz3-v7NE8Q8IJvzqdkvm3bVcLtO4VYutWnjMADJg4yUv3SYurMelYc0Zgt-WldjOzldCLl_4hBzDefBPBORpkOUwIyL9jbN9ComKnzGdY9xLAYytSYm4yKKXvRpn2Wi9Tok91_-_bXd2RHVMjWKPDP1uf3AkJcgV_HFMjI_Nh5xwoS_a_NetA3V4a5dUM1lsssC-yE5579hLmRRrWrkdU2KxWn4I565evoDgOlBMv9NkjopgwL6mSjbpI5ywJN8N6b9jMvCrWU3o4_xDseyoQlyYMmFnvHSVFZSCuKPIC1jc90P45WMQoweXYCKHYnXuZ572GrAHyLsbJl2zRmMUHIZEfF0KltoOnpu7dId9PAYvdZvXvwAMYcM8q8yWI6O-Pi4teqUVB-al4r4VKwMR_8Q=w2016-h1512-no
+    image_path: https://lh3.googleusercontent.com/AMO9zDybfRhLrcPFpGk290RrVYvMfFyoWiGfpk4yheNd5CDoJFXpA2UXsq3sGGFxhLo44FdOzgPqqLFDwG8btS3WEmmA9xIgDu_0ZsbBEz2hdzwxA2ne67MFsCteZVKHfCjaULuekzCmYUEFE6QzQHV5l1JyiI0pRVjo39pP-OkF8pNR_GWztYvE-xa4Rl6cyK944aG8JvztFABwme-uVlTVmWlSWCERoBZTmABPQvyr4Ti2J-YBQxF6vrM22gjuBDlJ5jJBeWbZEvzdaekseGvzVHdR_qlFn-HFvLQqrmiRnf0E6QoWI5fF99nDB7wM7OX1s16fHN-fpU0T8D78vUuA_RaDz3-v7NE8Q8IJvzqdkvm3bVcLtO4VYutWnjMADJg4yUv3SYurMelYc0Zgt-WldjOzldCLl_4hBzDefBPBORpkOUwIyL9jbN9ComKnzGdY9xLAYytSYm4yKKXvRpn2Wi9Tok91_-_bXd2RHVMjWKPDP1uf3AkJcgV_HFMjI_Nh5xwoS_a_NetA3V4a5dUM1lsssC-yE5579hLmRRrWrkdU2KxWn4I565evoDgOlBMv9NkjopgwL6mSjbpI5ywJN8N6b9jMvCrWU3o4_xDseyoQlyYMmFnvHSVFZSCuKPIC1jc90P45WMQoweXYCKHYnXuZ572GrAHyLsbJl2zRmMUHIZEfF0KltoOnpu7dId9PAYvdZvXvwAMYcM8q8yWI6O-Pi4teqUVB-al4r4VKwMR_8Q=w400-h300-no
+    title: "Crossing the ski resort, Mittekaser part"
+    alt: "Crossing the ski resort, Mittekaser part"
+
+  - url: 
+    image_path: 
+    title: ""
+    alt: ""
+    end_row: "true"
+
+  - url: 
+    image_path: 
+    title: ""
+    alt: ""
+
+  - url: 
+    image_path: 
+    title: ""
+    alt: ""
+
+  - url: 
+    image_path: 
+    title: ""
+    alt: ""
+    end_row: "true"
+
+  - url: 
+    image_path: 
+    title: ""
+    alt: ""
+
+  - url: 
+    image_path: 
+    title: ""
+    alt: ""
+
+  - url: 
+    image_path: 
+    title: ""
+    alt: ""
+    end_row: "true"
+
+  - url: 
+    image_path: 
+    title: ""
+    alt: ""
+
+  - url: 
+    image_path: 
+    title: ""
+    alt: ""
+---
+
+To include: 
+
+- hutte how it works
+- dog
+- last part - difficult if you hike after 13.10
+- middle station how to get ship
+
+{% include flexgallery id="gallery-berchtesgaden" caption="Berchtesgaden small round extended hike - Nov 19" %}
+
+## Tour info
+
+Drive
+: 1:45 hour from Munich
+
+Start
+: Parking lot at Jennerbahn, 5 euros per day
+
+Duration
+: 12 hours (we split it to two days)
+
+## Activity view
+
+### Day 1
+
+<iframe src="https://www.komoot.com/tour/102103505/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+
+Evening short hike after sunset
+
+<iframe src="https://www.komoot.com/tour/102103531/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+
+### Day 2
+
+Please note, the last part around Konigsee is not official path, there are parts which are not easy and might get tricky in various conditions.
+
+<iframe src="https://www.komoot.com/tour/102103947/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
