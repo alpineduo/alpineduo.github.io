@@ -87,6 +87,16 @@ gallery-berchtesgaden:
     alt: ""
 ---
 
+There was a bank holiday 1st of November in Bavaria, 3 days weekend. Friends from Slovakia came over and we decided to visit Berchtesgaden national park.
+
+Our hike started at Konigsee, Jenner ski lift parking lot. Friday was sunny day, at least around Salzburg as it was foggy all the way from Munich. Our proposed plan was to hike up to Carl von Stahl hutte where we would stay for one night. The hut is opened all year, can be booked online. Based on our pace and weather, we wanted to go to the surrounding peaks the first day. The second day to continue to complete kleine reibn - round hike tour.
+ 
+As we started almost at noon, we anticipated we might not be able to go much further from the hut. Our arrival was after 3pm, sorted out the room and went for a short walk for a sunset to Pfaffenkegel. We managed to get back for the dinner.
+
+We decided to extend small round hike to go to the opposite end of the Konigsee. I could not find boats going there but map shows some trails going around the hike. This was one of our surpises that day, more described below.
+
+Our second day started after 8 am. There were not much people going up to Schneibstein. The peak was covered by few centimeters of snow. As we were going higher, the temperature was dropping. The temperature at the top was just 2 degress. Therefore we did not stay long at the summit and continued towards Seeleinsee. We saw only 2 more hikers in front of us and later 2 hikers behind us, otherwise just us on this trail.
+
 To include: 
 
 - hutte how it works
