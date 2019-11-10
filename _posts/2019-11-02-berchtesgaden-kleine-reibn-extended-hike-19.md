@@ -90,19 +90,16 @@ gallery-berchtesgaden:
 There was a bank holiday 1st of November in Bavaria, 3 days weekend. Friends from Slovakia came over and we decided to visit Berchtesgaden national park.
 
 Our hike started at Konigsee, Jenner ski lift parking lot. Friday was sunny day, at least around Salzburg as it was foggy all the way from Munich. Our proposed plan was to hike up to Carl von Stahl hutte where we would stay for one night. The hut is opened all year, can be booked online. Based on our pace and weather, we wanted to go to the surrounding peaks the first day. The second day to continue to complete kleine reibn - round hike tour.
- 
+ 
 As we started almost at noon, we anticipated we might not be able to go much further from the hut. Our arrival was after 3pm, sorted out the room and went for a short walk for a sunset to Pfaffenkegel. We managed to get back for the dinner.
 
-We decided to extend small round hike to go to the opposite end of the Konigsee. I could not find boats going there but map shows some trails going around the hike. This was one of our surpises that day, more described below.
+We decided to extend small round hike to go to the opposite end of the Konigsee. I could not find boats going there but map shows some trails going around the hike. This was one of our surprises that day, more described below.
 
-Our second day started after 8 am. There were not much people going up to Schneibstein. The peak was covered by few centimeters of snow. As we were going higher, the temperature was dropping. The temperature at the top was just 2 degress. Therefore we did not stay long at the summit and continued towards Seeleinsee. We saw only 2 more hikers in front of us and later 2 hikers behind us, otherwise just us on this trail.
+Our second day started after 8 am. There were not much people going up to Schneibstein in the morning. The peak had 5 centimeters snow cover. As we were going higher, the temperature was dropping. As result we were putting back on our layers. The temperature at the top was just 2C. Therefore we did not stay long at the summit and continued towards Seeleinsee. We saw only 2 more hikers in front of us and later 2 hikers behind us, otherwise just us on this trail. As we were walking, we noticed dozen of Chamois.
 
-To include: 
+One moment, we thought we were looking at another Chamois. This time it was a dog. Suzi from the hut. She joined us. We did not know what to do as we were far away from the hut and had to continue our trail to make it for the last boat. She was leading and showing us her home. We increased our pace from Seilensee, as we knew there is still quite a trail ahead.
 
-- hutte how it works
-- dog
-- last part - difficult if you hike after 13.10
-- middle station how to get ship
+The last descent was challenging sometimes as trail was covered by leaves and lot of streams crossed the trail. We lost hundreds of meters within a hour or so. We were finally standing at Obersee and going to Konigsee. We realized our proposed path might not be ideal as there was almost a wall in front of us. We explored other options but none were ideal but we had to move as soon as possible, only more than a hour left before the sunset. Note, the hiking trail we did at the end is not recommended. We lost it for some time, where we were crossing steeper sections above the lake. The leaves made it more difficult as they were all over and we did not know what is under them. We were progressing and after one challenging part, the rest was fine - narrow trail most of the time. Our relief started as soon as we reached Kessel. We made it in time for one of the last boats. There was also stream where we could drink water. We were quite happy to be on the boat right before the sunset. We returned Suzi to her owners.
 
 {% include flexgallery id="gallery-berchtesgaden" caption="Berchtesgaden small round extended hike - Nov 19" %}
 
@@ -120,6 +117,8 @@ Duration
 ## Activity view
 
 ### Day 1
+
+Carl von Stahl hike
 
 <iframe src="https://www.komoot.com/tour/102103505/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
 
