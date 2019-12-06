@@ -1,5 +1,5 @@
 ---
-title: " Grubereck (von Kreuth) - Dec 19"
+title: " Grubereck (von Kreuth) hike - Dec 19"
 description: "Grubereck von Kreuth bavaria hike alpineduo"
 header:
   image: https://lh3.googleusercontent.com/xe2DIFdIBwnmszrZb8K59ojM8BLecj3DcPgz7MS5K1zqt8jBQcBRT870zQAvTap6XardvaD6lMdNJb-Mg0i6JWOu8P6tJ0A_40B5hkePfdSqp4LbYc1LiQNxn5ix8w36Iyn6ki_AbBJO6eZmDllcU34TD5rHKY-762zVg_EK9sVp6-0I0YCzQnick-efWhgOKkPgV-iczH33N-6FdrKH87OL8jThhYgaf3yvbG7OuUA-6AupnknZDCR4XwZnAr5bj053rUqq-g_rDFrYZ_4ZX_YgxcunlBTavCjVOw5vnOzyCUDRMtFiw6agfSG2213HxChMbHQpxBDctHZZnmyDq-3mh6P4e--3ebFlRV1EPhstYwz2_i9HBxcQdG3K23Xn7SR4qSOgXKRaiztyBg-IsBKxTHnZpokl2R5q1S_SmsuxxNlt5bb7UdWMs-IcCZn71h_N7KczUCqtajGEO5_j2OSKgej5V-At0G3D-CMjO_JUs8_WLwcYSLnFBNC_dgDA36KB_YHihrby2DKLzSZOgbGTHZpOjzbSQdViiXOi4lSOr0bh43o5ifgM-ZxfeviAnIMJwL9o83snqwUGWiGuqoAMd-uxfO4BQWyFriyDC63zVlWBVc5uaiXgtKKF-iZymTN0-Yl5VUFzyB-PRjDOtNXg7MXY-BNxI4nBxn5ybFCMXsx4uehJl5FL3rHtJl66uo6qlG3xpgbDCOu1PPPE96YTEkY1Qvg-LLy0oTaFreHDRLI=w952-h714-no
@@ -68,7 +68,7 @@ Drive
 : 45 min
 
 Start
-: Parking lot at Kreuth for 
+: Parking lot at Kreuth for 3 euros
 
 Ascent
 : 2.5 hrs
