@@ -1,7 +1,7 @@
 ---
 layout: default 
 permalink: /map
-title: "Interactive map"
+title: "Activity map"
 author_profile: true
 ---
 
