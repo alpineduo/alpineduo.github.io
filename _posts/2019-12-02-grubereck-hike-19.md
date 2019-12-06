@@ -17,7 +17,7 @@ tags:
   - grubereck 
 classes: wide
 
-gallery-name:
+gallery-grubereck:
   - url: https://lh3.googleusercontent.com/EGpusXAB1mqZJlFK_rv_C2VNkxg080Oyfl-9yUo-mxAYSlIROiR-yc1PXQ9RuzpPh6h703qVOnn9hKrBZa0-6cIcltrXcKkTA7_1CSwOjez9uWP9Wz6h3FTh-36EOEwnFhtVeREuRyShlFsV-u7CzoN-IZ_FkcKGvESiZf_dJuQUflURDS815XCSDGwwgS9C06q4EDac7qtHV20ABx_VcjQKk4TqW8CxWjYFl9CzhCADuJ9Ovb3cGC0kdEWY6_gcY1_DaCsBJzXq0OQfWoXZtTBxiDiQd8RhanDSU7RsWhUZOBdiz5JzR09DgAmMT_UYrlZgazEBY5i1LSMa927x3BpaaV54qf0rebQy7kLGwP0fr2pd0MhtysWyjVjiEmVUYX6MaQoPcof-C2ppMCuXji1BwKNDSmzvz3QDzeb6eRZCswzjPX258XJIZ1zjjXS2dOmHq3RcsGcXeNyvBukws5x4XiT3U10N7a7kITJOzgl1_WE1FgDl3lMzBbj8c0DjL-Za74jPe_xyOjfQ7XvvIKEK_UbVVSe-6J0l5GH3dGZEnqsztmyr8qbTYmiciCFvqfN40zPeaOVy7iZWmq1QrzMiNed3r5ZWxNfZXJJP25C2goC69bdCGWOPF5oHketpjx5V7SclQNHkG44aBcihra9HIcVzIRGG9iTXjCbNLmXVok6zczCJQDno_AH69C03j9qneeGtmbQH5mWKmuF-M7IK10RR1eWCUAjQbl_Qjw4oAms=w726-h967-no
     image_path: https://lh3.googleusercontent.com/EGpusXAB1mqZJlFK_rv_C2VNkxg080Oyfl-9yUo-mxAYSlIROiR-yc1PXQ9RuzpPh6h703qVOnn9hKrBZa0-6cIcltrXcKkTA7_1CSwOjez9uWP9Wz6h3FTh-36EOEwnFhtVeREuRyShlFsV-u7CzoN-IZ_FkcKGvESiZf_dJuQUflURDS815XCSDGwwgS9C06q4EDac7qtHV20ABx_VcjQKk4TqW8CxWjYFl9CzhCADuJ9Ovb3cGC0kdEWY6_gcY1_DaCsBJzXq0OQfWoXZtTBxiDiQd8RhanDSU7RsWhUZOBdiz5JzR09DgAmMT_UYrlZgazEBY5i1LSMa927x3BpaaV54qf0rebQy7kLGwP0fr2pd0MhtysWyjVjiEmVUYX6MaQoPcof-C2ppMCuXji1BwKNDSmzvz3QDzeb6eRZCswzjPX258XJIZ1zjjXS2dOmHq3RcsGcXeNyvBukws5x4XiT3U10N7a7kITJOzgl1_WE1FgDl3lMzBbj8c0DjL-Za74jPe_xyOjfQ7XvvIKEK_UbVVSe-6J0l5GH3dGZEnqsztmyr8qbTYmiciCFvqfN40zPeaOVy7iZWmq1QrzMiNed3r5ZWxNfZXJJP25C2goC69bdCGWOPF5oHketpjx5V7SclQNHkG44aBcihra9HIcVzIRGG9iTXjCbNLmXVok6zczCJQDno_AH69C03j9qneeGtmbQH5mWKmuF-M7IK10RR1eWCUAjQbl_Qjw4oAms=w300-h400-no
     title: "Ascent to Grubereck von Kreth"
@@ -34,44 +34,28 @@ gallery-name:
     alt: "Ascent from Grubereck "
     end_row: "true"
 
-  - url: 
-    image_path: 
-    title: ""
-    alt: ""
-
-  - url: 
-    image_path: 
-    title: ""
-    alt: ""
-
-  - url: 
-    image_path: 
-    title: ""
-    alt: ""
-    end_row: "true"
-
 ---
 
-And the fun goes on! A dear friend of mine, Anke, is visiting for a week and we planned to spend our time wisely: on the mountains of course!
+And the fun goes on! A dear friend of mine, Anke, is visiting for a week and we planned to spend our time wisely: in the mountains of course!
 
-We decided to go to Grubereck (1664m) von Kreuth. The hike is relatively close and easily accesible by car. It was pretty cold, despite the fact that we started around midday and it was a sunny day. It is December afterall. 
+We decided to go to Grubereck (1664 m.a.s.l) von Kreuth. The hike is relatively close and easily accessible by a car. It was pretty cold, despite the fact that we started around midday and it was a sunny day. It is December after all. 
 
-There was barely any snow below the three line. Once we crossed it, we finally got to walk on the fluffy white stuff. So much fun! First snow of the season make us always so happy. Since it was Monday and the snow was fresh, not many people have walked the treck before us. Therefore, it was not icy and we did not need to use crampons. 
+There was barely any snow below the three line. Once we crossed it, we finally got to walk on the fluffy white stuff. So much fun! First snow of the season make us always so happy. Since it was Monday and the snow was fresh, not many people have walked the track before us. Therefore, it was not icy and we did not need to use crampons. 
 
-Overall, very nice and easy treck with rewarding views. There are no huts along the way, make sure to pack some snacks. 
+Overall, very nice and easy track with rewarding views. There are no huts along the way, make sure to pack some snacks.
  
-{% include flexgallery id="gallery-name" caption=" - Dec 19" %}
+{% include flexgallery id="gallery-grubereck" caption="Grubereck hike - Dec 19" %}
 
 ## Tour info
 
 Drive
-: 45 min
+: 45 minutes
 
 Start
 : Parking lot at Kreuth for 3 euros
 
 Ascent
-: 2.5 hrs
+: 2.5 hours
 
 ## Activity view
 

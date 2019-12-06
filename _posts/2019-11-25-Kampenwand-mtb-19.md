@@ -3,7 +3,7 @@ title: " Kampenwand mtb round - November 2019"
 description: "Kampenwand mtb round -  November 2019"
 header:
   image: https://lh3.googleusercontent.com/c6rT0gr7JbRCMBsegv5iBsvKQVDkPwrhCrbRErCrslpoxl2JsEXTJhDjpQhAMojSLLbWrkJc8B4Fyuhtn5-tvp9peZgCyQqHp8jeg8F_Hho59-meLL6xmC1kWLCiwQYUiihVGfv5NyxlRz5v5fi3hB51x85maNUxDEPajoERB-916iS0_emnNCylexWiGmBsLg0HedxjSRYV6_swW8n7_R-0VpVN6fj0ekgCi-FGIltowwFYTu9quBGXEeXy7CS4_nTm5fO6R-k-N0F_Yb0hHwQt-Zdcw8gpfILTIFBDW-jYoad_-YVC938iY0AmfTrNgC8Wj8TUJn6YMZc_M76r5avchMfmmiVpPTCEngXghY_VsExGWNsX4EughIZo2yfvOChM-H6vxXJx3AdeSht3Onaw10pNwWfebjvohwBLPWdw2EczJK5CcqmqmME4_lMUJQF5RJtB0G1JesYBXAGG8DGqHyKq4flaSKwYrCBvbVHXxa58efhi5xjwJE2fiucAzgMOOXhASME9WUOTJ9GKBbtkOs4kZQThCu4E0Q1U8fWuTiG4MHLTUv2gvj9Xow928LY2ozEa5di3gPiN9eA1gSMSrC9OaiU3yhY5kWnruSd4t0czlU0BxvQGLrmdSRqWtWYDFxAiz6XfYtLgp7jifm00N4JdZwPiJsHR6qXH_n6Jz0i9bkYoeQmPTkY8F72BlvIKzFFeBs9pQ2mH4PAFwMf4_QLV5d4dmBLiDXMkLSiiDd8=w953-h714-no
-  teaser: https://lh3.googleusercontent.com/c6rT0gr7JbRCMBsegv5iBsvKQVDkPwrhCrbRErCrslpoxl2JsEXTJhDjpQhAMojSLLbWrkJc8B4Fyuhtn5-tvp9peZgCyQqHp8jeg8F_Hho59-meLL6xmC1kWLCiwQYUiihVGfv5NyxlRz5v5fi3hB51x85maNUxDEPajoERB-916iS0_emnNCylexWiGmBsLg0HedxjSRYV6_swW8n7_R-0VpVN6fj0ekgCi-FGIltowwFYTu9quBGXEeXy7CS4_nTm5fO6R-k-N0F_Yb0hHwQt-Zdcw8gpfILTIFBDW-jYoad_-YVC938iY0AmfTrNgC8Wj8TUJn6YMZc_M76r5avchMfmmiVpPTCEngXghY_VsExGWNsX4EughIZo2yfvOChM-H6vxXJx3AdeSht3Onaw10pNwWfebjvohwBLPWdw2EczJK5CcqmqmME4_lMUJQF5RJtB0G1JesYBXAGG8DGqHyKq4flaSKwYrCBvbVHXxa58efhi5xjwJE2fiucAzgMOOXhASME9WUOTJ9GKBbtkOs4kZQThCu4E0Q1U8fWuTiG4MHLTUv2gvj9Xow928LY2ozEa5di3gPiN9eA1gSMSrC9OaiU3yhY5kWnruSd4t0czlU0BxvQGLrmdSRqWtWYDFxAiz6XfYtLgp7jifm00N4JdZwPiJsHR6qXH_n6Jz0i9bkYoeQmPTkY8F72BlvIKzFFeBs9pQ2mH4PAFwMf4_QLV5d4dmBLiDXMkLSiiDd8=w800-h300no
+  teaser: https://lh3.googleusercontent.com/c6rT0gr7JbRCMBsegv5iBsvKQVDkPwrhCrbRErCrslpoxl2JsEXTJhDjpQhAMojSLLbWrkJc8B4Fyuhtn5-tvp9peZgCyQqHp8jeg8F_Hho59-meLL6xmC1kWLCiwQYUiihVGfv5NyxlRz5v5fi3hB51x85maNUxDEPajoERB-916iS0_emnNCylexWiGmBsLg0HedxjSRYV6_swW8n7_R-0VpVN6fj0ekgCi-FGIltowwFYTu9quBGXEeXy7CS4_nTm5fO6R-k-N0F_Yb0hHwQt-Zdcw8gpfILTIFBDW-jYoad_-YVC938iY0AmfTrNgC8Wj8TUJn6YMZc_M76r5avchMfmmiVpPTCEngXghY_VsExGWNsX4EughIZo2yfvOChM-H6vxXJx3AdeSht3Onaw10pNwWfebjvohwBLPWdw2EczJK5CcqmqmME4_lMUJQF5RJtB0G1JesYBXAGG8DGqHyKq4flaSKwYrCBvbVHXxa58efhi5xjwJE2fiucAzgMOOXhASME9WUOTJ9GKBbtkOs4kZQThCu4E0Q1U8fWuTiG4MHLTUv2gvj9Xow928LY2ozEa5di3gPiN9eA1gSMSrC9OaiU3yhY5kWnruSd4t0czlU0BxvQGLrmdSRqWtWYDFxAiz6XfYtLgp7jifm00N4JdZwPiJsHR6qXH_n6Jz0i9bkYoeQmPTkY8F72BlvIKzFFeBs9pQ2mH4PAFwMf4_QLV5d4dmBLiDXMkLSiiDd8=w800-h300-no
   caption: "alpineduo"
 categories: mtb
 tags:
@@ -41,20 +41,15 @@ gallery-name:
     title: "good wather is over back in low lands"
     alt: "good wather is over back in low lands"
 
-  - url: 
-    image_path: 
-    title: ""
-    alt: ""
-    end_row: "true"
-
 ---
-Although it is almost the end of November, the weather was playing along for some biking. I did a round tour around Kampenwand. Actually the route was more like 3 little rounds below the Kmpenwand. 
 
-The first part was actually not a very exciting one - maybe i would skip it next time. Little urban bibking from the parking lot and some forests. The second part was really nice. An not all to easy hike with great views, some little S1 descents. The last part has the most singletrials, easy ones. However, they were covered by leaves which made it imposible to see the surface and the whole thing was very slippery. Surprisingly, I met quite a lot of bikers that day.
+Although it is almost the end of November, the weather was playing along for some biking. I did a round tour around Kampenwand. Actually the route was more like 3 little rounds below the Kampenwand. 
 
-The most exciting of the day was the wather, ironically. While it was totally coudy,foggy and cold in Munich, it was sunny and relatively warm in Aschau in Chiemgau. I was actually waering a short sleeved shirt on the way uo, pretty sweet taste of sommer just before winter. 
+The first part was actually not a very exciting one - I maybe would skip it the next time. Little urban biking from the parking lot and some forests. The second part was really nice. Not all to easy hike with great views, some little S1 descents. The last part has the most singletrials, easy ones. However, they were covered by leaves which made it impossible to see the surface and the whole thing was very slippery. Surprisingly, I met quite a lot of bikers that day.
 
-{% include flexgallery id="gallery-name" caption=" - Dec 19" %}
+The most exciting of the day was the weather, ironically. While it was totally cloudy, foggy and cold in Munich, it was sunny and relatively warm in Aschau in Chiemgau. I was actually wearing a short sleeved shirt on the way up, pretty sweet taste of summer just before winter.
+
+{% include flexgallery id="gallery-name" caption="Kampenwand mtb - Nov 19" %}
 
 ## Tour info
 
@@ -65,7 +60,7 @@ Start
 : Parking lot at Aschau im Chiemgau
 
 Ascent
-: 2hrs
+: 2 hours
 
 ## Activity view
 

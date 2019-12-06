@@ -1,6 +1,6 @@
 ---
-title: "Wendelstein - Dec 19"
-description: " Wendelstein - Dec 19 "
+title: "Wendelstein hike - Dec 19"
+description: " Wendelstein hiking bavaria - Dec 19 "
 header: 
   image: https://lh3.googleusercontent.com/0NpsXe9VmQ3-HdVgTaat2bE8fwCtEYljbGWORsvi4JsppUfQQCJlmfWAj0zb3VU5DorDSIiORWa3NmpRFwRh49RJQPvYBDxh5XNpbinOOsMdYeiLJ2gHx3mikogAL3dM85qd7MoLDPc2LH1N6lfHh3Fpwt3w9G9RbqJziz4FYcChcAvKXH_VJZKRAdxM3qDshv8oSXCr4Mvyv_ku8fZr5XI7fztugqJSqSFq9OIdN1FWUGQVr_mtjCVehxi-rIFFAqsCbwJgIMDpn-bCeAau4EMB1hPeXyMxYI4uQ1OcZWR50svy1DnpB3qW8PWDbf7xGdnaQzAfQMAJGaL4rhl9lRFHU7G6Ju1G69QC_2dAYUQqJKOPqnbFOpGCyS_94xYTW9MOQvMP1pvlRFP6b44r6icc_2l5hzZc-SS1HUFnd_2PCiX1crdgqJx1nnVeuxUmpLxqLur6AAW1Ada54BhFqfETnsOTYqa4Y-I3XCmSCpsSBwtKx6oX-HxOV3JLhVFqgu7-eCJ-iWovQkl3eZATNf1Dh6b3VKSiuq80kuGv9knLpgYz3glrdSgkZXzMt9FJToaYaUe4huQqme5TBQJjhbepSJwq3vfSGIJ9CP0qv6ffhFFDsFkugo58OguCg8YHjbgYLTWWJMJ-irXdo-BGfEzITt3-t0ber_SgAoumgxeMBTSQVNS1VmDBVVCsp_0a3LvQh0PQcTWFN1OvrQDev8ia1EuAJihngGdFFzM3j5t4D_o=w952-h714-no
   teaser: https://lh3.googleusercontent.com/0NpsXe9VmQ3-HdVgTaat2bE8fwCtEYljbGWORsvi4JsppUfQQCJlmfWAj0zb3VU5DorDSIiORWa3NmpRFwRh49RJQPvYBDxh5XNpbinOOsMdYeiLJ2gHx3mikogAL3dM85qd7MoLDPc2LH1N6lfHh3Fpwt3w9G9RbqJziz4FYcChcAvKXH_VJZKRAdxM3qDshv8oSXCr4Mvyv_ku8fZr5XI7fztugqJSqSFq9OIdN1FWUGQVr_mtjCVehxi-rIFFAqsCbwJgIMDpn-bCeAau4EMB1hPeXyMxYI4uQ1OcZWR50svy1DnpB3qW8PWDbf7xGdnaQzAfQMAJGaL4rhl9lRFHU7G6Ju1G69QC_2dAYUQqJKOPqnbFOpGCyS_94xYTW9MOQvMP1pvlRFP6b44r6icc_2l5hzZc-SS1HUFnd_2PCiX1crdgqJx1nnVeuxUmpLxqLur6AAW1Ada54BhFqfETnsOTYqa4Y-I3XCmSCpsSBwtKx6oX-HxOV3JLhVFqgu7-eCJ-iWovQkl3eZATNf1Dh6b3VKSiuq80kuGv9knLpgYz3glrdSgkZXzMt9FJToaYaUe4huQqme5TBQJjhbepSJwq3vfSGIJ9CP0qv6ffhFFDsFkugo58OguCg8YHjbgYLTWWJMJ-irXdo-BGfEzITt3-t0ber_SgAoumgxeMBTSQVNS1VmDBVVCsp_0a3LvQh0PQcTWFN1OvrQDev8ia1EuAJihngGdFFzM3j5t4D_o=w800-h300-no
@@ -18,8 +18,8 @@ tags:
   - wendelsteinbahn
 classes: wide
 
-gallery-name:
-  - url: https://lh3.googleusercontent.com/of60M7ee9uYAPijAWOCqdb7Cpb9SLZX0-FVFNFYuC7kRrVwVNkorpVxxk3sYPHJJHs1kB-BAEn2Pua7KZc6Lt3wFxpkZ-TyU4JiNQLFarvHrbkUFhi72rT9y1jHCirHjaDwzXy6se_6NCVHcdeZVsczhaLTjIG7Se-bkBHmk2mEnC6HSAWEeIEVay8PZj6B3GH4c3e064hrHeSoz_imPhVmGrY143ge5QdjrAcsyLDNuZVbbp6llQZTOrilnjofjLXbvz4NgbF5lUyWB_4gWXPJpR4NgwAbmNMHN2Q5mNlJuvKIMUgsn5cwP5vtIT7lipP8xCVD8rkAq5mwXwqnBXlo7vPDN2x6CmoWfC6kJpqK8Kw11zqbTEEkXHfvN35g132IDH9fDAO8sP2646hHzo_tnQTnO7QvLBYN-ARcqW9m71bmH94xyJoVLFywDDWg0Z8C6I76584H0vvCevvnpws227r1eQNuCwm-szW50FCkwrkUtUm3AwH2I6paDUI0_SBR2FGM71WhG_2vFcxGkxxaE8ThN1fAU_BycuQUs51Ud2tCYz3CPzTTNB8Hqpil779ZGck4S22gey-bdG2F1KCGA0uEq5G9VOCjj0l_f88uhO5EKexIfsyg6yOcl6vMaQmoClYvH7phSVRBuV7ZNpXVfLak47MYYEnKrijUjIrUbXkHJ19z-Jsbh5tdMNLXopNiB2xBR8q5abdpeHyUwYK-8uvJubUyOoSTvVkIbDoOgHR0=w952-h714-no
+gallery-wendelstein:
+  - urlWendelstein hike: https://lh3.googleusercontent.com/of60M7ee9uYAPijAWOCqdb7Cpb9SLZX0-FVFNFYuC7kRrVwVNkorpVxxk3sYPHJJHs1kB-BAEn2Pua7KZc6Lt3wFxpkZ-TyU4JiNQLFarvHrbkUFhi72rT9y1jHCirHjaDwzXy6se_6NCVHcdeZVsczhaLTjIG7Se-bkBHmk2mEnC6HSAWEeIEVay8PZj6B3GH4c3e064hrHeSoz_imPhVmGrY143ge5QdjrAcsyLDNuZVbbp6llQZTOrilnjofjLXbvz4NgbF5lUyWB_4gWXPJpR4NgwAbmNMHN2Q5mNlJuvKIMUgsn5cwP5vtIT7lipP8xCVD8rkAq5mwXwqnBXlo7vPDN2x6CmoWfC6kJpqK8Kw11zqbTEEkXHfvN35g132IDH9fDAO8sP2646hHzo_tnQTnO7QvLBYN-ARcqW9m71bmH94xyJoVLFywDDWg0Z8C6I76584H0vvCevvnpws227r1eQNuCwm-szW50FCkwrkUtUm3AwH2I6paDUI0_SBR2FGM71WhG_2vFcxGkxxaE8ThN1fAU_BycuQUs51Ud2tCYz3CPzTTNB8Hqpil779ZGck4S22gey-bdG2F1KCGA0uEq5G9VOCjj0l_f88uhO5EKexIfsyg6yOcl6vMaQmoClYvH7phSVRBuV7ZNpXVfLak47MYYEnKrijUjIrUbXkHJ19z-Jsbh5tdMNLXopNiB2xBR8q5abdpeHyUwYK-8uvJubUyOoSTvVkIbDoOgHR0=w952-h714-no
     image_path: https://lh3.googleusercontent.com/of60M7ee9uYAPijAWOCqdb7Cpb9SLZX0-FVFNFYuC7kRrVwVNkorpVxxk3sYPHJJHs1kB-BAEn2Pua7KZc6Lt3wFxpkZ-TyU4JiNQLFarvHrbkUFhi72rT9y1jHCirHjaDwzXy6se_6NCVHcdeZVsczhaLTjIG7Se-bkBHmk2mEnC6HSAWEeIEVay8PZj6B3GH4c3e064hrHeSoz_imPhVmGrY143ge5QdjrAcsyLDNuZVbbp6llQZTOrilnjofjLXbvz4NgbF5lUyWB_4gWXPJpR4NgwAbmNMHN2Q5mNlJuvKIMUgsn5cwP5vtIT7lipP8xCVD8rkAq5mwXwqnBXlo7vPDN2x6CmoWfC6kJpqK8Kw11zqbTEEkXHfvN35g132IDH9fDAO8sP2646hHzo_tnQTnO7QvLBYN-ARcqW9m71bmH94xyJoVLFywDDWg0Z8C6I76584H0vvCevvnpws227r1eQNuCwm-szW50FCkwrkUtUm3AwH2I6paDUI0_SBR2FGM71WhG_2vFcxGkxxaE8ThN1fAU_BycuQUs51Ud2tCYz3CPzTTNB8Hqpil779ZGck4S22gey-bdG2F1KCGA0uEq5G9VOCjj0l_f88uhO5EKexIfsyg6yOcl6vMaQmoClYvH7phSVRBuV7ZNpXVfLak47MYYEnKrijUjIrUbXkHJ19z-Jsbh5tdMNLXopNiB2xBR8q5abdpeHyUwYK-8uvJubUyOoSTvVkIbDoOgHR0=w400-h300-no
     title: "Ascent to Wendelstein"
     alt: "Ascent to Wendelstein"
@@ -31,8 +31,8 @@ gallery-name:
 
   - url: https://lh3.googleusercontent.com/h9bIjRrVZJ8eEsjutfcvRPr3LlSh1vhgMcHGO1EnHGCKFxmtfnr3wzkupCz9pxNSsn1Ie4mke3Yhk4r1uRvIaljqBdEfROUcDn_qJm6GoiWInQ83BFiFAgcGeQbPE5rdct85RkPg0JGOrDCpesi_FgtQzvpp0bcvK-Ydnb5M1Bhu5GkKjH1kESUEgsgiuBzEFMvZRPcQVznAMC3ELi_KXmxR3rylarxHE1ZEGpPHkrtaZlvQN-r4C3orUCYdGV9gOEOsmAkX9YL11xXv9tbSWEFoo45Tlu3IPbFGE54TZnvHT7POcJX_lG6Klvma2qf-0ROJJXV-R725w8HBCU6DDoo32GVGPOnOk8lATPqFz843gNG7eX94Z2jLYk2KvaTfkGt1wqSjcgnzjE-p4AeQmIFUuFMag0GEuxSuGkWgW-pU6vNpYtkRyai-yGiUd8XNd5NmfoNDGV-TfY0Mi8W5kj_fvJNEphK_G-GcdSXqZhoaRooKGKkX6GcYbqJjD30rmiM2p8ufvfmacTZM2Z0cCMq4yxi7n4SUOsVsXTIDBtlIiqxSEOTctzbJBWIh3JKV3kic_oc-uIR1Z1ln958i-kJ3BTMFUqO_b1QZr154ff1gxXNgMguBUf6IAA8snNfBJ573uq-nxkFjKk6s5J1bg8id6-si4_jUBlVbNPzll3Dw94Nq2kCAY-uUN-2Y1bAWvQVQr7zwLgf-y0IsPBmBpsqefxDo_5vxQdY0JDjlGyqftzU=w952-h714-no
     image_path: https://lh3.googleusercontent.com/h9bIjRrVZJ8eEsjutfcvRPr3LlSh1vhgMcHGO1EnHGCKFxmtfnr3wzkupCz9pxNSsn1Ie4mke3Yhk4r1uRvIaljqBdEfROUcDn_qJm6GoiWInQ83BFiFAgcGeQbPE5rdct85RkPg0JGOrDCpesi_FgtQzvpp0bcvK-Ydnb5M1Bhu5GkKjH1kESUEgsgiuBzEFMvZRPcQVznAMC3ELi_KXmxR3rylarxHE1ZEGpPHkrtaZlvQN-r4C3orUCYdGV9gOEOsmAkX9YL11xXv9tbSWEFoo45Tlu3IPbFGE54TZnvHT7POcJX_lG6Klvma2qf-0ROJJXV-R725w8HBCU6DDoo32GVGPOnOk8lATPqFz843gNG7eX94Z2jLYk2KvaTfkGt1wqSjcgnzjE-p4AeQmIFUuFMag0GEuxSuGkWgW-pU6vNpYtkRyai-yGiUd8XNd5NmfoNDGV-TfY0Mi8W5kj_fvJNEphK_G-GcdSXqZhoaRooKGKkX6GcYbqJjD30rmiM2p8ufvfmacTZM2Z0cCMq4yxi7n4SUOsVsXTIDBtlIiqxSEOTctzbJBWIh3JKV3kic_oc-uIR1Z1ln958i-kJ3BTMFUqO_b1QZr154ff1gxXNgMguBUf6IAA8snNfBJ573uq-nxkFjKk6s5J1bg8id6-si4_jUBlVbNPzll3Dw94Nq2kCAY-uUN-2Y1bAWvQVQr7zwLgf-y0IsPBmBpsqefxDo_5vxQdY0JDjlGyqftzU=w400-h300-no
-    title: " "Summit" photo "
-    alt: " "Summit" photo "
+    title: " \"Summit\" photo"
+    alt: "Summit photo "
     end_row: "true"
 
   - url: https://lh3.googleusercontent.com/RpqfZM4dCTvVHIsaz_WM49Je2wJTZ-KC6JwoCpudPtXHbIoCMo0jFEVoPRNNPO3iI4RL7Dp_v65nfdnYFzDSHvleRv1toThycJfVuqG4Pqebsl0rHTdpCJel510qYzDvM_7UrqTcSZPzYYiaQ18FMz4YlVdL-6qJxwYEKZJL7-7eectJvA1bRQTvp1kWuMDQKtdsjnoTgwa5_Jfxj6VpuSJkFnWLnRL1nWdG986tSJkz1duonHH8TKcbPgjmB8tzWXgTIBzPsk4aFPsGZsV9TklpbLzkY_DCXhr5a0gBYvvEPBgijx_e6VGS21MXvNu7IDB_s-aO5ZUFNxSQDUY3GlURsAEMHmRtX9gWQQPwRmk0nkewNJ-xiaqaPNLnhxQK94RNAmgaaFSbQM278_u53IEC_kuY7PM0L5GVaZ-_mwic1WRtEoitB4NKDuORoP3BQDw7H0CHmdffuvBovBJlIm5bC-ozmr7Y4HQbI8IUSGIAxCcPSQgceWZ9lLKn2AkUAA24pqsJyI1qLpwS2y5mNJ8rzOT5YLkICkWlIULRyScO2bYt4b2ZlHtFzYdSmjQMlWkiF8pGE3aiCY9AMU-Zg-qr-lbq0aZL2riLtX084kfSkOUj5ufPuVj19onKnzVPxtA7FDyY-nqio7qIqyyVpTG2RGUs4sF8fdPt2a3xNjJfwfs6VVUpFcvMIVyaV8zYzDVBdkIOwdYDBSNOfZmaSBftG-la9M_FEzp_Xx-w3kxSKGA=w952-h714-no
@@ -45,37 +45,30 @@ gallery-name:
     title: "Wendelstein in the sunset"
     alt: "Wendelstein in the sunset"
 
-  - url: 
-    image_path: 
-    title: ""
-    alt: ""
-    end_row: "true"
-
 ---
 
- Considered a must do tour while in Munich by many. So we decided Anke should not miss this one. Luckily the weather played along and we were able to do it. 
+Considered a must do tour while in Munich by many. So we decided Anke should not miss this one. Luckily the weather played along and we were able to do it. 
 
- Our original plan was to start in the morning, but we failed terribly - for no reason in particular. We just kinda had a nice sttress-free breakfest and it took some time. Finally, we started at noon again. At least it was nice and cozy by the time we started walking. 
+Our original plan was to start in the morning, but we failed terribly - for no reason in particular. We just kinda had a nice stress-free breakfast and it took some time. Finally, we started at noon again. At least it was nice and cozy by the time we started walking. 
 
- The ascent was almost below the snow line was snow free. As soon as we were in the open the path went through snow. Partially it was slippery and shoe chains came in handy. Once we arrived at the upper station of the Wendelstein Bahn we had some lunch. 
+The ascent was almost below the snow line was snow free. As soon as we were in the open the path went through snow. Partially it was slippery and shoe chains came in handy. Once we arrived at the upper station of the Wendelstein Bahn we had some lunch. 
 
- The descent was a bit trickier. By the time we were coming down, most of the preciously snowy party have become icy. Challanging, but doable if one walks carefully. We got the the parking lot and it was dark. 
+The descent was a bit trickier. By the time we were coming down, most of the preciously snowy party have become icy. Challenging, but doable if one walks carefully. We got the the parking lot and it was dark. 
 
 Another great day with great company, and more to come. Keep tuned !
 
-
-{% include flexgallery id="gallery-name" caption=" - Dec 19" %}
+{% include flexgallery id="gallery-wendelstein" caption="Wendelstein hike - Dec 19" %}
 
 ## Tour info
 
 Drive
-: 1 hr
+: 1 hour
 
 Start
-: Parking lot at Weldenstein Bahn for 2 eur 
+: Parking lot at Weldenstein Bahn for 2 euros
 
 Ascent
-: 2.5  hrs
+: 2.5 hours
 
 ## Activity view
 
