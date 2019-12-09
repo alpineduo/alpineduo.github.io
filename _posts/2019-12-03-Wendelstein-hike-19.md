@@ -47,13 +47,13 @@ gallery-wendelstein:
 
 ---
 
-Considered a must do tour while in Munich by many. So we decided Anke should not miss this one. Luckily the weather played along and we were able to do it. 
+Wendelstein is considered a must do tour while in Munich. So we decided Anke should not miss this one. Luckily the weather played along and we were able to do it. 
 
-Our original plan was to start in the morning, but we failed terribly - for no reason in particular. We just kinda had a nice stress-free breakfast and it took some time. Finally, we started at noon again. At least it was nice and cozy by the time we started walking. 
+Our original plan was to start in the morning, but we failed terribly - for no reason in particular. We just kinda had a nice stress-free breakfast and it took some time. Finally, we started at noon again. At least it was nice and cosy by the time we started walking. 
 
-The ascent was almost below the snow line was snow free. As soon as we were in the open the path went through snow. Partially it was slippery and shoe chains came in handy. Once we arrived at the upper station of the Wendelstein Bahn we had some lunch. 
+The ascent below the tree line was snow free. There was snow cover above the it. Partially it was slippery and shoe chains came in handy. 
 
-The descent was a bit trickier. By the time we were coming down, most of the preciously snowy party have become icy. Challenging, but doable if one walks carefully. We got the the parking lot and it was dark. 
+The descent was a bit trickier. By the time we were coming down, most of the previously snowy parts have become icy. Challenging, but doable if one walks carefully. By the time we got the the parking lot it was dark already. 
 
 Another great day with great company, and more to come. Keep tuned !
 
