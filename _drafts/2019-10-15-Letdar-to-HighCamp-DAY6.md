@@ -77,7 +77,7 @@ Duration
 : 2:49 + 2:19
 
 Moving time:
-: 2:34 + 2:16
+: 1:46 + 31:34
 
 ## Activity view
 <iframe src="https://www.komoot.com/tour/105571498/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
