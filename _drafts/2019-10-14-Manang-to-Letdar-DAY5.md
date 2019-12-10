@@ -74,7 +74,7 @@ Duration
 : 3:35 + 2:19
 
 Moving time
-: 2:02 + 2:53
+: 2:38 + 1:17 
 
 
 ## Activity view
