@@ -78,7 +78,7 @@ Distance
 : 15km
 
 Duration
-: &.14
+: 6:14
 
 Moving time
 : 4:26
