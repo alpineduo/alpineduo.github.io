@@ -124,7 +124,10 @@ Distance
 : 23.4km
 
 Duration
-: 8.5hrs
+: 8:27
+
+Moving time
+: 5:24
 
 ## Activity view
 <iframe src="https://www.komoot.com/tour/105551725/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
