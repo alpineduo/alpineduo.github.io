@@ -1,4 +1,4 @@
----
+  ---
 title: "Day 2: Chame to Upper Pissang (North Route)- Oct 19"
 description: "Day 2: Chame to Upper Pissang (North Route)- Oct 19"
 header:
@@ -114,7 +114,10 @@ Distance
 : 18.8km
 
 Duration
-: 3.5hrs
+: 4:52
+
+Moving time
+: 3:05
 
 
 ## Activity view
