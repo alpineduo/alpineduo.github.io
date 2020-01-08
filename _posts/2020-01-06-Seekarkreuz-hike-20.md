@@ -73,13 +73,13 @@ gallery-seekarkreuz:
 
 Still a snow-less winter. It calls for another hike. But hey, stay optimistic, winter eventually will have to show up at some point...
 
-The start of the hike is from Hohenburger parking lot. We starting ascending on a dirt road, which lead to a forest path later on. You will pass the Lengries Hütte after 1.5hrs of walk, or so. Then its another forest path all the way to the ridge. The views from there are great. We were lucky and had clear to see all surrounding mountain ranges. 
+The start of the hike is from Hohenburger parking lot. We starting ascending on a dirt road, which lead to a forest path later on. You will pass the Lengries Hütte after 1.5 hours of walk, or so. Then its another forest path all the way to the ridge. The views from there are great. We were lucky and had clear to see all surrounding mountain ranges. 
 
-We have met the first skitourers of the season here. They probably started from the other side, otherwise they would have had to carry their skies from Hohenburger parking lot. To be honest, we were a little jealous watching them shred, but happy for them at the same time of course. 
+We have met the first skitourers of the season here. They probably started from the other side, otherwise they would have had to carry their skies from Hohenburger parking lot for about a hour. To be honest, we were a little jealous watching them shred, but happy for them at the same time of course. 
 
 Nonentheless, the lack of sliding motion lead us to use some plastic bags to descent the mountain towards Lengries Hütte. So much fun! We felt like kids again. Watch out for the stones though! When we got back to the hut it was crowded. We got a bier on the sunny terace and left. 
 
-We took a differnt path for the descent. "macky" came in handy as some parts of the forest path were completely icy. Before we knew it, and after many but many "servus" we were at the parking lot again. A nice day out. 
+We took a differnt path for the descent. Hiking spikes came in handy as some parts of the forest path were completely icy. Before we knew it, and after many but many "servus" we were at the parking lot again. A nice day out. 
 
 
 {% include flexgallery id="gallery-seekarkreuz" caption="Seekarkreuz - Jan 20" %}
