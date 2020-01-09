@@ -71,7 +71,9 @@ gallery-seekarkreuz:
     alt: "The valley with sun. We are almost back to our start."
 ---
 
-Still a snow-less winter. It calls for another hike. But hey, stay optimistic, winter eventually will have to show up at some point...
+Happy New Year everyone! 
+
+Still a snow-less winter. It calls for another hike. But hey, stay optimistic, winter eventually will have to show up at some point... Martin is glad as it is as he had an accident in December and might skip this winter season due to longer recovery period.
 
 The start of the hike is from Hohenburger parking lot. We starting ascending on a dirt road, which lead to a forest path later on. You will pass the Lengries Hütte after 1.5 hours of walk, or so. Then its another forest path all the way to the ridge. The views from there are great. We were lucky and had clear to see all surrounding mountain ranges. 
 
