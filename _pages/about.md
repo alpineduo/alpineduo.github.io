@@ -18,7 +18,7 @@ We are two weirdos who perfectly complement each other. Together we are a young,
 </div>
 <br/>
 <div>
-Then Dana is a forever student who, if it wasn't for Martin, would probably still live of a backpack and move to a different country each couple of months. She has (not so) secret obsession with dogs. Chit-Chat contents are most likely her coeuvre.
+Then Dana is a data engineer who, if it wasn't for Martin, would probably still live of a backpack and move to a different country each couple of months. She has (not so) secret obsession with dogs. Chit-Chat contents are most likely her coeuvre.
 
 </div>
 
