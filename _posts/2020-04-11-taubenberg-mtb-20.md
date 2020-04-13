@@ -89,8 +89,16 @@ gallery-taubenberg:
 
 ---
 
+We are still in not easy situation but at least the outside non-adrenaline activities are encouraged. The last weekend we decided to do a cycling from Aying. It was our first time visiting Taubenberg. We will return as it is easily accessible and there are couple of trails to be chosen (not all of them are shown in the maps as I noticed). Our starting point was Bildham Tierpark. The parking lot is closed currently. The first suprise was after the village Aschbach, where is 17% grade. We realized we will need to return the same way. Luckily for us, it is quite short and not that steep as it looked at first.
 
-{% include flexgallery id="gallery-name" caption="Taubenberg mtb - Apr 20" %}
+We cross Mangfall river and start cycling along the river. The forest road, or sometimes trail goes along the river for about 8 kilometers. As we crossed the river second time, we made a mistake to continue along the river. The trail looks good from the start, however there are lot of fallen trees later. We carried our bike too many times and were looking for escape path. If the trail would be clean, it would be definitely fun (S0-S1 trail). After we went under the highway, we climbed our way to Oberdarching where the road part starts. It is just 5 kilometers until reaching Taubenberg forest road.
+
+Climbing Taubenberg is short (below 200 ascent meters to the top) but rewarding. The prealps peaks are visible from the top. There were only handful of people there with us. We continued to the descent part. The trail starts almost rightaway from the top. It is quite short and we joined again the forest road. It goes all the way down. Our next stop is Seehamer See. We made a short stop here and continued back to our starting point. The return path is not that much interesting compare to the start. Most of the way is asphalt or meadow gravel roads. The last climb that we were so afraid was few minutes of pedaling and wondering later why we imagined it to be much steeper.
+
+Anyway, good ride with one section to be avoided and some other sections to be found!
+
+
+{% include flexgallery id="gallery-taubenberg" caption="Taubenberg mtb - Apr 20" %}
 
 ## Tour info
 
