@@ -139,7 +139,7 @@ The last days of our hiking in Tajikistan. We completed the Fann mountains cross
 30.7 - we wake up in middle of meadows. The weather is as any other of these 3 weeks - sunny. Quite stable weather here as promised. We cross these meadows, searching for a path. It starts and then disappears. We stick to the river and follow it. Once in a while we turn our heads back to see Fann mountains, Energia visible from here. 
 We reached almost the end of the valley later in the afternoon. There is snow above us (100 meters higher) and we know we will be traversing some glaciers tomorrow. It was not that simple to find a good camping spot as there are lot of streams and not much dry flat ground but we managed go find one. Lot of saddles are visible from our camping spot. We search for our saddle we want to cross - Nadezda saddle. Initially, we thought it is further up and there is already a glacier by looks of it but no, it is the closest saddle on the left.
 
-31.7 - this was supposed to be a long day as we should be crossing glacier and go through the three saddles. We start early in the morning, and ascending fast to Nadezda saddle. There are trails visible, we follow some from time to time. We are walking on rocky terrain, bigger rocks from time to time and approaching the saddle, no snow yet here. We reach the saddle after more than 3 hours hiking. The views are incredible, the next valley is covered by snow and glaciers, our path is visible from here and we are exploring how glaciers moved and checking for cracks. The terrain is most of the time flat compare to previous days. We all get ready for glacier crossing.
+31.7 - this was supposed to be a long day as we should be crossing glaciers and go through the three saddles. We start early in the morning, and ascending fast to Nadezda saddle. There are trails visible, we follow some from time to time. We are walking on rocky terrain, bigger rocks from time to time and approaching the saddle, no snow yet here. We reach the saddle after more than 3 hours hiking. The views are incredible, the next valley is covered by snow and glaciers, our path is visible from here and we are exploring how glaciers moved and checking for cracks. The terrain is most of the time flat compare to previous days. We all get ready for glacier crossing.
 Another 3 hours of walking and we are sitting at the second saddle of the day. This is easy, isn't it? White pyramid peak is visible finally, also the saddle Usko that we would like to cross later today. However our moral is lower today as usual. We arrive below Usko saddle where we decide to camp. We do not have strength to go up and then down to find another camping spot. There is no camp place here however, full of rocks, snow just 30 meters from us, so we create our own camping spot. Using ice axes, we dig rocks and make a ground flat for our tents. Later in the evening we are talking about possibilities for the next day. The conclusion is to go back to the civilization and split. Part of us go to visit the capital city Dushanbe and the second part stays in mountains a bit longer and we all meet in Panjakent. We enjoy the scenery, so many peaks around us. Once the sun goes down, it gets very cold as we are very close to glaciers. We experience one of the colder nights.
 
 1.8 - we do not want to get out of our sleeping bags as we know it is freezing outside. We slowly wake up and make breakfast. Soon enough, we are descending down through the valley. As usuall, we are jumping over streams, crossing rivers or jumping with heavy backpacks over big rocks. It is our routine for 3 weeks. We harry up to make it to the Iskanderkul today. We anticipate we can do it but need to be in a hurry. The worst part of the day, actually there are two parts. 
@@ -148,26 +148,26 @@ First, mosquitos attack close to the Iskanderkul. We jump into hundreds of them,
 2.8 - we start walking on the road, hoping to hitch hike. We got lucky again but not that much. The truck driver stopped and let us hop on to the rear part. It was full of dust (they haven't cleaned the rear part for years) and it was covered all around so not much fresh oxygen during the ride. I quickly regret choosing this idea and just holding tight and counting minutes. Not much fun but thinking of it now, all went good - what an experience. As I stay attached to the front cabing. My friends are in the rear part. We are all covered in dust (breathing was hard) and do not know what is going on outside as we do not see anything. The road was not an asphalt road, curvy dusty road often just for one car so stop, let something pass and move again. We were jumping and going from left to right, like a roller coaster ride. 
 I am so happy once the truck stops. We know this is time to hop off. We survived! We end up at the main road, leading to Dushanbe. We stop another car, all 3 of us are able to fit in with backpacks. The main road leading to Dushanbe is another adventure. It goes through mountains so up to above 3000 meters and down again. There is the Anzob tunnel. What an experience! The dark place full of dust, holes. Once we cross this tunnel, there is a new asphalt road to the valley, safer as the other part. We arrive early afternoon to Dushanbe and start exploring the city.
 
-3.8 - We are staying in Dushanbe and exploring the city.
+3.8 - We are staying in Dushanbe and exploring the city. It was worth coming here, different type of city. We event met one local guy who can speak Slovak. What a surprise!
 
-4.8 - return to Panjakent. We get a shared taxi to Panjakent. The driver knows the road and drives quite fast overtaking any other car, even in the well-known Anzob tunnel. Scary moments but managable. We meet with the rest of the group in Panjakent. The next day time to cross the boarder and be back in Uzbekistan. Time to fly back in 2 days.
+4.8 - return to Panjakent. We get a shared taxi to Panjakent. The driver knows the road and drives quite fast overtaking any other car, even in the well-known Anzob tunnel. Scary moments but managable. We meet with the rest of the group in Panjakent. The next day time to cross the boarder and be back in Uzbekistan. We stay over in hostel in Panjakent. The one we liked before - Salom hostel. Our friends are already there waiting for us. The crossing border the next day goes without any problem. Taxis are waiting on Uzbek side. Negotiate price again and we are back in Samarkand where we stay one day and time to fly back to Europe.
 
-That is it! I hope I provided sufficient details for someone to follow similar tracks in Fann mountains. There are couple of worth checking blogs written in English from earlier 2010 years.
+That is it! I hope I provided sufficient details for someone to follow similar tracks in Fann mountains. You can download gpx in komoot (the real tracks) or proposed track on alpenvereinaktiv. There are couple of worth checking blogs written in English from earlier 2010 years that could help.
 
-Thanks to my friends for this adventure. It was great and I go back in my memories often, happy to made it the last year, we would not be there this year..
+Thanks to my friends for this superb adventure. It was great and I go back in my memories often, happy to made it the last year. We would not be there this year most probably.
 
 {% include flexgallery id="gallery-hissar-range" caption="Hissar range hike - Aug 19" %}
 
 ## Tour info
 
 Start
-: Iskanderkul
+: Iskanderkul (get a cab to drive you to a new mine above Iskanderkul)
 
 Stop
-: Iskanderkul
+: Iskanderkul village
 
 Duration
-: 3 days hiking
+: 3 days hiking (but without White Pyramid, it would be another 3 days most probably)
 
 ## Activity view
 
