@@ -83,19 +83,19 @@ gallery-name:
     end_row: "true"
 
 ---
-Rest day may have many meanings. Around here, rest day means that you sleep in the same place for two nights and go hiking during the day. MANY other tourist do their rest day in Manang(3520m). You can easily go shopping in Manang too, many little businesses sell all the stuff a tourist might need: from toiletries to sports equipment. It's very cheap and most likely fake. 
+Rest day may have many meanings. Around here, rest day means that you sleep in the same place for two nights but you still go hiking during the day. MANY other tourist do their rest day in Manang(3520m). You can easily go shopping in Manang too, many little businesses sell all the stuff a tourist might need: from toiletries to sports equipment. It's very cheap and most likely fake, but who am i to judge...
 
-Based on yesterday's  experience from our little detour, our guide suggested we could go to the Ice Lake(4600m) instead of the usual Gangapurna Lake, as a rest day destination. Bilal hasn't been to Ice Lake in five years, so it would be nice to do something different. It lies at 4600 and requires a climb of 1050meters. The usual route starts from Bhraga, which is 50 lower than Manang.
+Based on yesterday's  experience from our little detour, our guide suggested we could go to the Ice Lake(4600m), instead of the usual Gangapurna Lake, as a rest day destination. Bilal (our guide) hasn't been to Ice Lake in five years, so it would be nice to do something different for a change for him too. Ice Lake lies at 4600m and requires a climb of 1050meters. The usual route starts from Bhraga, which is 50 lower than Manang.
 
-However, our lovely guide had a great suggestion once again: we would go up a shorter route that starts in Manang and go back down to Manang through Braga. Basically, an Ice lake Circuit. When I looked it up on a map, the route was not there. This was also the first time Bilal has walked that route and it was amazing! 
+However, our lovely guide had a great suggestion once again: we would go up a shorter route that starts in Manang and go back down to Manang through Bhraga. Basically, an "Ice lake Circuit". When I looked it up on a map, the route was not there. This was also the first time Bilal has walked that route and it was amazing! 
 
-The views during the climb are extraordinary, a totaly different view from what we could see from the trial to Manang. Also, we were the only ones on this "path", as it is probably not very well known. We passed by a Yak farm on the way and convinced our guide to take yet another detour to a stupa, before we reached the Ice Lake. The stupa was at 4600 and the detour was a good call - better views and nice resting spot shortly before reaching the Ice Lake.
+The views during the climb are extraordinary, a totaly different view from what we could see from the trial to Manang. Also, we were the only ones on this "path", as it is probably not very well known (if at all). We passed by a Yak (long-haired domesticated bovid) farm on the way and convinced our guide to take yet another detour to a stupa, before we reached the Ice Lake. The stupa was at 4600 and the detour was a good call - better views and nice resting spot shortly before reaching the Ice Lake.
 
-The way down to Braga seemed to be much longer to us - which may be a biased opinion since we all agreed that the way down is always worse. Once again, views are worth the effort without a doubt. 
+The way down to Bhraga seemed to be much longer to us - which may be a biased opinion since we all ashared the opinion that the way down is always worse than up. Once again, views are worth the effort without a doubt. 
 
-We came back to Manang just passed 3pm, which is when the free AMS lecture starts. We joined in and as the doctor was explaining the symptoms of AMS, we started to feel them all. Luckily, none of us actually suffered from AMS. It's the same thing as when somebody says "don't think of an elephant" - so what are you thinking of now? 
+We came back to Manang just passed 3pm, which is when the free AMS lecture starts. We joined in and as the doctor was explaining the symptoms of AMS. Inmediately, we started to feel them all! Luckily, none of us actually suffered from AMS. It's the same thing as when somebody says "don't think of an elephant" - so what are you thinking of now? 
 
-Anyway, happy and healthy, we spend the evening playing the card game Jocker with Bilal. And once again he beat us in our own game. 
+Anyway, happy and healthy, we spend the evening playing a card game called "Jocker" with Bilal. We have played it every evening and once again Bilal beat us in our own game. 
 
 {% include flexgallery id="gallery-name" caption=" - Dec 19" %}
 
