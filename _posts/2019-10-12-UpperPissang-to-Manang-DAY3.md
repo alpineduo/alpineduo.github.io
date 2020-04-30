@@ -99,17 +99,17 @@ gallery-name:
 
 ---
 
- We left Pissang around seven to "beat the traffic", even though there was actually not that many people. We took the north route through Ghyaru(3730m) and Ngwal(3660m) and were told that this part of the trek is probably the most sceneric one - which was true. Personally, I would say that was the most beautiful part of our Annapurna circuit. Also the extra altitude gained at the north route is good for acclimatisation. 
+ We left Pissang around seven to "beat the traffic", even though there was actually not that many people. We took the north route through Ghyaru(3730m) and Ngwal(3660m) and were told that this part of the trek is probably the most scenic one - which was true. Personally, I would say that was the most beautiful part of our Annapurna circuit. Also the extra altitude gained at the north route is good for acclimatisation. 
 
  As we were leaving Upper Pissang we were also leaving the view of Annapurna II. The other side, a whole valley of different scenery was opening up in front of us. We were basically following the Marsyangdi River all the way to Manang(3520m). We had a quick stop at Ghyaru. I must say I was a little disappointed how touristy it was there, but luckily the people spread out quickly along the trek. 
 
- Once we reached Ngwal something unexpected happened. We noticed a newly build stupa just on the hill and wanted to check it out. We still had some time before the lunch and managed to convince out guide to join us. However behind the stupa was another hill. And yet another hill... and suddenly we ended up at 4000+m. The views from up there were great. We turned around there and went back to Ngwal to get some lunch.  
+ Once we reached Ngwal something unexpected happened. We noticed a newly build stupa just on the hill and wanted to check it out. We still had some time left before lunch and managed to convince our guide to join us on this little side treck to the stupa. However, there was a little hill behind stupa that we wanted to reach once we saw it. And another one, and another... and suddenly we ended up at 4000+m. The views from up there were great. We turned around there and went back to Ngwal to get some lunch.  
 
-The scenery from Ngwal to Manang was changing pretty quickly and the last party was flat dirt road. It was beautiful, but we were looking forward to be finally in Manang.
+The scenery from Ngwal to Manang was changing pretty quickly. The last party was a flat dirt road. It was beautiful, but we were looking forward to finally get to Manang.
 
-The accommodation our guide booked for us still had (common) showers with hot water (and wifi, of course). I was shocked to find out that Manang was basically a shopping centre. The many small shops were selling everything from souvenirs to mountaineering equipment. Also it was cheaper in Manang than anywhere else. This is mostly because the majority of the tourists do a "rest day" in Manang - meaning they spend at least two nights there. 
+The accommodation our guide booked for us still had (common) showers with hot water. Well and wi-fi of course. All the teahouses we have been at had wifi. It is so normal here, that I almost forgot to mention it. I was shocked to find out that Manang was basically a shopping centre. The many small shops were selling everything from souvenirs to mountaineering equipment. Also it was cheaper in Manang than anywhere else. Thee majority of the tourists do a "rest day" in Manang - meaning they spend at least two nights there. This sometimes can result in shortage of accomodation, as some of the tourist are either comming from Tilicho lake or going there. We have decided not to go to Tilicho lake, as it would take too much time and therefore did not fit timeplan. 
 
-On the other hand there is a free AMS lecture every day at 15.00, which we found quite useful. We also learned that about half of the tourists were taking medication to speed up acclimatization. We opted not to take any and luckily were fine.
+There is a free AMS lecture every day at 15.00, which we found quite useful. We also learned that about half of the tourists were taking medication to speed up acclimatization. We opted not to take any and luckily were fine.
 
 
 {% include flexgallery id="gallery-name" caption=" - Dec 19" %}
