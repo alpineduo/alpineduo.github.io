@@ -50,7 +50,7 @@ gallery-name:
     end_row: "true"
 
 ---
-We slept so well last night that we were late for breakfast and left later than expected. Acclimatization was going good so far, just for one thing - swelling. Martina and Juraj were OK, I was the problematic one. I was wearing low hiking boots but my feet swelled so much, that I could not fit my feet into them anymore. I would say that my feet were at least a size bigger. Luckily I had a pair of winter boots and wore them for the rest of the hike. 
+We slept so well last night that we were late for breakfast and left later than expected (7.45am). Acclimatization was going good so far, just for one thing - swelling. Martina and Juraj were OK, I was the problematic one. I was wearing low hiking boots but my feet swelled so much, that I could not fit my feet into them anymore (say it, fatty! lol). I would say that my feet were at least a size bigger (read as chubbier). Luckily I had a pair of winter boots that are wider and wore them for the rest of the hike. 
 
 Since we left later than usually, there was a lot of "tourist traffic" on the way. The trek itself is not challenging and the views are not as beautiful as yesterday neither. I guess you have to earn them first. Nonetheless, still worth it! 
 
@@ -58,7 +58,7 @@ Originally we planned to stay Yak Kharta, but everything was booked out. We stay
 
 Once we got to our accommodation we changed our clothes, had some food and left for a little acclimatization trek. We went to a stupa which didn't seem too far nor too high. Once we got there we continued a little further until 4745m. None of us had any troubles acclimatizing. The cherry on top was the view. We could see the Annapurna I, which you are actually not supposed to see from the Annapurna Circuit. The climb wasn't even high enough to deserve those views to be honest, we just got really lucky. 
 
-As usually, we spend the evening playing Joker. Guess who won? 
+As usually, we spend the evening playing Joker. Guess who won? (Yup, Bilal). 
  
 {% include flexgallery id="gallery-name" caption=" - Dec 19" %}
 
