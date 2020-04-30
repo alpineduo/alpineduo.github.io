@@ -55,13 +55,15 @@ gallery-name:
     end_row: "true"
 
 ---
+Now we're talkig! (aka hiking). Todays plan is to get to the 4880m. I have never been in such an altitude. The highest I ever got was 4005m. So yeah, we are pretty excited. 
+
 It is not possible to arrange accommodation in High Camp(4880m) or Thorong Base Camp(4190m), it's on a first come first serve basis. We left our accommodation in Letdar around 7.30 and were one of the last ones to leave, even though it was still quite cold and frosty. I believe we acclimatized quite successfully as none of us had any significant problems. We could keep up a decent pace during the ascent and made it to High Camp in about 2.5 hours. The way to the Thorong Base Camp (Thorong Pedi) was ok. On the other hand, the path from Base Camp to High Camp was really steep. 
 
-We had some food once we arrive to High Camp, caught up with fellow trekkers at the dining hall and took some rest before the afternoon side trek. 
+Oce we arrived to High Camp, we were one of the first ones. The only people who arrived before us were hikers who have had a really bad experience with the lack of available accomodation at the Tilicho lake and were determined to get a good nights sleep - understandable. Also, those who had a sherpa (some carrying theer luggage) send them first, to reserve accomodation. 
 
-There were very few options for the afternoon trek. We went to the stupa close by and then decided to go up another trial just opposite the stupa. Once the path finished we continued a little further until we reached a horizon at around 5150. None of us showed any severe AMS symptoms. I had a light headache, which disappeared by dinner time. 
+We had some food once we arrive to High Camp, caught up with fellow trekkers at the dining hall and took some rest before the afternoon side trek. Now, we were the only people taking a side treck. Not beecause none else was fit enough, but because there was actually nowhere to go. The only path is the one to Thorong La pas, or you can go back down where you came from. Well...we improvised. We went to the stupa close by and then decided to go up another trial just opposite the stupa. Once the path finished we continued a little further until we reached a horizon at around 5150. None of us showed any severe AMS symptoms. I had a light headache, which disappeared by dinner time. 
 
-We got back just in time for dinner. And, as always, played cards. The climate outside was quite refreshing. The opposite was true for the air in the toilets.
+We got back just in time for dinner. And, as always, played cards. The climate outside was quite refreshing. The opposite was true around the air close to the toilets. 
 
 {% include flexgallery id="gallery-name" caption=" - Dec 19" %}
 
