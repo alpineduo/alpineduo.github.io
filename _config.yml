@@ -131,9 +131,15 @@ author:
     - label: "Instagram Dana"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/danka.ivanka"
+    - label: "Strava Dana"
+      icon: "fab fa-fw fa-strava"
+      url: "https://www.strava.com/athletes/43951225"
     - label: "Instagram Martin"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/0xc0170"
+    - label: "Strava Martin"
+      icon: "fab fa-fw fa-strava"
+      url: "https://www.strava.com/athletes/18218628"
 
 # Site Footer
 footer:
