@@ -14,6 +14,7 @@
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
+        <!-- <p>{{ post.date | date: '%d %b %y' }}</p> -->
         <img src=
           {% if teaser contains "://" %}
             "{{ teaser }}"
