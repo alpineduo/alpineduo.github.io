@@ -228,15 +228,42 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: Europe/Berlin # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+pagination:
+  enabled: true
+  per_page: 8
+  paginate_path: "blog/page:num"
+  title: 'null'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: 'true'
+  trail:
+      before: 2
+      after: 2
+# Plugin: Auto Pages (jekyll-paginate-v2)
+# autopages:
+#   enabled      : true
+#   collections:
+#     enabled    : false
+#   categories:
+#     enabled: true
+#     layouts:
+#       - archive.html
+#     permalink: ':cat'
+#     slugify:
+#       mode: pretty
+#   tags:
+#     enabled: disabled
+#     layouts:
+#       - archive.html
+#     permalink: '/:tag'
+#     slugify:
+#       mode: pretty
 
+timezone: Europe/Berlin # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -245,7 +272,7 @@ plugins:
 
 # mimic GitHub Pages with --safe
 whitelist:
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
