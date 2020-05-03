@@ -232,7 +232,7 @@ pagination:
   enabled: true
   per_page: 8
   paginate_path: "blog/page:num"
-  title: 'null'
+  title: ':title - page :num'
   limit: 0
   sort_field: 'date'
   sort_reverse: 'true'
