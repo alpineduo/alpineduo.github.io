@@ -27,7 +27,7 @@ jobs:
       script:
         - JEKYLL_ENV=production bundle exec jekyll build
         - markdownlint _posts _drafts _pages README.md
-        - sass-lint --verbose --no-exit
+        # - sass-lint --verbose --no-exit
         # Explanations for flags:
         # --allow-hash-href - Build will fail on the first and last post entries
         # if this isn't allowed since there will be previous and next buttons
