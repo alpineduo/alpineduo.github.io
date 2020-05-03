@@ -25,4 +25,4 @@ git config user.email "contact@alpineduo.com"
 git config user.name "alpineduo"
 git add --all
 git commit -a -m "Travis #$TRAVIS_BUILD_NUMBER"
-git push --force origin gh-pages
+git push origin gh-pages
