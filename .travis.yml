@@ -18,7 +18,7 @@ addons:
       - libcurl4-openssl-dev
 branches:
   only:
-    - release
+    - develop
 jobs:
   include:
     - stage: Test
