@@ -8,14 +8,11 @@ header:
 categories: hike
 tags: 
   - bavaria
-  - hike 
   - wendelstein 
-  - walking 
+  - walking
   - tour 
   - bayern 
-  - typical 
-  - easy 
-  - wendelsteinbahn
+  - easy
 classes: wide
 
 gallery-wendelstein:

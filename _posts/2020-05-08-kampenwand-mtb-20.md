@@ -9,6 +9,7 @@ categories: mtb
 tags:
   - bavaria
   - mtb
+  - singletrack
 classes: wide
 
 gallery-kampenwand:

@@ -8,6 +8,7 @@ header:
 categories: hike
 tags:
   - bavaria
+  - lenggries
 classes: wide
 
 gallery-seekarkreuz:
