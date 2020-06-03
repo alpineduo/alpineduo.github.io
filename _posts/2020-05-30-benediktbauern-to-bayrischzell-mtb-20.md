@@ -2,8 +2,8 @@
 title: "Benediktbauern to Bayrischzell mtb - May 20"
 description: "Transbavaria trails mtb singletrack bike"
 header:
-  image: 
-  teaser:
+  image: https://lh3.googleusercontent.com/pw/ACtC-3dUWMImoW4jAqxvQN6VQZI_Xbcv1vvUo2dndAUdp1fvvAQ1O38cI7e0Qlijmcf2UtFzteVIR1ZVCeo9wBCzC9iYXawrUrCUQy7AXak8Ek47hzbmA1yC85LitHH7v2lwdGt0XaJDIzK9qcoypejhiCDPxg=w1730-h1297-no?authuser=0
+  teaser: https://lh3.googleusercontent.com/pw/ACtC-3dUWMImoW4jAqxvQN6VQZI_Xbcv1vvUo2dndAUdp1fvvAQ1O38cI7e0Qlijmcf2UtFzteVIR1ZVCeo9wBCzC9iYXawrUrCUQy7AXak8Ek47hzbmA1yC85LitHH7v2lwdGt0XaJDIzK9qcoypejhiCDPxg=w800-h300-no?authuser=0
   caption: "alpineduo"
 categories: mtb
 tags:
@@ -163,48 +163,98 @@ gallery-bavaria-day2:
     title: "Day 2 starts at Prinzenweg"
     alt: "Day 2 starts at Prinzenweg"
 
-  - url: https://lh3.googleusercontent.com/pw/ACtC-3fP607B71ik5HECxwfWD_t51gtrDjWz73LH0U_RAwPFBfdXiOT8AuKRcATd7DKp013cDjRs9IWac0VDlvhxTRYACWYJnDsXrOkqBgUgfoHtWbkRDpHDxEYIlcJyfQO4JJn1tHy-GM5lmPLeD7Q75ZBbsQ=w1730-h1297-no?authuser=0
-    image_path: https://lh3.googleusercontent.com/pw/ACtC-3fP607B71ik5HECxwfWD_t51gtrDjWz73LH0U_RAwPFBfdXiOT8AuKRcATd7DKp013cDjRs9IWac0VDlvhxTRYACWYJnDsXrOkqBgUgfoHtWbkRDpHDxEYIlcJyfQO4JJn1tHy-GM5lmPLeD7Q75ZBbsQ=w400-h300-no?authuser=0
-    title: "We are below Baumgartenschneid, S2 trail starts here"
-    alt: "We are below Baumgartenschneid, S2 trail starts here"
 
   - url: https://lh3.googleusercontent.com/pw/ACtC-3dbBtw1yGs8AjDJ0VS86POPVstB6m09T_gOKVdq3ZwJSvP5v8R-wF9Ipo0HjNh-LbWjt1pkyaJaWDOkKUe8V6IP4dqd27eCOtIuiVZLIAKxDvCXKwE-ssBPIRCNAayLFYl6oODCHFCMtXsiupRxfVnCSw=w973-h1297-no?authuser=0
     image_path: https://lh3.googleusercontent.com/pw/ACtC-3dbBtw1yGs8AjDJ0VS86POPVstB6m09T_gOKVdq3ZwJSvP5v8R-wF9Ipo0HjNh-LbWjt1pkyaJaWDOkKUe8V6IP4dqd27eCOtIuiVZLIAKxDvCXKwE-ssBPIRCNAayLFYl6oODCHFCMtXsiupRxfVnCSw=w300-h400-no?authuser=0
-    title: ""
-    alt: ""
+    title: "Danka descending"
+    alt: "Danka descending"
+
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3fnP_UlbyC6Wm1chYm1llUdZqHQwGwcL4yvC-eaVqb1NiYa7qgMJPP5-zprRzn_OCR5v55caXJEaY0XtbKaKPyk2RLBNcnU3cA7M7bli92GNoSACzpYpCJGkaLH0yJZ9Mnd2485w9O40wx7y0bvH4yQFQ=w988-h1316-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3fnP_UlbyC6Wm1chYm1llUdZqHQwGwcL4yvC-eaVqb1NiYa7qgMJPP5-zprRzn_OCR5v55caXJEaY0XtbKaKPyk2RLBNcnU3cA7M7bli92GNoSACzpYpCJGkaLH0yJZ9Mnd2485w9O40wx7y0bvH4yQFQ=w300-h400-no?authuser=0
+    title: "Roots, later rocks, fun fun fun"
+    alt: "Roots, later rocks, fun fun fun"
     end_row: "true"
 
-  - url: 
-    image_path: 
-    title: ""
-    alt: ""
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3fm25YlN9-pKhCEX1_BJ6W_juD8hd8MVJ9iB0uomBtZmdMszNvJxR74QvzpqmEv2VFl7_VEY6Kil4IOXgPYnP-MDZy19DtE7awiB7X8vbvOF8Yh5tAPZEf_u2lDkYZxo0_39ygu0I4nlLZ1SWvoYoE1cA=w988-h1316-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3fm25YlN9-pKhCEX1_BJ6W_juD8hd8MVJ9iB0uomBtZmdMszNvJxR74QvzpqmEv2VFl7_VEY6Kil4IOXgPYnP-MDZy19DtE7awiB7X8vbvOF8Yh5tAPZEf_u2lDkYZxo0_39ygu0I4nlLZ1SWvoYoE1cA=w300-h400-no?authuser=0
+    title: "The second climb of the day, going above Schliersee"
+    alt: "The second climb of the day, going above Schliersee"
 
-  - url: 
-    image_path: 
-    title: ""
-    alt: ""
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3eOEM79gyprSYovaQ-Oir_guzskIdcxL6eK-vRrJoXUxADQ-QCjwz9J6BHjwtfiNh_s_4DDdN9R7ec4lM1CZDFbACVJT6bHQ0MmXYKJZVYzFEg1qK4p_aPsRUbhtBYincqPU-PU_0hRxWp9i4cRMVs-8w=w1756-h1316-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3eOEM79gyprSYovaQ-Oir_guzskIdcxL6eK-vRrJoXUxADQ-QCjwz9J6BHjwtfiNh_s_4DDdN9R7ec4lM1CZDFbACVJT6bHQ0MmXYKJZVYzFEg1qK4p_aPsRUbhtBYincqPU-PU_0hRxWp9i4cRMVs-8w=w400-h300-no?authuser=0
+    title: "The Schliersee valley view"
+    alt: "The Schliersee valley view"
 
-  - url: 
-    image_path: 
-    title: ""
-    alt: ""
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3dHfc_sbxroOCgB7FtypOFQ-fCJIh2WjVZLLGI0GBegJidAFTMwBzHkIfhRfrzGxaehlJtq0rkt8gKYgPz6sOwMGSEhXubn6tvfNhc8e1S8EOggqNBmFOs3ENrdi4ce26aEaMtKowT9vCTG74Z9-czkQA=w1756-h1316-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3dHfc_sbxroOCgB7FtypOFQ-fCJIh2WjVZLLGI0GBegJidAFTMwBzHkIfhRfrzGxaehlJtq0rkt8gKYgPz6sOwMGSEhXubn6tvfNhc8e1S8EOggqNBmFOs3ENrdi4ce26aEaMtKowT9vCTG74Z9-czkQA=w400-h300-no?authuser=0
+    title: "The S1 trail down to Schliersee"
+    alt: "The S1 trail down to Schliersee"
     end_row: "true"
 
 
-  - url: 
-    image_path: 
-    title: ""
-    alt: ""
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3dcRr7xatONXbUn3BUrBtPQHRcPPehFfZC52lHSWYI1yTtiH7GI_2R-S0xlQEQhIVblmCQn9bBMbxPFCGSTi8ncT85kDhFux8rX2OewIwybMELydDuPHELmLbh9jh5MPi9hvzPoHWTZF0FZU4vVHIvQjw=w988-h1316-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3dcRr7xatONXbUn3BUrBtPQHRcPPehFfZC52lHSWYI1yTtiH7GI_2R-S0xlQEQhIVblmCQn9bBMbxPFCGSTi8ncT85kDhFux8rX2OewIwybMELydDuPHELmLbh9jh5MPi9hvzPoHWTZF0FZU4vVHIvQjw=w300-h400-no?authuser=0
+    title: "Danka descending to Schliersee"
+    alt: "Danka descending to Schliersee"
 
-  - url: 
-    image_path: 
-    title: ""
-    alt: ""
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3e2eqsFgAAPNbd7yvsY-InPzrpKa6_dD1NtexkCzN5X51egYa1_Z5NGqjxpiFg3bBphECgZOtuMrechO0C_cZa3ExfCELMHlF1Ls_4HeNg4g53Tn4Pyh38KBEykBufnvBfiFDTvO7HKcrao3bSb9IRpRQ=w1756-h1316-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3e2eqsFgAAPNbd7yvsY-InPzrpKa6_dD1NtexkCzN5X51egYa1_Z5NGqjxpiFg3bBphECgZOtuMrechO0C_cZa3ExfCELMHlF1Ls_4HeNg4g53Tn4Pyh38KBEykBufnvBfiFDTvO7HKcrao3bSb9IRpRQ=w400-h300-no?authuser=0
+    title: "Here we are, Schliersee!"
+    alt: "Here we are, Schliersee!"
 
-  - url: 
-    image_path: 
-    title: ""
-    alt: ""
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3fHGGD3itYkG7Fp5-PwozWCFydkwm2G886zpuXdge3dxnP_r_ggoVs21_wJSG0CA3oTK5gwrqSsny1jdXazbzLgQaw-XKY2PODzYpnPv8jpMXzA7Led5eFHhbVTd6hjVTl0mlJ1TzAxFZunEBawUL5dzQ=w988-h1316-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3fHGGD3itYkG7Fp5-PwozWCFydkwm2G886zpuXdge3dxnP_r_ggoVs21_wJSG0CA3oTK5gwrqSsny1jdXazbzLgQaw-XKY2PODzYpnPv8jpMXzA7Led5eFHhbVTd6hjVTl0mlJ1TzAxFZunEBawUL5dzQ=w300-h400-no?authuser=0
+    title: "The trip continues, the next stop Spitzingsee seddle"
+    alt: "The trip continues, the next stop Spitzingsee seddle"
+    end_row: "true"
+
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3fFamlvzG2mcazOkxlkJkLmAxI_8ItTVCpMNi1ql9DSEMSDLvC60jZWO64udRoySBF35pP445iuHoIdDBvnE6p6idcA9qf16dsHF1g4gZm4i1cppcRv9xqJ1iIpvT5mUS16s70Y3X1RskziZk4LUyuxFw=w1756-h1316-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3fFamlvzG2mcazOkxlkJkLmAxI_8ItTVCpMNi1ql9DSEMSDLvC60jZWO64udRoySBF35pP445iuHoIdDBvnE6p6idcA9qf16dsHF1g4gZm4i1cppcRv9xqJ1iIpvT5mUS16s70Y3X1RskziZk4LUyuxFw=w300-h400-no?authuser=0
+    title: "We are following the trail up to Spitzingsee"
+    alt: "We are following the trail up to Spitzingsee"
+
+
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3fnFkgQMDXhNhV5oXdUMfs0r1wVYa3T62rFHNvBapI3o0mUSyesP4MzdSARroWeD9Fd3YQzTsusl0nqrWyV1ki3dmElFyIKRI0AgOYp33_StfA0gkG1zJEAQ-FLWm77OKifbxGOeR6SzhaT61oR2OUfTA=w988-h1316-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3fnFkgQMDXhNhV5oXdUMfs0r1wVYa3T62rFHNvBapI3o0mUSyesP4MzdSARroWeD9Fd3YQzTsusl0nqrWyV1ki3dmElFyIKRI0AgOYp33_StfA0gkG1zJEAQ-FLWm77OKifbxGOeR6SzhaT61oR2OUfTA=w300-h400-no?authuser=0
+    title: "We pushed the bikes for a bit here"
+    alt: "We pushed the bikes for a bit here"
+
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3c4Yh9JDQyKB6gITCv7XEesMWP6AKGim09BKitxwsWg69x-LTGO7DDvGe7l_1JMyDhV7ypZybtvsY5ih4KgWe5_XAN2wzQ5vaju47GjnrDvsnfxjw8FhiTRPlWbCFOkBZK2r1_jcUkRwkBOR01ZIU1Z8Q=w1756-h1316-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3c4Yh9JDQyKB6gITCv7XEesMWP6AKGim09BKitxwsWg69x-LTGO7DDvGe7l_1JMyDhV7ypZybtvsY5ih4KgWe5_XAN2wzQ5vaju47GjnrDvsnfxjw8FhiTRPlWbCFOkBZK2r1_jcUkRwkBOR01ZIU1Z8Q=w400-h300-no?authuser=0
+    title: "Spitzingsee"
+    alt: "Spitzingsee"
+    end_row: "true"
+
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3fmDdrOwx0hrR84HXg_ZJOehwx0T_cPP1MaS6qLUj5Y6Dqxuf6Qn7fbwIEDVqo9Sg_pNuRhbMpYaBYLE5eCGIXzqEN1ja65yAvXuNmrM9iJ0vBgbnWd7E4yF_JmKWgOXEMsDdOs3XwiFRIykL5IUuQUZw=w988-h1316-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3fmDdrOwx0hrR84HXg_ZJOehwx0T_cPP1MaS6qLUj5Y6Dqxuf6Qn7fbwIEDVqo9Sg_pNuRhbMpYaBYLE5eCGIXzqEN1ja65yAvXuNmrM9iJ0vBgbnWd7E4yF_JmKWgOXEMsDdOs3XwiFRIykL5IUuQUZw=w300-h400-no?authuser=0
+    title: "We continue via Valepp"
+    alt: "We continue via Valepp"
+
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3eIyZkKM2lr7rKYTXfwaaNDPHz1AusjOlMPiicIO0427afaHjxo9hmc-N60yAl199AyAcQxu05VIfPuEOLXOw706nePB1WY9nw8-VppIhfSRCJeyCbh2aiGzbx2AYbWTJmI4wv3VyiewNcHP_1uSuzjGQ=w1756-h1316-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3eIyZkKM2lr7rKYTXfwaaNDPHz1AusjOlMPiicIO0427afaHjxo9hmc-N60yAl199AyAcQxu05VIfPuEOLXOw706nePB1WY9nw8-VppIhfSRCJeyCbh2aiGzbx2AYbWTJmI4wv3VyiewNcHP_1uSuzjGQ=w400-h300-no?authuser=0
+    title: "Schinder on the left, partly visible"
+    alt: "Schinder on the left, partly visible"
+
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3d_eUVj4pJ8uRnayjXARBhlHFXaCZvrflbPEPldnYK0d_8qY1Lhb7lioaPZHmO_aU95p_OFzMwqAa2equ8JCTO6lmV7psDwvtW2E6jx_SCMYUmlFlcVZ7Hh-RDfv2MIoKqz5GuM7El28cYe9HN8q3qChQ=w988-h1316-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3d_eUVj4pJ8uRnayjXARBhlHFXaCZvrflbPEPldnYK0d_8qY1Lhb7lioaPZHmO_aU95p_OFzMwqAa2equ8JCTO6lmV7psDwvtW2E6jx_SCMYUmlFlcVZ7Hh-RDfv2MIoKqz5GuM7El28cYe9HN8q3qChQ=w300-h400-no?authuser=0
+    title: "River crossing"
+    alt: "River crossing"
+    end_row: "true"
+
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3cwiavV5c1RkWvuH8UThSwRY1YKDX78yUJ-NAOagkNkc4XZFukxjBcl3nGjpyvU2JQOYubIgAh66O2MkrqywVB6V1WyUDQAD2WPtK80QRgK4IsA668-yDObyt5mrKHtou3OsQPmc54FKiypoSa37kWX1Q=w988-h1316-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3cwiavV5c1RkWvuH8UThSwRY1YKDX78yUJ-NAOagkNkc4XZFukxjBcl3nGjpyvU2JQOYubIgAh66O2MkrqywVB6V1WyUDQAD2WPtK80QRgK4IsA668-yDObyt5mrKHtou3OsQPmc54FKiypoSa37kWX1Q=w300-h400-no?authuser=0
+    title: "Just crossing the valley and we are soon in Bayrischzell"
+    alt: "Just crossing the valley and we are soon in Bayrischzell"
+
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3dyLmzSCtbS6HJZdAFj5VHCzNjQW2hN8lHnkA4d2A87wpHC7tDDEkCdMIjZcqsnC9MJNPmnqftrxryF0jWRnDZhCPOSAxtagg1Gkz3Nz50pBmoFjmrjgF6DzjRrUYTnBqaOa9-uz4WdRN4KVECpXtveDQ=w988-h1316-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3dyLmzSCtbS6HJZdAFj5VHCzNjQW2hN8lHnkA4d2A87wpHC7tDDEkCdMIjZcqsnC9MJNPmnqftrxryF0jWRnDZhCPOSAxtagg1Gkz3Nz50pBmoFjmrjgF6DzjRrUYTnBqaOa9-uz4WdRN4KVECpXtveDQ=w300-h400-no?authuser=0
+    title: "Very nice flowy trail to Bayrischzell that goes to this waterfall as well"
+    alt: "Very nice flowy trail to Bayrischzell that goes to this waterfall as well"
+
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3fZ0R3hWXLFZF999Vq-fxm0tm-kO7D8psymecOvBvil_hR-t64-6lst9UL9syK8El6KDjO_cVVHQMVQrA_ywwAdqrYcs0gl_QmFQQJChuNIoEm1HHdasK0lC1J_ghlK21riVlb_mLy_69A54nP6k1Y_NA=w988-h1316-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3fZ0R3hWXLFZF999Vq-fxm0tm-kO7D8psymecOvBvil_hR-t64-6lst9UL9syK8El6KDjO_cVVHQMVQrA_ywwAdqrYcs0gl_QmFQQJChuNIoEm1HHdasK0lC1J_ghlK21riVlb_mLy_69A54nP6k1Y_NA=w300-h400-no?authuser=0
+    title: "Our two days bike trip completed, Bayrischzell"
+    alt: "Our two days bike trip completed, Bayrischzell"
     end_row: "true"
 ---
 
