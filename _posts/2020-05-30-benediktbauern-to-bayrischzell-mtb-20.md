@@ -1,5 +1,5 @@
 ---
-title: "Benediktbauern to Bayrischzell mtb - May 20"
+title: "Benediktbauern to Bayrischzell multiday mtb - May 20"
 description: "Transbavaria trails mtb singletrack bike"
 header:
   image: https://lh3.googleusercontent.com/pw/ACtC-3dUWMImoW4jAqxvQN6VQZI_Xbcv1vvUo2dndAUdp1fvvAQ1O38cI7e0Qlijmcf2UtFzteVIR1ZVCeo9wBCzC9iYXawrUrCUQy7AXak8Ek47hzbmA1yC85LitHH7v2lwdGt0XaJDIzK9qcoypejhiCDPxg=w1730-h1297-no?authuser=0
@@ -10,6 +10,7 @@ tags:
   - bavaria
   - mtb
   - singletrack
+  - multiday
 classes: wide
 
 gallery-bavaria-day1:
@@ -260,27 +261,23 @@ gallery-bavaria-day2:
 
 We have been working from home for the past months and felt the need to leave the home office. Luckily some hotels and guest houses have started opening up and we used this chance to plan a weekend get away at Tegernsee. 
 
-Martin suggested a two day tour from Benediktbauer to Bayerisch Zell, with a stopover at Tegernsee. Our friends were up for it, so we joined forces - with respect to the corona restrictions, needles to say.
+Martin suggested a two day tour from Benediktbauern to Bayerischzell, with a stopover at Tegernsee. Our friends were up for it, so we joined forces - with respect to the corona restrictions, needles to say.
 
-We parked our cars at Benediktbauer and headed toward Lengies. Its 750vertical meter over ca. 25km, where you do most of the climbing in the first 10km. The climb leads over a gravel road and is moderately steep. Most of the way leads though a forest and opens up on the end, reaching the... Alm. From there we descended via the Jägersteig which ended with a short segment were we had to push the bikes. A gravel road leads from there all the way to Lengries. There are xouple of options to decsent, we chose the one that ended at the Bike park. Some of the kids who ride there have serious skills.
+We parked our cars at Benediktbauern and headed toward Lenggries. It is 750 vertical meter over ca. 25km, where you do most of the climbing in the first 10 km. The climb leads over a gravel road and is moderately steep. Most of the way leads through a forest and opens up on the end, reaching the Kirchsteinhütte. From there we descended via the Jägersteig which ended with a short uphill segment were we had to push the bikes. A gravel road leads from there all the way to Lenggries. There are couple of options to descent, we chose the one that ended at the Lenggries bikepark. Some of the kids who ride there have serious skills.
 
-Some of our friends had to return to Munich but still toom the time to to help us by getting our cars from Benediktbauer and leaving them in Tegernsee. Without them, we would have needed to take the train to fetch our ride. So huge thanks, you are awesome!
+Some of our friends had to return to Munich but still found the time to help us by getting our cars from Benediktbauern and leaving them at Tegernsee. Without them, we would have needed to take the train to fetch our ride. So huge thanks, you are awesome!
 
-Meanwhile we (Peter, Martin, me) continued our trip towards Tegernsee. We still had around 1000 vertical meters left, spread out into two climbs. The descent for both was a gravel road. The first one was a little steeper and the descent little dissapointing - really muddy. We had to carry the bike multiple time, over small segments. Not ideal but doable end enjoyable if you dont mind some muddy "sun spots". Of course here is to consider, that it has been frequently raining in the past two weeks.
+Meanwhile we (Peter, Martin, me) continued our trip towards Tegernsee. We still had around 1000 vertical meters left, spread out into two climbs. The descent for both was a gravel road. The first one (Stinkergraben trail, S2) was a little steeper and the descent little dissapointing - really muddy. We had to carry the bike multiple time, over small segments. Not ideal but doable end enjoyable if you dont mind some muddy "sun spots". Of course here is to consider, that it has been frequently raining in the past two weeks.
 
- The second climb was flater. Nonentheless, whe had to push the bike towards Hirschberg as bikers are restricted from using the road. It is a particularly nice and peacful area, so we didnt mind walking. On the other hand, the descent (not a part of the restriction anymore) was great. Flowy, playful and really really long. It was quite late by the time we were descending, so there were hardly any people on the trial. The temperature seemed to be proportional to the number of people on the trial. Our hand were pretty stiff from the cold. Maybe its a good idea to carry a second pair of bike gloves for such a long day, so one can wear the dry one for the descent. 
+ The second climb was flater. Nonentheless, whe had to push the bike towards Hirschberg as bikers are restricted from using the upper part. It is a particularly nice and peaceful area, so we did not mind walking. On the other hand, the descent (not a part of the restriction anymore) was great. Flowy, playful and really really long. It was quite late by the time we were descending, so there were hardly any people on the trial. The temperature seemed to be proportional to the number of people on the trial. Our hand were pretty stiff from the cold. Maybe it is a good idea to carry a second pair of bike gloves for such a long day, so one can wear the dry one for the descent. 
 
 {% include flexgallery id="gallery-bavaria-day1" caption="Day 1 - Benediktbauern to Tegernsee - May 20" %}
 
-The second day consisted of three climbs. The first climb was via Prinzenweg towards Sagfleckl. The ascent is gravel and really nice, going allong a river most of the way. There is a descent was pretty short, but very nice. Its rated S2, but most of the trial felt like S1, except a short segment with large loose rocks. Then the descent continues via Schliersee trail connected mostly via gravel all the way to Krainsberg. The schliersee trial is quite nice, however at the time when we were descending, quite a lot of people were hiking, so we rode very slowly. 
+The second day consisted of three climbs. The first climb was via Prinzenweg towards Sagfleckl. The ascent is gravel and really nice, going along a river most of the way. The descent was pretty short, but very nice. Its rated S2, but most of the trial felt like S1, except a short segment with large loose rocks. Then the descent continues via Prinzenweg connected mostly via gravel all the way to Krainsberg. The second ascent start shortly before reaching Krainsberg. Its is a little flatter and the views are really nice. The descent is via shorter trail (S1) down to Schliersee. 
 
-The second ascent start shortly before reaching Krainsberg and end by Schliersee. Its is a little flatter and the views are really nice. The descent is gravel. 
+Finaly, the third ascent starts from Schliersee to Spitzingseesattel via Bockerlbahn. The last part leads via a car road, which is not ideal. There is also another way through the forest. However, we are not sure if it is suitable for bikes. The way from there is gravel and mostly descending all to Valepp. The  Valperstr. is really beautiful. we hope to return and to do this part of the trial again, in the other direction (descent via singletrack S2). We followed a cycling path called Rund ums Sonnwendjoch to Bayerischzell. Towards the end, the trial goes through a forest and has a really nice flow. Good way for our end of the day. 
 
-Finaly the third ascent starts from Schliersee to Spitzingseesattel via Bockerlbahn. The last part leads via a car road, which is not ideal. There is also another way through the forest. However, we are not sure if it is suitable for bikes. The way from there is gravel and mostly descending all to Valep. The  Valperstr. is really beautiful. we hope to return and to do this part of the trial again, in the other direction (ascent). We followed a cycling path called... to Bayerischzell. Towards the end the, trial goes through a forest and has a really nice flow. Good way to end the day. 
-
-Meanwhile Borka, once again, saved the day. She picked up her car and drove from Tegernsee to Bayerisch Zell to wait for us, so we didnt need to think of how to get back to our car. She is a hero! 
-
-We feel well rested after the mini holiday and ready to embrace Monday, which a bank holiday. Such a good start into a new week. 
+Meanwhile Borka, once again, saved the day. She picked up her car and drove from Tegernsee to Bayerischzell to wait for us, so we did not need to think of how to get back to our car. She is a hero! We feel well rested after the mini holiday and ready to embrace Monday, which is a bank holiday. Such a good start into a new week. 
 
 {% include flexgallery id="gallery-bavaria-day2" caption="Day 2 - Tegernsee to Bayrischzell - May 20" %}
 
@@ -293,7 +290,7 @@ Start
 : Parking lot at Benediktbauern swimming pool, free along the road
 
 Duration
-: 13 hours total (see komoot for more details) 
+: 14 hours total, split into two days (see komoot for more details) 
 
 ## Activity view
 
