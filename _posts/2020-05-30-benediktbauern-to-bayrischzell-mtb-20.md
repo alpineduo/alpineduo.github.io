@@ -259,7 +259,7 @@ gallery-bavaria-day2:
     end_row: "true"
 ---
 
-We have been working from home for the past months and felt the need to leave the home office. Luckily some hotels and guest houses have started opening up and we used this chance to plan a weekend get away at Tegernsee. 
+We have been working from home for the past months and felt the need to leave the home office. Luckily some hotels and guest houses have started opening up, so we used this chance to plan a weekend get away at Tegernsee. 
 
 Martin suggested a two day tour from Benediktbauern to Bayerischzell, with a stopover at Tegernsee. Our friends were up for it, so we joined forces - with respect to the corona restrictions, needles to say.
 
