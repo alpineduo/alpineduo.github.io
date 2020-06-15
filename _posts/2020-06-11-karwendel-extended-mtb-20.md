@@ -288,7 +288,7 @@ gallery-karwendel-day3:
 
 ---
 
-4 day weekend, what a treat! We planned something special for this occasion, namely a 3-days MTB tour around Karwendel (weather forecast for Sunday was 15L of rain). Karwendel Alpine Park is the oldest and the largest park in Austria, comprising a surface area of more than 700 sqkm - and riding bikes outside of cycling paths is basically forbidden. Nonetheless, this tour is totally worth it! It is challenging though - physically and mentally. Some of the climbs are pretty mean.
+4 day weekend, what a treat! We planned something special for this occasion, namely a 3-days MTB tour through Karwendel, Bardenberg Alps and Bavarian Prealps (weather forecast for Sunday was 15L of rain). Karwendel Alpine Park is the oldest and the largest park in Austria, comprising a surface area of more than 700 sqkm - and riding bikes outside of cycling paths is basically forbidden. Nonetheless, this tour is totally worth it! It is challenging though - physically and mentally. Some of the climbs are pretty mean.
 
 ### Day 1: Fall - Karwendelhaus
 
