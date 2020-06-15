@@ -2,8 +2,8 @@
 title: "Karwendel extended mtb round  - Jun 20"
 description: "Karwendel Bardenberg Alps Bavarian prealps mountain biking"
 header:
-  image:
-  teaser: 
+  image: https://lh3.googleusercontent.com/pw/ACtC-3fnRvhd2IuD6JjaTqjrJI0PL67xfWZ3TO0JjbbV1VT2NXSlpoIHpDLrqCUUzD8jqBWbxq5LMDMmNCMuS2J8HxsapZM_FbC0-VaTX2zZmtoQVsDfH3DGjdQQqg9QZzwZrM72gM-thJt_Rh2SdQq43d-pOw=w1756-h1316-no?authuser=0
+  teaser: https://lh3.googleusercontent.com/pw/ACtC-3fnRvhd2IuD6JjaTqjrJI0PL67xfWZ3TO0JjbbV1VT2NXSlpoIHpDLrqCUUzD8jqBWbxq5LMDMmNCMuS2J8HxsapZM_FbC0-VaTX2zZmtoQVsDfH3DGjdQQqg9QZzwZrM72gM-thJt_Rh2SdQq43d-pOw=w800-h300-no?authuser=0
   caption: "alpineduo"
 categories: mtb
 tags:
@@ -212,23 +212,99 @@ gallery-karwendel-day2:
 
 
 gallery-karwendel-day3:
-  - url: 
-    image_path: 
-    title: ""
-    alt: ""
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3dZDzgqDfAC7SU2TiSc1miCXzI2hOpGXtXndDM6YTZ4qGvYm8z38Q9sWfQJW3B2Jya_x97XCs_IE-oLlhSzs54B50BZwNrbJDdO9Xspzv3rZdKIJiDP7h6nMQE5WGuYTroVH9ZoHSr3W8RGmaE9WM6n4Q=w988-h1316-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3dZDzgqDfAC7SU2TiSc1miCXzI2hOpGXtXndDM6YTZ4qGvYm8z38Q9sWfQJW3B2Jya_x97XCs_IE-oLlhSzs54B50BZwNrbJDdO9Xspzv3rZdKIJiDP7h6nMQE5WGuYTroVH9ZoHSr3W8RGmaE9WM6n4Q=w300-h400-no?authuser=0
+    title: "Descent from Gufferthütte, gravel road"
+    alt: "Descent from Gufferthütte, gravel road"
 
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3dk_dizuwx2L5_Lsmvz3NmGzdGxwaGe5dpIwXWl_vAmRRemSQdqvRJe103QHDxk9YQnZSulCLGffRLoDZKo5id1UfyUGSRL6JqYDetgac2ayX6RaTGlggf6_hb1S-qNQvfLSyJH3YAf7Lxgrqg6M02aMg=w1756-h1316-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3dk_dizuwx2L5_Lsmvz3NmGzdGxwaGe5dpIwXWl_vAmRRemSQdqvRJe103QHDxk9YQnZSulCLGffRLoDZKo5id1UfyUGSRL6JqYDetgac2ayX6RaTGlggf6_hb1S-qNQvfLSyJH3YAf7Lxgrqg6M02aMg=w400-h300-no?authuser=0
+    title: "Following Bairache stream"
+    alt: "Following Bairache stream"
+
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3cPtQFycwZN2xtF11brEz9OK0zKjbJXrByNqLNvB_ba50lhicH838wwOf0k8y6j98jfCAHwATOwg0g_ZZBErCAsUY-zA5-klpiF_W7aerS793IphNjIX1UxwGlDi5saTdCmTuIrjI2OjsunhD3Q9YBJpw=w988-h1316-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3cPtQFycwZN2xtF11brEz9OK0zKjbJXrByNqLNvB_ba50lhicH838wwOf0k8y6j98jfCAHwATOwg0g_ZZBErCAsUY-zA5-klpiF_W7aerS793IphNjIX1UxwGlDi5saTdCmTuIrjI2OjsunhD3Q9YBJpw=w300-h400-no?authuser=0
+    title: "Push your bike part, shortly"
+    alt: "Push your bike part, shortly"
     end_row: "true"
+
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3fZiQkNtv1BohMGOAHpIs7d8_n2g0JhHu2W99Q77gJf3dIpx_th4djtzdNrGLH93lbmhdLGbkH0wt8X9IQ8AqHGGl31HcbpYXJ-4DXnaPpso4RoV6BGGD3wuQg3UwgF76xLgMrAgICATiWIR_KmnD5T0w=w973-h1297-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3fZiQkNtv1BohMGOAHpIs7d8_n2g0JhHu2W99Q77gJf3dIpx_th4djtzdNrGLH93lbmhdLGbkH0wt8X9IQ8AqHGGl31HcbpYXJ-4DXnaPpso4RoV6BGGD3wuQg3UwgF76xLgMrAgICATiWIR_KmnD5T0w=w300-h400-no?authuser=0
+    title: "This was fun ascending singletrack"
+    alt: "This was fun ascending singletrack"
+
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3ey2frgnAAOEyhaDu2eyBBFYqm6yO18kGHd53rssxzfxPgqZAcMbVZJLspl9zi1ZdieGy1UfStYvFqXHVsVTI_RW1zCR2ZjzIBkz7IWZNYnOczki48625k-LSfnLjDZ01jJ53exsYgwGe0wggVeF6QjPA=w1730-h1297-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3ey2frgnAAOEyhaDu2eyBBFYqm6yO18kGHd53rssxzfxPgqZAcMbVZJLspl9zi1ZdieGy1UfStYvFqXHVsVTI_RW1zCR2ZjzIBkz7IWZNYnOczki48625k-LSfnLjDZ01jJ53exsYgwGe0wggVeF6QjPA=w400-h300-no?authuser=0
+    title: "Bavarian prealps, here we are"
+    alt: "Bavarian prealps, here we are"
+
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3dIvgzv7V0zSigeZj0JzwrWQurQknmClDjuxhVda5Bab3YzBz7-LJmDE3hOtpytjFGxjqARqErNybbafqPjgun9rCQi8kCOBypqIA8brEpK1JSpUjDP3w8Hm62FcGje0HQK-Pm-0STIeEjIqxi-n_68zg=w973-h1297-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3dIvgzv7V0zSigeZj0JzwrWQurQknmClDjuxhVda5Bab3YzBz7-LJmDE3hOtpytjFGxjqARqErNybbafqPjgun9rCQi8kCOBypqIA8brEpK1JSpUjDP3w8Hm62FcGje0HQK-Pm-0STIeEjIqxi-n_68zg=w300-h400-no?authuser=0
+    title: "BaySF trail, flowy but slow often (our legs after 2 days are not that powerful)"
+    alt: "BaySF trail, flowy but slow often (our legs after 2 days are not that powerful)"
+    end_row: "true"
+
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3dBkNl9EVnl4Xa02obI6IIgk77VDAD_K0WQQ0nQILAfqAZ2aBH8KXTuNxQm64IlfjwztNdzzJJ5G7CzuDROliqxDU1LCQet5f19gqm-U5a6z0NLL_wgKIr-7l53dNTimH7SO8nNiePowxDhLy0VelXybg=w973-h1297-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3dBkNl9EVnl4Xa02obI6IIgk77VDAD_K0WQQ0nQILAfqAZ2aBH8KXTuNxQm64IlfjwztNdzzJJ5G7CzuDROliqxDU1LCQet5f19gqm-U5a6z0NLL_wgKIr-7l53dNTimH7SO8nNiePowxDhLy0VelXybg=w300-h400-no?authuser=0
+    title: "Danka on the trail"
+    alt: "Danka on the trail"
+
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3cNw_3fO903n91IgTk2kewaEPfCEJQkXQlR_5OQWeqpRGf0uZxc5RswdnYtcBw_rl42VaHprlN5p_MTzqcj9QcP6h-MO6ohGkMLwoMa4SLB-K6QCv-3bhBG-nwEilwxMAegWx5AnEQ79txvz9nG5Pg-pA=w973-h1297-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3cNw_3fO903n91IgTk2kewaEPfCEJQkXQlR_5OQWeqpRGf0uZxc5RswdnYtcBw_rl42VaHprlN5p_MTzqcj9QcP6h-MO6ohGkMLwoMa4SLB-K6QCv-3bhBG-nwEilwxMAegWx5AnEQ79txvz9nG5Pg-pA=w300-h400-no?authuser=0
+    title: "Moving to Tirol again"
+    alt: "Moving to Tirol again"
+
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3d7l__5VaakpLPh7tUVvhGgw6j4PKQ6L4VdReaEsl0rX5gvCfG7hq8Rgqo2hRQ0_pZxCfq26TqOY7YfQ5B6r6pEBu07M-N8_oenv5eq6h-g-ne9RX-2jBEevVTK-rVqZkibXtgVoWnCqm1qaWJTdIBVmw=w973-h1297-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3d7l__5VaakpLPh7tUVvhGgw6j4PKQ6L4VdReaEsl0rX5gvCfG7hq8Rgqo2hRQ0_pZxCfq26TqOY7YfQ5B6r6pEBu07M-N8_oenv5eq6h-g-ne9RX-2jBEevVTK-rVqZkibXtgVoWnCqm1qaWJTdIBVmw=w300-h400-no?authuser=0
+    title: "Ascend to Rotwandlhütte"
+    alt: "Ascend to Rotwandlhütte"
+    end_row: "true"
+
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3eKqcePGi2NrFfdAvc5Ca8XaBn__IwvtUYi0ZTUczSxfJYdJIHUnN2-q2LchRrReXavcSyCCA1W8YEkSahzUHLtt_s_WNZCZasdw4L1Ix1dltLrGfxLXlxxAYPo6AqYp_PnQSkSphCeNmCRri5sE56QTQ=w1730-h1297-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3eKqcePGi2NrFfdAvc5Ca8XaBn__IwvtUYi0ZTUczSxfJYdJIHUnN2-q2LchRrReXavcSyCCA1W8YEkSahzUHLtt_s_WNZCZasdw4L1Ix1dltLrGfxLXlxxAYPo6AqYp_PnQSkSphCeNmCRri5sE56QTQ=w400-h300-no?authuser=0
+    title: "Demeljoch"
+    alt: "Demeljoch"
+
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3cwbbom6VjPh3XoXnftVb2ui42EMwEpDmu6C_DOSzCHZsbjemxXUIF0HiMyMA7pvYtwMlP9edQyFy9ffa4jV9meUD7xk_P4KlNyCwM_aJs5iwPlWh0xIwjIiorvEL35u4FBBUNsfnq6Qf8EZiHptKK1rA=w1730-h1297-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3cwbbom6VjPh3XoXnftVb2ui42EMwEpDmu6C_DOSzCHZsbjemxXUIF0HiMyMA7pvYtwMlP9edQyFy9ffa4jV9meUD7xk_P4KlNyCwM_aJs5iwPlWh0xIwjIiorvEL35u4FBBUNsfnq6Qf8EZiHptKK1rA=w400-h300-no?authuser=0
+    title: "Hola, Karwendel again"
+    alt: "Hola, Karwendel again"
+
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3d56j5Pwo01rxn68OI8zdl2W4lixafJWvmcKk4-IAPFToBo6fNR3nNwARH7aggYLTujGrSqItArgTVUsGGtncrJVYT6p-DeqDxzzoaocEPaYhb1cKXkiABnM-UNcVASifzg63Ci5dzBQ80S4TUzL6yFcQ=w1730-h1297-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3d56j5Pwo01rxn68OI8zdl2W4lixafJWvmcKk4-IAPFToBo6fNR3nNwARH7aggYLTujGrSqItArgTVUsGGtncrJVYT6p-DeqDxzzoaocEPaYhb1cKXkiABnM-UNcVASifzg63Ci5dzBQ80S4TUzL6yFcQ=w400-h300-no?authuser=0
+    title: "Proof we made it to the last saddle of our trip"
+    alt: "Proof we made it to the last saddle of our trip. alpineduo"
+    end_row: "true"
+
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3dP4C-9lEVY8IpdD639p014nmXTD4j9P71PVFkOF3726wfKgJIyk3Tp2NwvAp_jJkxLgG_Dn7HnYVKqCEvHWdCedPQASI6F_LMd89QO6W30NTvi_4Z7wxdUDjz470ZFBARBjcAH4iQgp7nvSrEgKwrxzw=w1730-h1297-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3dP4C-9lEVY8IpdD639p014nmXTD4j9P71PVFkOF3726wfKgJIyk3Tp2NwvAp_jJkxLgG_Dn7HnYVKqCEvHWdCedPQASI6F_LMd89QO6W30NTvi_4Z7wxdUDjz470ZFBARBjcAH4iQgp7nvSrEgKwrxzw=w400-h300-no?authuser=0
+    title: "Looking back to the hut"
+    alt: "Looking back to the hut"
+
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3eIGqKJ8ur8Spw0Aew88PNmO-kAH8UPgiylEtJr0EA1EKT5pg3MyxoDCEOarPdJk1n8KiENfGTrtgEA-21If8SsxI_f1WYD09h1bsx4ZtY19j7i2iSn64VvuQNewr4Fh3L0qbUHwladUgxNC_xq3r-G8A=w973-h1297-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3eIGqKJ8ur8Spw0Aew88PNmO-kAH8UPgiylEtJr0EA1EKT5pg3MyxoDCEOarPdJk1n8KiENfGTrtgEA-21If8SsxI_f1WYD09h1bsx4ZtY19j7i2iSn64VvuQNewr4Fh3L0qbUHwladUgxNC_xq3r-G8A=w300-h400-no?authuser=0
+    title: "The road back to the start"
+    alt: "The road back to the start"
 
 ---
 
+4 day weekend, what a treat! We planned something special for this occasion, namely a 3-day MTB tour around Karwendel (weather forecast for Sunday was 15L of rain). Karwendel Alpine Park is the oldest and the largest park in Austria, comprising a surface area of more than 700 sqkm - and riding bikes outside of cycling paths is basically forbidden. Nonetheless, this tour is totally worth it! It is challenging though - physically and mentally. Some of the climbs are pretty mean. A shortened version of this - split in two days - is a popular alternative. Part of our crew did it 2 years ago. This year, we wanted to extend it. 
+
+The tour and our first stage started at Fall, a small village close to Sylvensteinsee, where we also met with Peter and Borka. Our first destination was Karwendelhaus, via Vereiner Alm. Our motivation was put into test once we had to cross a little stream - the Fermersbach. The water was ICE cold and the current so strong that wheeling across the stream was out of the question. Let me tell you, this is not how refreshing feels like. My feet were (ironically) burning from the cold. Anyway, this was a little teaser of the suffering to come later, I guess.  We had our first (well deserved) break at Vereiner Alm, after some 30 km & 700 m elevation gain. Then we descended back to Mittenwald. Up to here, the roads were mostly gravel with, well, mediocre views. I mean, the views were actually nice, but they cannot be compared to those yet to come. By the time we left Mittenwald, it was around 17.00. We still had ca. 25 km to and 850 vertical meters left to travel. Firstly we needed to cross the whole Karwendeltal. All seemed so nice and peaceful - cows lying on the meadows with precious sunshine throwing light at impeccable mountains. And then…. BAM! A little dot on the top - which seemed too far and too high was Karwendelhaus. We actually managed to bike all the way up and reached our destination around 20.30. We kept looking back into the valley, the views are great from there, especially on a clear day like we had. We missed dinner time, but still were kindly offered spaghetti bolognese, but a hungry eater is a good eater, after all. There were not much people up here to our surpise (good for us).
 
 {% include flexgallery id="gallery-karwendel-day1" caption="Karwendel extended 3 day biking trip - day 1 - Jun 20" %}
+
+The second stage, consisting of another 70 km and 1500 vertical meters, led to Guffert Hütte via Plamsjoch Hütte. It was VERY pleasant to start a day with an easy descent surrounded by amazing views. All the suffering on the day before was not for nothing! We reached our first climb some 2.5 hours later. We could see the Pflamsjoch Hütte from below. That stage, in contrast to the previous one, was really hot in terms of temperature. This basically drains the energy out of you. At some point, we were passed by two little girls on e-bikes and I must admit I did feel a little jealous. On the other hand, they won't get a Radler as a reward at the end. I think we basically developed a Pawlow reflex by now. See hut - do pedal - get Radler! The descent from here was a little steep, with some loose rocks. Totally doable, but not so much enjoyable. Also, this is a quite busy road for hikers and despite of being wide you may encounter situations where you have to come to a full stop. After some lunch at Achensee, Martin couldn't resist but to dip in the water, despite the fact that it was really cold. The cold water has not stopped the many tourists on the beaches from enjoying the weather though. I can understand, the scenery is impressive. We actually caught ourselves making future holiday plans at Achensee, not long after reaching it. It basically sells itself and it is very convincing! Anyway, once we were done making holiday plans, swimming and observing kitesurfers, we biked to Achenkirch. Here we split from Borka and Peter.  Borka had to work the next day. She is a doc, so Saturday is a relative term for her. Martin and I continued towards Gufferthütte. We run out of water right at the beginning of the climb and, admittedly,  I started getting pretty  “hangry” as well. At such a (low) point, anything that happens is basically Martin's fault. Sorry, Schatzi! Luckily, he is very peaceful and it's almost impossible to have an argument with him. Believe me, I tried...many times. Finally, we were pretty happy to have reached Guffert Hütte. Funny enough the corona restrictions here were quite different from those at Karwendelhaus. But who are we to judge who does the right thing or not. We basically keep our distance, wash our hands and try to avoid touching anything at all times. 
 
 
 {% include flexgallery id="gallery-karwendel-day2" caption="Karwendel extended 3 day biking trip - day 2 - Jun 20" %}
 
+The third stage, finally! I tried to convince my brain that we are “just getting to the car” at this point, even though I knew that we were making a detour to Rotwandlhütte (not Rotwandhouse). Why? I don't even know anymore. Anywho, the day started with a descent all the way to the German-Austrian border. Nothing special really, just a gravel road. Once we crossed to the German side, we had to carry the bikes for a little climb. Then we biked uphill on a single track (probably S1). This part was really beautiful and quiet. One can only imagine how flowy and fun it is in the other direction. Maybe next time! Not long after,  we reached the BaySF trial. It's not steep enough, so quite a lot of pedalling is required to reach a fun speed for the obstacles. In case that is too much effort, an alternative concrete road is built next to it. From there we followed the Weißbach and Achenseestraße, some 20km. Last but not least, we have reached the starpoint of our final - some 700 vertical meters. I may be a little biased, but this one seemed endless. Luckily, in contrast to the previous climbs, it ended with a flat segment. I always prepare for the worst and an easy finish cheers me up. The views from the top are spectacular. Totally worth it! Despite all this amazing nature, we were ready to go home and shower. The descent was a real descent - no hidden climbs. We got directly to the parking lot where we left three days ago. By now the smallest things made us really happy - like old spare shoes we left in the car or that can of tuna for emergencies. 
 
-{% include flexgallery id="gallery-karwendel-day2" caption="Karwendel extended 3 day biking trip - day 3- Jun 20" %}
+Believe it or not, this trip was not just for fun, as usually. We wanted to test our (dis)ability to bike with heavy backpacks for three consecutive days, to kinda imitate what unexpected things can come up during longer trips. We have been playing with the idea to do a 6-7 MTB trip with some friends for a while now. As expected, unexpected things did come up. We are physically ready, but our equipment may need some adjustments. Martin is getting new insoles for his shoes  and I will be getting some proper MTB shorts. Also, our tan lines are getting pretty ridiculous - 50UV sunscreen has its limits too, not sure what the solution would be for this... 
+
+
+{% include flexgallery id="gallery-karwendel-day3" caption="Karwendel extended 3 day biking trip - day 3 - Jun 20" %}
 
 ## Tour info
 
@@ -243,14 +319,14 @@ Duration
 
 ## Activity view
 
-Day 1
+Day 1 - Fall to Karwendelhaus
 
 <iframe src="https://www.komoot.com/tour/201856682/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
 
-Day 2
+Day 2 - Karwendelhaus to Guffer Hütte
 
 <iframe src="https://www.komoot.com/tour/201915270/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
 
-Day 3
+Day 3 - Guffer Hütte to Fall
 
 <iframe src="https://www.komoot.com/tour/201999261/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
