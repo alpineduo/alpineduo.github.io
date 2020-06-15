@@ -310,7 +310,7 @@ The third stage, finally! I tried to convince my brain that we are “just getti
 Believe it or not, this trip was not just for fun, as usually. We wanted to test our (dis)ability to bike with heavy backpacks for three consecutive days, to kinda imitate what unexpected things can come up during longer trips. We have been playing with the idea to do a 6-7 MTB trip with some friends for a while now. As expected, unexpected things did come up. We are physically ready, but our equipment may need some adjustments. Martin is getting new insoles for his shoes  and I will be getting some proper MTB shorts. Also, our tan lines are getting pretty ridiculous - 50UV sunscreen has its limits too, not sure what the solution would be for this... 
 
 
-{% include flexgallery id="gallery-karwendel-day3" caption="Karwendel extended 3 day biking trip - day 3 - Jun 20" %}
+{% include flexgallery id="gallery-karwendel-day3" caption="Karwendel extended 3 days biking trip - day 3 - Jun 20" %}
 
 ## Tour info
 
@@ -325,14 +325,14 @@ Duration
 
 ## Activity view
 
-Day 1 - Fall to Karwendelhaus
+Day 1: Fall - Karwendelhaus
 
 <iframe src="https://www.komoot.com/tour/201856682/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
 
-Day 2 - Karwendelhaus to Guffer Hütte
+Day 2: Karwendelhaus - Guffer Hütte
 
 <iframe src="https://www.komoot.com/tour/201915270/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
 
-Day 3 - Guffer Hütte to Fall
+Day 3: Guffer Hütte - Fall
 
 <iframe src="https://www.komoot.com/tour/201999261/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
