@@ -25,6 +25,7 @@ gallery-davos-day1:
     image_path: https://lh3.googleusercontent.com/pw/ACtC-3ee5SBRZAKt4FtPEwqUMS8b0XjElVNVeUOL3BxAX8gHyyj8EpE3SizCVlCD0yPpYo4Q4nDxyB34z-lCrKv7baA3CLl_OpoaexliKhp_Rc0jIzV0Mxn919-AudcJc7doJTGkWikZYODoaKtL0kMuvVfXaQ=w300-h400-no?authuser=0
     title: "Davos Frauenkirch"
     alt: "Davos Frauenkirch"
+    end_row: "true"
 
   - url: https://lh3.googleusercontent.com/pw/ACtC-3ea69bTHLq8DpmCzXX16wazVW_zlFBV9xOyefXJ0NZdEcm0PyqniYf1oJzbKD4L0avc3jeuOjpkx-cqNxN-MvC9kljNChc7q2a1mFL8Ehi72VW6wt7byXnSFSRIQEPqMz2rcXv_6zWFLBoqGUDSjx6e5w=w1730-h1297-no?authuser=0
     image_path: https://lh3.googleusercontent.com/pw/ACtC-3ea69bTHLq8DpmCzXX16wazVW_zlFBV9xOyefXJ0NZdEcm0PyqniYf1oJzbKD4L0avc3jeuOjpkx-cqNxN-MvC9kljNChc7q2a1mFL8Ehi72VW6wt7byXnSFSRIQEPqMz2rcXv_6zWFLBoqGUDSjx6e5w=w400-h300-no?authuser=0
@@ -40,6 +41,7 @@ gallery-davos-day1:
     image_path: https://lh3.googleusercontent.com/pw/ACtC-3f6YvTneAL2obRYErzVe_4qM7At5GJxisf3VbUCfdVjfy_0t6ONAt38O8y0Uc0-EqG1kk_9Sb4AlBNZVJEHZ83RsozJji7RsEJ5x8cL1fHCfOs2vC4aG2FQyWC5-eR8b78PqfiBt1LX6e8zPWVgCwP4ZA=w300-h400-no?authuser=0 
     title: "Danka showing the snow fields"
     alt: "Danka showing the snow fields"
+    end_row: "true"
 
   - url: https://lh3.googleusercontent.com/pw/ACtC-3cxSEaWmaRhrVYTwMMQykbwhYXSixnE_M6ktbxGU7o5-9hhxBLmWnL6z7qzF2InnZ9Jy1bG59A9PwJW7mCr8FxEAun-z4QBLu7iihTscikmAGjtOxHRZvM1hy3Wm593xlSXfD_q303btXuBwH9guv7kTg=w1730-h1297-no?authuser=0
     image_path: https://lh3.googleusercontent.com/pw/ACtC-3cxSEaWmaRhrVYTwMMQykbwhYXSixnE_M6ktbxGU7o5-9hhxBLmWnL6z7qzF2InnZ9Jy1bG59A9PwJW7mCr8FxEAun-z4QBLu7iihTscikmAGjtOxHRZvM1hy3Wm593xlSXfD_q303btXuBwH9guv7kTg=w400-h300-no?authuser=0 
@@ -55,6 +57,7 @@ gallery-davos-day1:
     image_path: https://lh3.googleusercontent.com/pw/ACtC-3ft6Tf0I70N3GhFHsK9NoE4cvOvKLydIVT8BTbzwoS2Cryf1wwsLLV6fkwswnteBV0dT-X2Tf3EkOZmlp76ZY0pqSgYYQqyXmgjT4K9yQ5qXpZj-CwNlyLyKXf3Vs_cF4Xfks7j3BkVaXZUBAte474-Sw=w400-h300-no?authuser=0
     title: "Wet, variable Jakobshorn trail"
     alt: "Wet, variable Jakobshorn trail"
+    end_row: "true"
 
   - url: https://lh3.googleusercontent.com/pw/ACtC-3fdC5yNDmzok8hbDUUfpjE6K5v-aJsjqfp2JB39vc2MhKXJOfdQ2twh8U30983qCnpJ1tan1H-5h26FMnzKXNI8NH5TuAXX4JB0JfB_G1C2OeOLM0qyq_ghIlG8psmhwmHyiNbigUtvhPPSpkF82AHPXw=w973-h1297-no?authuser=0
     image_path: https://lh3.googleusercontent.com/pw/ACtC-3fdC5yNDmzok8hbDUUfpjE6K5v-aJsjqfp2JB39vc2MhKXJOfdQ2twh8U30983qCnpJ1tan1H-5h26FMnzKXNI8NH5TuAXX4JB0JfB_G1C2OeOLM0qyq_ghIlG8psmhwmHyiNbigUtvhPPSpkF82AHPXw=w300-h400-no?authuser=0
@@ -70,6 +73,7 @@ gallery-davos-day1:
     image_path: https://lh3.googleusercontent.com/pw/ACtC-3eyH6Yr42pNezHci0wTafcUdYMtNmL5v7f5XnCGVjeLAU5yOh5Vx69YvAM6TQltFJbMwPAJs4cR6j2MEMAZyptG1L31SvnePHkrplTeTrhssPSSblHRsuXf_G9pXvitfNkLiOGQJQXhwueAA0A-JIBKOQ=w400-h300-no?authuser=0
     title: "Danka focused on trail"
     alt: "Danka focused on trail"
+    end_row: "true"
 
   - url: https://lh3.googleusercontent.com/pw/ACtC-3dqIX-xZEniHb3wHoB80rgogLfDsq2sSQl-TLSGkCzZl8rn1qi3kEtzeU_khmDj90DFQz6LR67T3W1YMv-Falik63S7WUUdvm8b343Uaq3zX0QyTH0R7nY7GH9-9VptQMhvlvosqWFAXZECSR_llcUMLg=w1730-h1297-no?authuser=0
     image_path: https://lh3.googleusercontent.com/pw/ACtC-3dqIX-xZEniHb3wHoB80rgogLfDsq2sSQl-TLSGkCzZl8rn1qi3kEtzeU_khmDj90DFQz6LR67T3W1YMv-Falik63S7WUUdvm8b343Uaq3zX0QyTH0R7nY7GH9-9VptQMhvlvosqWFAXZECSR_llcUMLg=w400-h300-no?authuser=0 
@@ -85,6 +89,7 @@ gallery-davos-day1:
     image_path: https://lh3.googleusercontent.com/pw/ACtC-3cdUVcyxwcxQfGnLQZ-y2pvemntStawHePF52mXkOUQUhxzUq6mJmEV3V-Q3k5b85YaCkaGrk-LbdUP_x5cQsNeGnMwYcaKrgslR0sU4xTIane_AiY6eGyPhV1fsjMJJ1TXbU4z2KjdZQ0ylojnNiQbcw=w300-h400-no?authuser=0
     title: "We were on our bikes often"
     alt: "We were on our bikes often"
+    end_row: "true"
 
   - url: https://lh3.googleusercontent.com/pw/ACtC-3eijVnYCoKzF0mbHkW-M38jUG3jJqwmmNsv8MpzAObCnZJhBEzYf9W6q_HUSVXKXL8lZq9AvYhdZ_nwevGiKl5qOWRmCZoYun5eoCBryLhyA1FxWnyM9Hmu3WhNAUjam4T0rj4tSgLb2VwidJzxBr4h_g=w1730-h1297-no?authuser=0
     image_path: https://lh3.googleusercontent.com/pw/ACtC-3eijVnYCoKzF0mbHkW-M38jUG3jJqwmmNsv8MpzAObCnZJhBEzYf9W6q_HUSVXKXL8lZq9AvYhdZ_nwevGiKl5qOWRmCZoYun5eoCBryLhyA1FxWnyM9Hmu3WhNAUjam4T0rj4tSgLb2VwidJzxBr4h_g=w400-h300-no?authuser=0
@@ -100,7 +105,7 @@ gallery-davos-day1:
     image_path: https://lh3.googleusercontent.com/pw/ACtC-3fMEpmHmKNgJ7ckTm6ugt0E-1TsUgM6VauMXzT7FjyAktiwLYTX69xkeaemJ4WaX8Hd9BzVFodA2ntSB66CW76d9KYrrWUbSZZalygfW1pp9kdhl30XZ49Dejf_9dzGyQMbIVfg5Mfu4gCs66LmRpqxpw=w300-h400-no?authuser=0
     title: "Monstein 335 single track"
     alt: "Monstein 335 single track"
-
+    end_row: "true"
 
   - url: https://lh3.googleusercontent.com/pw/ACtC-3c6iWBXiv4sONi-g1TzR-doEFzQMMIQWNXvEDLX27yweBT3CS66gX0IcnlD3MJJLb1nxr-Urj-6dVjrtX5IVftu--5AYYgeQQp2Q2pSrs_8bnvkKIh_sDHXyuT8F8O6p2uBuXIXX9cyIA0NIUXLZeYMGA=w973-h1297-no?authuser=0
     image_path: https://lh3.googleusercontent.com/pw/ACtC-3c6iWBXiv4sONi-g1TzR-doEFzQMMIQWNXvEDLX27yweBT3CS66gX0IcnlD3MJJLb1nxr-Urj-6dVjrtX5IVftu--5AYYgeQQp2Q2pSrs_8bnvkKIh_sDHXyuT8F8O6p2uBuXIXX9cyIA0NIUXLZeYMGA=w300-h400-no?authuser=0 
@@ -118,6 +123,7 @@ gallery-davos-day1:
     image_path: https://lh3.googleusercontent.com/pw/ACtC-3cjrNME_l07tCbdC8dLF7hk6KPyt74HtAZ-8kkgWErXeGcp8KecKW1p2Ugj4jt8G_1KWahU8pmxxjvmGDiPTNqdJBYN7a5dmamqGfGR875sNy3rsi0SEr0ALB6Q1WsFNToV7FLkQMIY6UNQGeaMs5CHKg=w400-h300-no?authuser=0
     title: "The views are great"
     alt: "The views are great"
+    end_row: "true"
 
 
   - url: https://lh3.googleusercontent.com/pw/ACtC-3fdX5-Rh6n1k1cm4dI1arF6KfGvfWp6UR0VLv7M1TDFui-zy-IVFY00GpwiM6jvlgnFKp9v-4Uw-QUTbXJDbDm8LslpRteK6BRut3-I97hYDYzI0nKYZWgL7XMajnOQjegC-xF6SEE6rH15nQpOPzfckA=w973-h1297-no?authuser=0
@@ -136,6 +142,7 @@ gallery-davos-day1:
     image_path: https://lh3.googleusercontent.com/pw/ACtC-3f9JnIRxkDTCB8i9BAIwDQBfjvOx6F2ZHkKfQYJSeCF7hKdOFaJYy7w1MLHiwnwlm3LLZ-zomv_qNclffTbHS5KA3D55z17k_FVrPRyEO4bXrbfyiPEUtx2v1fboUEJgtT2SyKo1iJPogoR23UIGNRrqA=w400-h300-no?authuser=0
     title: "Zügenschlucht"
     alt: "Zügenschlucht"
+    end_row: "true"
 
   - url: https://lh3.googleusercontent.com/pw/ACtC-3eyATmiANkhWy_kiiQpBFOq4ArbHY1EBbMAk7EcSMDOkJ9VyCIn_9FgZFQwdGtu-tTRvsLogRcR9dDafSu3mw33Hjutw2ZRgZ1wTLVvlofBZaTxHaxjnN_LdugvHF_-0Y5aavtJfaGNADu-rfBxaZmbXg=w1730-h1297-no?authuser=0
     image_path: https://lh3.googleusercontent.com/pw/ACtC-3eyATmiANkhWy_kiiQpBFOq4ArbHY1EBbMAk7EcSMDOkJ9VyCIn_9FgZFQwdGtu-tTRvsLogRcR9dDafSu3mw33Hjutw2ZRgZ1wTLVvlofBZaTxHaxjnN_LdugvHF_-0Y5aavtJfaGNADu-rfBxaZmbXg=w400-h300-no?authuser=0
@@ -151,6 +158,7 @@ gallery-davos-day1:
     image_path: https://lh3.googleusercontent.com/pw/ACtC-3etx7glaswIcNgYgAI8-z10bx-hVSdddzlRtNPtCHDtsdH7_-sVogAtQnvhxJE2J0fkb9K1yNyGevdxzKGKU3DqSDPI208eZm-sNTNGpJ4k_gVUyPUCEZGQslawZuRbOtbyKGf081jszhwFT7YJXcZMBg=w400-h300-no?authuser=0 
     title: "We continue following the trial along the river"
     alt: "We continue following the trial along the river"
+    end_row: "true"
 
   - url: https://lh3.googleusercontent.com/pw/ACtC-3fHz1HTLyzr-ny8XflMPNcMEQov9_G7fGKhN90YYlhPxvfzRyL6B7tv1cQw0_Dqw1zOPfdfbHOg1LPkOl3-5mJHlnwo7Qe9Dy6Q2R-16wX4oaEx9Q-BgLtVNQrZuoc9fvKxBqrDSLfxMkae39W1vnlTvQ=w973-h1297-no?authuser=0
     image_path: https://lh3.googleusercontent.com/pw/ACtC-3fHz1HTLyzr-ny8XflMPNcMEQov9_G7fGKhN90YYlhPxvfzRyL6B7tv1cQw0_Dqw1zOPfdfbHOg1LPkOl3-5mJHlnwo7Qe9Dy6Q2R-16wX4oaEx9Q-BgLtVNQrZuoc9fvKxBqrDSLfxMkae39W1vnlTvQ=w300-h400-no?authuser=0
@@ -163,9 +171,10 @@ gallery-davos-day1:
     alt: "Selfie with Landwasserviadukt"
 
   - url: https://lh3.googleusercontent.com/pw/ACtC-3c8GNQO-Gi5-a2E-Jtqrvtl__C8KKNTve5HaKoE6QTa4L1fpbojitVhVorSRuUbSA6fSzN8pGg5_dKd9VWQ_uy2SoyBbSVWX5NwDB3_0r0CcUa5G8I3a-i5VOYq_WPEvR0G6dvoEtcvqU6ifLxr55McXw=w973-h1297-no?authuser=0
-    image_path: https://lh3.googleusercontent.com/pw/ACtC-3c8GNQO-Gi5-a2E-Jtqrvtl__C8KKNTve5HaKoE6QTa4L1fpbojitVhVorSRuUbSA6fSzN8pGg5_dKd9VWQ_uy2SoyBbSVWX5NwDB3_0r0CcUa5G8I3a-i5VOYq_WPEvR0G6dvoEtcvqU6ifLxr55McXw=w973-h1297-no?authuser=0 
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3c8GNQO-Gi5-a2E-Jtqrvtl__C8KKNTve5HaKoE6QTa4L1fpbojitVhVorSRuUbSA6fSzN8pGg5_dKd9VWQ_uy2SoyBbSVWX5NwDB3_0r0CcUa5G8I3a-i5VOYq_WPEvR0G6dvoEtcvqU6ifLxr55McXw=w300-h400-no?authuser=0 
     title: "Filisur, we made it ! Epic trail done"
     alt: "Filisur, we made it ! Epic trail done"
+    end_row: "true"
 
 gallery-davos-day2:
 
