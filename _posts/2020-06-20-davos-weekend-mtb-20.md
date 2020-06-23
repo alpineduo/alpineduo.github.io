@@ -2,8 +2,8 @@
 title: "Davos mtb weekend - Jun 20"
 description: "Davos Switzerland Home of trails mtb mountain biking"
 header:
-  image: 
-  teaser:
+  image: https://lh3.googleusercontent.com/pw/ACtC-3cnbQG3BeG0OsB7z4QF_o4_fE3i6UX80O1qb-YKQxF9reIZ061nu9njcQwGO_LpWlgYWEhtOd2_Z6a4Iegt9iNirBX7t_V2T33TCdEE4n3M7PDKH330AMgFVARaG4Y7tP5zga0xDtjbpE8lhkXEvmOr1w=w1730-h1297-no?authuser=0
+  teaser: https://lh3.googleusercontent.com/pw/ACtC-3cnbQG3BeG0OsB7z4QF_o4_fE3i6UX80O1qb-YKQxF9reIZ061nu9njcQwGO_LpWlgYWEhtOd2_Z6a4Iegt9iNirBX7t_V2T33TCdEE4n3M7PDKH330AMgFVARaG4Y7tP5zga0xDtjbpE8lhkXEvmOr1w=w800-h300-no?authuser=0
   caption: "alpineduo"
 categories: mtb
 tags:
@@ -178,23 +178,90 @@ gallery-davos-day1:
 
 gallery-davos-day2:
 
-  - url: 
-    image_path: 
-    title: ""
-    alt: ""
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3cN76LFHYi6iZ1qo8wDcYtbYThRa2EAutWwnpvd-_OZFPCmUCD5mf9e1Z1QA8l-3t2wM77IQLCw7kuIH_m_mi98hMmj1FZyzj9wWG59MMk7_u0TrW4SgTfTr18EaubOlPJr6sdGD6N4ac00pw-SLA1Zkw=w1756-h1316-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3cN76LFHYi6iZ1qo8wDcYtbYThRa2EAutWwnpvd-_OZFPCmUCD5mf9e1Z1QA8l-3t2wM77IQLCw7kuIH_m_mi98hMmj1FZyzj9wWG59MMk7_u0TrW4SgTfTr18EaubOlPJr6sdGD6N4ac00pw-SLA1Zkw=w400-h300-no?authuser=0
+    title: "Starting ascending to Strelapass"
+    alt: "Starting ascending to Strelapass"
 
-  - url: 
-    image_path: 
-    title: ""
-    alt: ""
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3f13tHZJIV12GmLmctPRd_q3gDAPZiFWZLFQe1r98wDpPOBxEXbn3RJ7nZV_rSct1tMAntcUIZQC2xp_L3n2TIjatgwQ84pQlu6jD9u2bXF_kHWYoVM9pdfXtcBtCuYw2jyOmvf4cANmwTUdX_J2xsPlQ=w988-h1316-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3f13tHZJIV12GmLmctPRd_q3gDAPZiFWZLFQe1r98wDpPOBxEXbn3RJ7nZV_rSct1tMAntcUIZQC2xp_L3n2TIjatgwQ84pQlu6jD9u2bXF_kHWYoVM9pdfXtcBtCuYw2jyOmvf4cANmwTUdX_J2xsPlQ=w300-h400-no?authuser=0
+    title: "Foggy and rainy above us"
+    alt: "Foggy and rainy above us"
 
-  - url: 
-    image_path: 
-    title: ""
-    alt: ""
-
-
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3f3uAwhBbVUsbXMsF0J4Yem0UlFes8Dv39GvvwgeHGH17Kw4X1XSkpEsy8DFRlLl6l0FntFM__-Xn2R723mtbvxrPskAwX3ym2vqWE20xftotza0JmVBkg8lBXkTF7hZDHYus9YyMXgrhs3MmNZ8SVPFQ=w1756-h1316-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3f3uAwhBbVUsbXMsF0J4Yem0UlFes8Dv39GvvwgeHGH17Kw4X1XSkpEsy8DFRlLl6l0FntFM__-Xn2R723mtbvxrPskAwX3ym2vqWE20xftotza0JmVBkg8lBXkTF7hZDHYus9YyMXgrhs3MmNZ8SVPFQ=w400-h300-no?authuser=0
+    title: "Davos town"
+    alt: "Davos town"
     end_row: "true"
+
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3cyMgPLoiXSGdj6fgCjXz8gXqcGRiSAY4nPsewvJidVkZ-jgnRKorakcLW_GH3qubzuDn0GncQsBmWv94GCUJGWH-NTjjcTsfqe9zjLrY5YwWVD4ivVIC_btx1W-Mqsu2qT1h4HlQdZkZnKPSBSJy5Cpw=w1756-h1316-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3cyMgPLoiXSGdj6fgCjXz8gXqcGRiSAY4nPsewvJidVkZ-jgnRKorakcLW_GH3qubzuDn0GncQsBmWv94GCUJGWH-NTjjcTsfqe9zjLrY5YwWVD4ivVIC_btx1W-Mqsu2qT1h4HlQdZkZnKPSBSJy5Cpw=w400-h300-no?authuser=0
+    title: "Schiahorn, finally some sun"
+    alt: "Schiahorn, finally some sun"
+
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3eVbna6gI51l8B6mor3Lu3SCAN99i25GcEpn6rg6SrleQiRa0wCtRZa9MGwY9Mz9H0sE7p7rOC1Y-Ek0f08UE-LrLyg0H8Vq1GN5DYF6RnM_RmYPB9yj9g5ydBxyYwDER7lomkvaz_tlhQt4ld1Yqk4nw=w1756-h1316-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3eVbna6gI51l8B6mor3Lu3SCAN99i25GcEpn6rg6SrleQiRa0wCtRZa9MGwY9Mz9H0sE7p7rOC1Y-Ek0f08UE-LrLyg0H8Vq1GN5DYF6RnM_RmYPB9yj9g5ydBxyYwDER7lomkvaz_tlhQt4ld1Yqk4nw=w400-h300-no?authuser=0 
+    title: "Strela pass"
+    alt: "Strela pass"
+
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3cIl919Dq0lobytjGNyXxislSCgdGesaOWeyMbWxaT0SvzXfolqM2Vc7WmHSwwPXj_RvHPvVDYYGg229xiXeLib2x84TYiAbpLqyKhnMHsXi9_YohvFzPoUvpmi0YTAeduNAGWmcp_ztKFjr-IVdJoPQA=w988-h1316-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3cIl919Dq0lobytjGNyXxislSCgdGesaOWeyMbWxaT0SvzXfolqM2Vc7WmHSwwPXj_RvHPvVDYYGg229xiXeLib2x84TYiAbpLqyKhnMHsXi9_YohvFzPoUvpmi0YTAeduNAGWmcp_ztKFjr-IVdJoPQA=w300-h400-no?authuser=0
+    title: "Panorama trail start"
+    alt: "Panorama trail start"
+    end_row: "true"
+
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3daAouqjdNX1FriQYdoiDajwhJoasRML2AexANcvIdQDZHJU47tXBKq71aB-MKtzAplTgr4JeRJfcUtMEkGDYg7jXt9BOn5Him_ab3zRDwSwkINgmUr9-1m5m6Yqr91HvV5tklp7JZhFo1Xssrez-zv1A=w1756-h1316-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3daAouqjdNX1FriQYdoiDajwhJoasRML2AexANcvIdQDZHJU47tXBKq71aB-MKtzAplTgr4JeRJfcUtMEkGDYg7jXt9BOn5Him_ab3zRDwSwkINgmUr9-1m5m6Yqr91HvV5tklp7JZhFo1Xssrez-zv1A=w400-h300-no?authuser=0
+    title: "Martin posing on the trail"
+    alt: "Martin posing on the trail"
+
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3eHJoeUsCpHhWK17LKU7k45ZpVXxavF8px52meOc7pMBvcUoR8A8dgpfS2xXX4cL_izG7lbNzwOsDMAl_7zSMh8r1PVc5NT__G3SyaMveT5MKH4d28x65rtf_nhmHUhSfBD5-HnXTQgXaZyChJLWUt08A=w1756-h1316-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3eHJoeUsCpHhWK17LKU7k45ZpVXxavF8px52meOc7pMBvcUoR8A8dgpfS2xXX4cL_izG7lbNzwOsDMAl_7zSMh8r1PVc5NT__G3SyaMveT5MKH4d28x65rtf_nhmHUhSfBD5-HnXTQgXaZyChJLWUt08A=w400-h300-no?authuser=0
+    title: "Panorama views"
+    alt: "Panorama views"
+
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3eijy6rQV-03E6VNddMpzAb-4c2C_ToVnaGaBee8cC5QWKX5ggPRPB-U4dU5DZz5Lz-o5Mi5Dla-jz5urHvXJKnhP97DjEvuuFSZtjyJrWZiiHwFSTUQLME8mp0DesdgZvfnzyxLEP4OHCZ2D8hFxselQ=w1756-h1316-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3eijy6rQV-03E6VNddMpzAb-4c2C_ToVnaGaBee8cC5QWKX5ggPRPB-U4dU5DZz5Lz-o5Mi5Dla-jz5urHvXJKnhP97DjEvuuFSZtjyJrWZiiHwFSTUQLME8mp0DesdgZvfnzyxLEP4OHCZ2D8hFxselQ=w400-h300-no?authuser=0
+    title: "Looking back at Parsenn and the trail around the mountain"
+    alt: "Looking back at Parsenn and the trail around the mountain"
+    end_row: "true"
+
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3e52B32_oa9TnAPqcGFUqptFLru_eMXf3qEGqfKmOkCd0Aeyp2U891HOMQHrZlgyv2aAW8uuu08ClEGgIfwvZ-UIqnuaXqFSIIkFl8Q6thcZRkre4qPAj8Ceq_j843IN1PXAuFI5jc4MqBoWYZgnsXm6Q=w1756-h1316-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3e52B32_oa9TnAPqcGFUqptFLru_eMXf3qEGqfKmOkCd0Aeyp2U891HOMQHrZlgyv2aAW8uuu08ClEGgIfwvZ-UIqnuaXqFSIIkFl8Q6thcZRkre4qPAj8Ceq_j843IN1PXAuFI5jc4MqBoWYZgnsXm6Q=w400-h300-no?authuser=0
+    title: "This yellow dot is always with me"
+    alt: "This yellow dot is always with me"
+
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3esij42-lXuq6qKS-5ZaadFCyzQt9kRIk06Fvy4LS55CbND8SEiyAdugOpgYHnVJ5UaAPO1-NVIbZ9onBboHFHQ4I0VGzpPJbemh0fHB0-hjWDPlFL2UwGckpZgNDsAt56_vFw9mlkWlTjLKkIhrYMwzw=w988-h1316-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3esij42-lXuq6qKS-5ZaadFCyzQt9kRIk06Fvy4LS55CbND8SEiyAdugOpgYHnVJ5UaAPO1-NVIbZ9onBboHFHQ4I0VGzpPJbemh0fHB0-hjWDPlFL2UwGckpZgNDsAt56_vFw9mlkWlTjLKkIhrYMwzw=w300-h400-no?authuser=0
+    title: "Descent start, first S1 then goes to S2 - "
+    alt: "Descent start, first S1 then goes to S2 - "
+
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3enFdEcuauA2xTqFzQAZQGfThLKBczLOYSC0z3e_YP5vpQgxrJjlNenYJ5mL6fBmVQXWUqWWFSj6VwS-HLfLQNEF07Cs9zLEXYT1BHXk9cV9buzCd0aV5axf8neSZ_q4d5HF7EZMN70qPc188Jd8BJvvQ=w988-h1316-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3enFdEcuauA2xTqFzQAZQGfThLKBczLOYSC0z3e_YP5vpQgxrJjlNenYJ5mL6fBmVQXWUqWWFSj6VwS-HLfLQNEF07Cs9zLEXYT1BHXk9cV9buzCd0aV5axf8neSZ_q4d5HF7EZMN70qPc188Jd8BJvvQ=w300-h400-no?authuser=0
+    title: "Flat tire when the fun began"
+    alt: "Flat tire when the fun began"
+    end_row: "true"
+
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3cl3uOMNai-Cl0odQjMFLuEzmFHFJGFvlkhA_Y6wBnoFz4IFeqm02IAVd9PKLIkFo2ZQVqmQGT3MhjYsgsnirp-dBehYTRe1ppnSqcotHmnrzFH8Fx_uFZmTK55q0LrBLMB41zoqX5Ladqr7y9C5po0MQ=w1756-h1316-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3cl3uOMNai-Cl0odQjMFLuEzmFHFJGFvlkhA_Y6wBnoFz4IFeqm02IAVd9PKLIkFo2ZQVqmQGT3MhjYsgsnirp-dBehYTRe1ppnSqcotHmnrzFH8Fx_uFZmTK55q0LrBLMB41zoqX5Ladqr7y9C5po0MQ=w400-h300-no?authuser=0
+    title: "Martin descending Meierhoftäli"
+    alt: "Martin descending Meierhoftäli"
+
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3fdpdgO4THMNj_aHWvguYR9xF5XWSA_bX5aJ9NuB_LGlHfvvgf3sJECqjO_FZPZeekgNFQyjFefAFSwh3Q-Beh_FSNc4Ey37jwZ7RThZek9Pr5bGzWbCg1vRJ_BMwkS57VgLJFm_yFDsTKWOkSMY12eYg=w988-h1316-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3fdpdgO4THMNj_aHWvguYR9xF5XWSA_bX5aJ9NuB_LGlHfvvgf3sJECqjO_FZPZeekgNFQyjFefAFSwh3Q-Beh_FSNc4Ey37jwZ7RThZek9Pr5bGzWbCg1vRJ_BMwkS57VgLJFm_yFDsTKWOkSMY12eYg=w300-h400-no?authuser=0
+    title: "Davosersee"
+    alt: "Davosersee"
+
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3d8H6xkqjUHwrJP2dHChtfyvm7ROPFA9TxQ6cNEs0jTWGDDtIkNBiP7Ssz7QTxbVCV69X6j6qccN56T-l0rr1HsJtUFNaovmSE5gE5kNRMUTFHnIlYnc9VAU-Fmmo0R7pJqIb6bvroD7kuZcU_uR4iH4A=w988-h1316-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3d8H6xkqjUHwrJP2dHChtfyvm7ROPFA9TxQ6cNEs0jTWGDDtIkNBiP7Ssz7QTxbVCV69X6j6qccN56T-l0rr1HsJtUFNaovmSE5gE5kNRMUTFHnIlYnc9VAU-Fmmo0R7pJqIb6bvroD7kuZcU_uR4iH4A=w300-h400-no?authuser=0
+    title: "Enjoying the ride"
+    alt: "Enjoying the ride"
+    end_row: "true"
+
+  - url: https://lh3.googleusercontent.com/pw/ACtC-3dx8gn5v_KJOvtzwXszSDpfPqyT4cVzAKpm4E4LOtkFbFjctaX47I56pcV2vFAvPRc2zeO7SMKAsz0PzOTaiQbU1uJbs62QvCq-bH9szhq1pV8xDF0z8MqZ3eoVnElKfjyswmxmU7jo8xwA041zCyPxFQ=w988-h1316-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/ACtC-3dx8gn5v_KJOvtzwXszSDpfPqyT4cVzAKpm4E4LOtkFbFjctaX47I56pcV2vFAvPRc2zeO7SMKAsz0PzOTaiQbU1uJbs62QvCq-bH9szhq1pV8xDF0z8MqZ3eoVnElKfjyswmxmU7jo8xwA041zCyPxFQ=w300-h400-no?authuser=0
+    title: "Two smaller sections like this and we are down in Davos"
+    alt: "Two smaller sections like this and we are down in Davos"
 
 
 ---
