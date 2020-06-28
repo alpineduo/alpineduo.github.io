@@ -266,13 +266,27 @@ gallery-davos-day2:
 
 ---
 
+The weekend weather forecast around Munich did not look promising. Most of our friends were out of town as well. Martin got an idea to check the weather further from Munich. Davos looked promising and the accommodation we found earlier this month was also available. Time to visit "Home of trails" region.
+
 ### Davos Epic Trail
 
+We were staying in Davos Monstein. There is a local brewery with very good beer! Finding trails around is so simple, harder is to choose which one to ride. We made plans to do Epic trail on Saturday and Albula haute route on Sunday.
+
+We had to cycle back to Calvendel from Davos Monstein in the morning. There is a forest road that goes through Rinerhorn ski resort. Climbing almost 900 meters up to Jakobshorn. We were alone, we have not seen anyone climbing up like we did. The first bikers we met that day were coming from the top where the lift ends. We were hoping to be in our saddles all the way up but as we were approaching the last steep part, we realized it is not worth to loose all energy that we might need later as most of the way is still ahead.
+
+The trail is almost snow free. 3 smaller snow patches, not like 2 years ago when we almost walked through snow field for a while. The trail was almost empty, only couple of hikers and bikers were on the trail. It is S1 trail that leads to Sertig village. It is beautiful place as the valley ends here and higher mountains appear right behind. From Sertig, there leads a singletrail (rated S1) up to Rinerhorn. We hopped off from bikes sometimes, to overcome wet roots or rocky section. The grade is good for climbing (not only descending as we did couple of times already). 
+
+We arrived to Rinerhorn and we had a short break. The next trail ahead is 335 Monstein. This part of the day was the hardest. It contains lot of climbing sections with bigger rocks. Danka was hitting rocks with her pedals (good test for a new bike with longer crank arms, we need to fix it) so many times she wanted to get out of this trail or just throw her bike down the mountain. She started saying "epic fail" :D The Oberalp section is closed for now, we had to go around using official 335 trail. It took us a while to get down to Monstein. 
+
+I convinced Danka to continue to 338 Zügenschlucht. It is much easier compare to what we already have done - not to mention the landschaft there! We left Monstein at about 5 pm. Our goal was to catch the train at 7 pm from Filisur, to be able to have dinner in Davos Monstein (places usually cook until 8-9 pm).
+
+The short climb was easy as it is a forest road. It goes down to Zügenschlucht. The descent down to the george is S0 with some S1 trail parts. There are lot of train tunnels. The trail leads down to Wiesen train station. From here, the trail continues, following the river. It is exposed sometimes due to previously washed parts or just being more narrow at some places. The conditions were good. We ended at Landwasser Viaduct. We are not far from Filisur, one short climbing section only. We made it to Filisur just before 7 pm as we planned. The train back is worth taking! We went through tunnels we saw earlier and were able to see the george from different perspective. We were turning our head from left to right often. The train ride is just 15 minutes from Filisur to Davos Monstein. We had to prepare ourselves for the last ascending, back to Davos Monstein from the train station (230 meters to ascend at the end of the day).
 
 {% include flexgallery id="gallery-davos-day1" caption="Davos Epic Trail - Jun 20" %}
 
 ### Panorama trail
 
+Our initial plan was Abula haute route but we changed it. Because it shares the Landwasser part. We went back to Davos and did Panorama trail. We previously did it partly but in the opposite direction. We parked at Davoser See parking lot. It provided us a good warm up as we had to go through Davos. As soon as we turned right after Parsenn lift station, the climbing started. The first half of the climb is easy. However, it starts to be difficult at the middle lift station. There is a gravel road with bigger rocks, very steep sometimes. We often had to push our bikes. It became less steep just below Strela pass. The Panorama trail stars here. There were almost no people on the trail. It was probably due to rainy morning (Danka was reconsidering our day as well). The sun came out later. We decided not to continue to Parsennhütte. But go down from there but instead took the shortcut at Meierhofertäli . Martin's ankle started to hurt. Meierhofertäli trail is black diamond, rated as S2. I had to repair one flat tire on the descend. Once it was fixed, we started descending the most fun part. There are two more difficult parts (steep switchbacks with rocks). The trail goes down to the Davoser see.
 
 {% include flexgallery id="gallery-davos-day2" caption="Panorama trail - Jun 20" %}
 
