@@ -99,6 +99,18 @@ gallery-ellmauerhalt:
 
 ---
 
+We go to the mountains A LOT. On bikes, on foot, on skis, we even climb them sometimes. However, we have never been on a ferrata together, even though there are plenty of options close to home. It was about time to fix it! And, since we had some Bergliebhaber visiting us during the weekend, we thought it would be nice to do something special, as our visitors have never been of ferrata either.  
+
+Martin chose an easy one, namely Elmauer Halt. The ferrata itself was quite different from what I had expected. You know, I imagined we would be hanging of huge clifs with nothing but a little ladder below our feet - for an easy ferrata, and climbing style ascent for a difficult one. Understandebly, it was really hard for me to grasp how people go up and down using the same "path". I was quite far from the reality. Nonentheless, it was really fun and physically much more challenging than I though. Which makes me question: have I been using wrong muscles or is everyone else who goes to ferratas really ripped? I could not walk for three days, not to mention to sit down or to get up. Also, I recommend wearing long pants if you are not experienced, if you don not want to look like you have been attacked by a tiger.  
+
+The ferrata itself started from the Wochenbrunner Alm. There is a small fee to use the last ca. 500 m of the road. We arrived quite early, so there was no problem with parking. However, the parking lot was packed on the afternoon. From Wochenbrunner Alm we started hiking towards the Gruttenhütte and then approached the ferrata. The views are simply tip-top! On a good weather day you get to see the whole Ellmau valley with Kitzbühel range on the background on one side, and a rock cliffs on the other. The latter is where the ferrata goes though, but it looks more intimidating than it actually is.
+
+Among my many false believes about ferratas was also that a ferrata set is mandatory, which is not the case. Nonentheless, all of us had the full equipment. I actually rented it from DAV - for half of our 6 person crew - for a very decent price. This was the first time I used DAVs rental service (Martin or other friends rented it for us). At the same time I learned that they have pretty much everything in their inventory. Just make sure you get to the Servicestelle at least 30 minutes before closing, unlike I did, otherwise you will end up being in the store after it is closed. Getting those mean looks from the employees was not that plesant.
+
+All of us were quite pleased to have the helmet, as we have noticed couple of rocks falling down and heard a rather large "Steinschlag" warning. As for the ferrata set, I ended up not using it, but felt quite comforted for having the option to clip in if I wanted to. Most of the other people we met also used full sets, except for a few hikers who opted for not having any ferrata equipment at all. However, it was quite obvious that they were no beginners. Still no excuse for not having a helmet!
+
+Overall, this was a very rewarding trip. We had great time and we learned something new. I liked the ferreta so much, that I ended up buying my own ferreta set and I am looking forward to do another ferrata soon!
+
 {% include flexgallery id="gallery-ellmauerhalt" caption="Ellmauer halt hike - July 20" %}
 
 ## Tour info
