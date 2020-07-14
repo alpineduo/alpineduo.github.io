@@ -1,6 +1,6 @@
 ---
-title: "Ellmauer Halt hike  - Jun 20"
-description: "Ellmauer Halt Wilder Kaiser hike"
+title: "Ellmauer Halt hike  - July 20"
+description: "Ellmauer Halt Wilder Kaiser hike ferrata"
 header:
   image: https://lh3.googleusercontent.com/pw/ACtC-3eJ6XgILHtfKtg1U9fEEDqD72FOPKTpMktRuNH2IinJEdkse8l_5Gy8FoCmeNPc14fQLK4WiwYD4o-5BI9gmBapKAoYQ3nGNBPzWo2059aF9MedqU6BbCy1-Dp2KGQquYCGUmcBU_Z_CxQAFVKhen5lHQ=w1730-h1297-no?authuser=0
   teaser: https://lh3.googleusercontent.com/pw/ACtC-3eJ6XgILHtfKtg1U9fEEDqD72FOPKTpMktRuNH2IinJEdkse8l_5Gy8FoCmeNPc14fQLK4WiwYD4o-5BI9gmBapKAoYQ3nGNBPzWo2059aF9MedqU6BbCy1-Dp2KGQquYCGUmcBU_Z_CxQAFVKhen5lHQ=w800-h300-no?authuser=0
@@ -9,7 +9,7 @@ categories: hike
 tags:
   - wilder kaiser
   - hike
-  - klettersteig
+  - ferrata
 classes: wide
 gallery-ellmauerhalt:
   - url: https://lh3.googleusercontent.com/pw/ACtC-3epoUVGSDW8xw_mAm7YTJi35-6OIJ-02pKUW39wAwne-0kuqdYlizJc7RqLp3rAYGF566OHqUz33jwRemSvZZQ1X289Xi3BtJ3VIFNtVkJ2hMi0hbcfu7S7ucS5MieNeodUxfBtiQo5HmDycAVlG0WH6g=w1730-h1297-no?authuser=0
