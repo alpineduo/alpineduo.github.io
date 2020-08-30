@@ -10,7 +10,7 @@ tags:
   - bavaria
   - mtb
   - singletrack
-  - lenggries
+  - tegernsee
   - "sts: s2"
 classes: wide
 
