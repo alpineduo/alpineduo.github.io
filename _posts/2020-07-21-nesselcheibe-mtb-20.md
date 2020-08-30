@@ -1,6 +1,6 @@
 ---
-title: "Nesselscheibe trails mtb - July 20"
-description: "Nesselscheibe trails mtb singletrack bike"
+title: "Tegernsee: Nesselscheibe trails mtb - July 20"
+description: "Tegernsee: Nesselscheibe trails mtb singletrack bike"
 header:
   image: https://lh3.googleusercontent.com/pw/ACtC-3cGGRs4nSCKTgzxY0bE0oQE3yeZ7YNgtOJTNFq1fP-2FWuYJsy1RSOtmL6r3MO3C6tE1SZrXBfi0b0Djbnw9igRBD7usFAzgaru4zALi4nHV4Q2SHLX2bimJuIBM5ZNmlbjB7-VLMx5B-JcNhG00yN_eA=w1756-h1316-no?authuser=0
   teaser: https://lh3.googleusercontent.com/pw/ACtC-3cGGRs4nSCKTgzxY0bE0oQE3yeZ7YNgtOJTNFq1fP-2FWuYJsy1RSOtmL6r3MO3C6tE1SZrXBfi0b0Djbnw9igRBD7usFAzgaru4zALi4nHV4Q2SHLX2bimJuIBM5ZNmlbjB7-VLMx5B-JcNhG00yN_eA=w800-h300-no?authuser=0
@@ -10,6 +10,7 @@ tags:
   - bavaria
   - mtb
   - singletrack
+  - tegernsee
 classes: wide
 
 gallery-nesselscheibe:

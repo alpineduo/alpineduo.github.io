@@ -1,6 +1,6 @@
 ---
-title: "Leonhardstein hike  - Jun 20"
-description: "Leonhardstein Tegernsee hike"
+title: "Tegernsee: Leonhardstein hike  - Jun 20"
+description: "Tegernsee: Leonhardstein Tegernsee hike"
 header:
   image: https://lh3.googleusercontent.com/pw/ACtC-3cZ9taxBitKnoo1dHGTit8vum0erfGSrCIynR25quz9HZhXHVJyPLkwogDF4V1HABVyc9BWz3tdnXaaHfHSAN30Rz9-rFR6I7gguHJKBPr0BmggTKP6pOv3CuL7siDCbZajUd9__FUH-lQZVE1mpP5tfQ=w916-h687-no?authuser=0
   teaser: https://lh3.googleusercontent.com/pw/ACtC-3cZ9taxBitKnoo1dHGTit8vum0erfGSrCIynR25quz9HZhXHVJyPLkwogDF4V1HABVyc9BWz3tdnXaaHfHSAN30Rz9-rFR6I7gguHJKBPr0BmggTKP6pOv3CuL7siDCbZajUd9__FUH-lQZVE1mpP5tfQ=w800-h300-no?authuser=0
@@ -9,6 +9,7 @@ categories: hike
 tags:
   - bavaria
   - hike
+  - tegernsee
 classes: wide
 gallery-leonhardstein:
   - url: https://lh3.googleusercontent.com/pw/ACtC-3dpx3AMVQdCYQToOHdHUrfU0-xKACbfs4dNAJ2Cf-ThQinwIe4SGUOGvL689uSU6xX8Yh5JRrQFaiUQpZPsaq3sZU7cMoG_XgFgReFJamqSrNzRbnFeWXUFLMMttPDTzEgoscgfT7oxAvVYQKqEXtjimQ=w916-h687-no?authuser=0
