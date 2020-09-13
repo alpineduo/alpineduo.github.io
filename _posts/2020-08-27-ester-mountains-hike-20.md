@@ -1,6 +1,6 @@
 ---
 title: "Garmisch: Estergebirge (Ester mountains) 2 days hike - Aug 20"
-description: "Garmisch Estergebirge hike 2 days"
+description: "Garmisch Estergebirge hike 2 days Weilheimer Hütte"
 header:
   image: https://lh3.googleusercontent.com/pw/ACtC-3cXTSBzRvOp2xLXnxap7etaQ1PPDC04wTYpIbXTx-EN76zQgXVWHbhO6BCduDCf4Lr2hQSaclmwTysyVcRq6Gk1Lctzv3yUmv0M4kS04dP5kt7ZuYS3g7EXQQV7AfSznMf6QPS5UFWmvlfQnsNmkMin7g=w1756-h1316-no?authuser=0
   teaser: https://lh3.googleusercontent.com/pw/ACtC-3cXTSBzRvOp2xLXnxap7etaQ1PPDC04wTYpIbXTx-EN76zQgXVWHbhO6BCduDCf4Lr2hQSaclmwTysyVcRq6Gk1Lctzv3yUmv0M4kS04dP5kt7ZuYS3g7EXQQV7AfSznMf6QPS5UFWmvlfQnsNmkMin7g=w800-h300-no?authuser=0
@@ -8,7 +8,7 @@ header:
 categories: hike
 tags:
   - bavaria
-  - mtb
+  - hike
   - garmisch
 classes: wide
 
@@ -142,32 +142,33 @@ gallery-ester-day2:
     alt: "Looking back to Hohe Kisten after our arrival"
 ---
 
-We have not explored Ester Mountains so far. We hiked/skitoured to Wank peak, but we never gone further east from Garmisch. The mountain range look rather scary from the valley, like where there are hiking paths up there? However what is behind the wall is a completely different picture.
+We did not explored Ester Mountains so far. We only hiked/skitoured to Wank peak, but we never gone further east from Garmisch Partenkirchen. The mountain range look rather scary from the valley, like where there are hiking paths up there? However what is behind the wall is a completely different picture.
 
 ### Day 1
 
-We planned this trip during the week when there was a better chance to get a sleepover at Weilheimer Hütte (old name is Krottenkopf hütte). Danka had to cancel at the last minute due to work duties. It was just me, Peter and Borka. We started at 11 am from the parking lot in Eschenlohe. The parking is for free. It was almost full when we got there, even though it was during the week. The first 1 hour of hiking was on the forest access road. After that, we were ascending on a trail where we started gaining meters. Note, this is where we got lost for a minute. We were talking and kept going until we realized we were off our course. We got back but it took us a half hour to find a way back to the trail. We got to the saddle, where Pustertal was visible for the first time. There is an easy traverse leading to Pustertal. We stopped there for a short break. The views are nice but much more is waiting for us!
+We planned to do this hike during the week when there was a better chance to get a sleepover at Weilheimer Hütte (old name is Krottenkopf hütte). There is no booking system but you have to call to the hut to book it. Danka unfortunately had to cancel at the last minute due to work duties. It was just me, Peter and Borka. We started at 11 from the parking lot in Eschenlohe. The parking is for free. It was almost full when we got there, even though it was Thursday morning. The first 1 hour of hiking was on the forest access road. After that, we were ascending on a trail where we started gaining more meters. Note, this is where we got lost for a good half hour. We were talking and we just kept going until we realized we were off our course. We got back but it took us some effort to find a way back to the trail. We got to the first saddle of the day, where we finally saw Pustertal and Hohe Kisten ridge. The trail from this seddle to to  Pustertal is an easy traverse, one rocky section is fixed with rope. We stopped at Pustertal for a short break, there are couple of picnic tables with benches.
 
-We ascended to the next saddle, below Hohe Kisten. We finally saw here the hut where we were going to sleep over and also Krottenkopf - the main summit of this trip. The path from now on until the hut is a traverse going up and down. It is just one hour away. We made it to the hut before 17. As the weather was good, we stayed on the terrace outside until dinner. The winterraum due to corona is closed but as we were a bigger group, we were placed there. Luckily for us, as it was just for us.
+We ascended to the next saddle below Hohe Kisten. We finally saw the hut where we were going to sleep over and also Krottenkopf right above it - the main summit of this trip. The path from now on until the hut is a traverse going just slightly up and down. It tooks us a less than a hour to get to the hut. As the sun was shinning, we stayed on the terrace outside until dinner time. The winterraum due to corona is closed but as we were a bigger group, we were placed there. Luckily for us, as it was just for us. It is quite small, there are 5 beds available with a furnice and 2 chairs, that is it.
 
-{% include flexgallery id="gallery-ester-day1" caption="Ester mountain hike - Aug 20" %}
+{% include flexgallery id="gallery-ester-day1" caption="Ester mountain hike, Day 1 - Aug 20" %}
 
 ### Day 2
 
-We first got up to Krottenkopf right after breakfast. This is the best summit of our hike for great views around. Karwendel, Zugspitze region, Beneditkwand and many others. We descended back to the hut and we continued to Bischof peak. The ascent is slightly interesting as the regular hiking path goes around Bischof but we wanted to go up. There is a trail leading to the summit however it is not that easy to spot from below. There are a couple of exposed spots but nothing extraordinary. The next target is Hoher Fricken.
+We first got up to Krottenkopf right after breakfast. This is the main summit of our hike with great views all around. So many peaks are to be seen: Karwendel, Wetterstein, Beneditkwand and many others. We descended back to the hut and we continued to Bischof peak. The Bischof ascent from the hut side is interesting as the regular hiking path goes around Bischof. There is a trail leading to the summit however it is not that easy to spot from below (it is marked on the map though). There are a couple of slightly exposed spots but nothing extraordinary. The next target is Hoher Fricken.
 
-We walked on the ridge until we got to Hoher Fricken. We decided to go first to Esterberg-Alm for a short break. It was just a short detour for us. We were still considering to go up to Wank but we decided we rather go down to Farchant (you can take the train there, do not need to go to Garmisch). We got enough of hiking for now, the weather also started to get worse (dark clouds came from south). We arrived to Farchant train station where we took the train back to Eschenlohe.
+We walked on the ridge until we got to Hoher Fricken peak. The sun was above us, nowhere to hide from it here. We decided to descend down to Esterberg-Alm from Hoher Fricken. It was just a short detour and this was the closest alm we could find. We were still considering to go up to Wank but we decided we rather go down to Farchant and go home. You can take the train from Farchant, do not need to go to Garmisch. The train took us back to Eschenlohe, where we walked back to the parking lot.
 
-{% include flexgallery id="gallery-ester-day2" caption="Ester mountain hike - Aug 20" %}
+The second day was easier as it was mostly descending with two shorter ascents: Bischof and Hoher Ficken. We could do the next time with Wank but possibly the opposite direction.
 
+{% include flexgallery id="gallery-ester-day2" caption="Ester mountain hike, Day 2 - Aug 20" %}
 
 ## Tour info
 
 Drive
-: 1h 25 minutes from Munich
+: 1 hour 25 minutes from Munich
 
 Start
-: Parking place at 
+: Parking place at Eschenlohe, the hiking park platz. Free
 
 Duration
 : 1. day: 5 hours, 2. day: 6 hours
