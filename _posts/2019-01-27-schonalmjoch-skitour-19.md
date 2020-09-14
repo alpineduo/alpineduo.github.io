@@ -1,5 +1,5 @@
 ---
-title: "Schönalmjoch - Karwendel skitour - Jan 19"
+title: "Karwendel: Schönalmjoch skitour - Jan 19"
 description: "Schönalmjoch - Karwendelskitour"
 header:
   image: https://lh3.googleusercontent.com/GJmkIoeD9D88RAuy0ksH--FALO9hhvqhZ_rKfKCJhPd_WTJmO5BEykgE52zQT2hckorHBbC0RBDEJaLJZdp7PtGMQVVIbXgkisvhQZJxX2CiOM_xz4LhjDfUh7z6Gyx_8DkDPuOimEmk5QJPgnycgdNRoKpRbIOtgvkJih4CmCwDYPfVc1L_WQnYzih67stGwjL58PNY-A6O-4_bA2yaxJNBAHX5QSReJY6ps1s5lMdUOeTZVvWukjtEP3mgSCY-VrTPqM_YyPG3ZFUcVz53Ab-bdZjycDFYVVbhjl2UQQj7_KCP_VBwgDnKOKq8_cq_OOcg2poSh3qy36xBiMlECd9XtwFeWFYNF-EIzb5qh1HSdJtl6u-8tNp5b-hjwCWSaY-17C3EN2T3L-mTu4iQpU0WDe0njWVP9q0lxuFjLlE3mB85IL5bS-dce4WD7f7IYeaIz5qmQomC1NClfP_Qer3vo7FAM_SKYlujgijwkCACFFoh56txcOfb6NTnzqUkU8b1sZtp1DC0WHEygzQ5kpuisbn1myII-l-rlIiIUXtXnC2Q7bPgp3RgB5sVEHgEWgHsZwEBVRfURSa50hfZ6WjxDnuEtjxvDvX_KvDDfzMJitSYKglThZf5dRt_nSn3ieW3-834u_FuXeptks_hIyemXZsK3oDD2kdrGnJl77cBPj3xxNP6-_4EQeMG9KcYqd3tuSEx1jLXmUc7IiY=w2126-h1542-no
@@ -16,7 +16,6 @@ tags:
   - piste-skitour
   - winter
   - earnyourturns
-  - spitzingsee
 classes: wide
 gallery-schonalmjoch:
   - aspect: "0.400"
