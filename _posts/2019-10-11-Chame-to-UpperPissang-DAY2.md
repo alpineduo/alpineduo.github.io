@@ -1,5 +1,5 @@
 ---
-title: "Day 2: Chame to Upper Pissang (North Route)- Oct 19"
+title: "Nepal Day 2: Chame to Upper Pissang (North Route)- Oct 19"
 description: "Day 2: Chame to Upper Pissang (North Route)- Oct 19"
 header:
   image: https://lh3.googleusercontent.com/5gL2VrWyPWkYyKGFmR9CovkrfUGH-FRMozA1oXKe7FBWJO9sK2wARQCCsNkc-fJnjVMPh6k1GTekoBpXyEuH38yeDXKr4XcMqiBlHZ_VtgkaDPjeQbAoMduSoS0n3RjYtR5ngsJVOLwoib2eGmuRO9vGrTLyqflBd2_ochaz1y83ow59EKclqQgxkGnCMUn7pwm0pQ5iMppP8-w2tvjb-lslhyBIUkEaMiAIKCg45elEaEUV3BifJc-ieSM6jel0Drxs5xgbcsi_5h-yeGCaBlMDAclmNboZ83PxwhYmhlO0m9bEmDiwjDVdFDGTcl3GU8fd-2yEyohdFVhoRs8KPz5wk7EeKsS8p18ho0I-gbeVbkdjmnttYM9Pi-309PnOqizF0w5x_IJZV6YKRD8e_Gt4Og9E1NIH7j59JiXzNg7UHf15tQZ1f5QvzUN7c8eR7wHtGWvuZ8DGnZOSVdKTc-vKvKCZZWfDMSm2XeFPK_8JoYJZVytDu5vZbXPt2-_PsEhmDZi17ukzsfZqQ_27Hwj83I3EA0S9ufRu2aYuLuZNQYViOfBWIKXzfFmu4nEJ31pktqA0FVJothBVH5kaWvdBCKWHYVB_PB21yk35fjrpbXlCOpKl-MuY4YMaqqw41SdjyzpqsfBmoiCPMVfg11Y8cbEOQfg13KeVEcaSkZX214voKoVIUdz1aBp1It5S1QeGi9bet__Dlw3J1x9HC4vupMxb5MtD2Lmo6JvV4ZgrRHM=w839-h630-no
@@ -7,12 +7,8 @@ header:
   caption: "alpineduo"
 categories: hike
 tags:
-  - Himalaya
-  - Annapurna
-  - AnnapurnaII
-  - Nepal
-  - Pissang
-  - Upper Pissang
+  - nepal
+  - hike
 classes: wide
 
 gallery-name:

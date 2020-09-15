@@ -1,6 +1,6 @@
 ---
-title: "Gindelalm trail mtb - August 20"
-description: "Gindelalm trail mtb singletrack bike"
+title: "Schliersee: Gindelalm trail mtb - August 20"
+description: "Schliersee: Gindelalm trail mtb singletrack bike"
 header:
   image: https://lh3.googleusercontent.com/pw/ACtC-3fvZF8yu7RZ-2wkHM7ZtfugWXdP2o_L7rhlRAnphDuT3Q93A3N3r4013zH6bFNzY1fZMmftmJaXhqowy7w5cbdicuB6U-zWZ2zv9Ukw_0iAVFCq848vt-69ymKVCL3-hbRwUsKVS6ljwYy1oJESFWwAHg=w1756-h1316-no?authuser=0
   teaser: https://lh3.googleusercontent.com/pw/ACtC-3fvZF8yu7RZ-2wkHM7ZtfugWXdP2o_L7rhlRAnphDuT3Q93A3N3r4013zH6bFNzY1fZMmftmJaXhqowy7w5cbdicuB6U-zWZ2zv9Ukw_0iAVFCq848vt-69ymKVCL3-hbRwUsKVS6ljwYy1oJESFWwAHg=w800-h300-no?authuser=0
@@ -10,6 +10,7 @@ tags:
   - bavaria
   - mtb
   - singletrack
+  - schliersee
 classes: wide
 
 gallery-gindelalm:

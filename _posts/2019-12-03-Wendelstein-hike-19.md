@@ -1,5 +1,5 @@
 ---
-title: "Wendelstein hike - Dec 19"
+title: "Mangfall mountains: Wendelstein hike - Dec 19"
 description: " Wendelstein hiking bavaria - Dec 19 "
 header: 
   image: https://lh3.googleusercontent.com/0NpsXe9VmQ3-HdVgTaat2bE8fwCtEYljbGWORsvi4JsppUfQQCJlmfWAj0zb3VU5DorDSIiORWa3NmpRFwRh49RJQPvYBDxh5XNpbinOOsMdYeiLJ2gHx3mikogAL3dM85qd7MoLDPc2LH1N6lfHh3Fpwt3w9G9RbqJziz4FYcChcAvKXH_VJZKRAdxM3qDshv8oSXCr4Mvyv_ku8fZr5XI7fztugqJSqSFq9OIdN1FWUGQVr_mtjCVehxi-rIFFAqsCbwJgIMDpn-bCeAau4EMB1hPeXyMxYI4uQ1OcZWR50svy1DnpB3qW8PWDbf7xGdnaQzAfQMAJGaL4rhl9lRFHU7G6Ju1G69QC_2dAYUQqJKOPqnbFOpGCyS_94xYTW9MOQvMP1pvlRFP6b44r6icc_2l5hzZc-SS1HUFnd_2PCiX1crdgqJx1nnVeuxUmpLxqLur6AAW1Ada54BhFqfETnsOTYqa4Y-I3XCmSCpsSBwtKx6oX-HxOV3JLhVFqgu7-eCJ-iWovQkl3eZATNf1Dh6b3VKSiuq80kuGv9knLpgYz3glrdSgkZXzMt9FJToaYaUe4huQqme5TBQJjhbepSJwq3vfSGIJ9CP0qv6ffhFFDsFkugo58OguCg8YHjbgYLTWWJMJ-irXdo-BGfEzITt3-t0ber_SgAoumgxeMBTSQVNS1VmDBVVCsp_0a3LvQh0PQcTWFN1OvrQDev8ia1EuAJihngGdFFzM3j5t4D_o=w952-h714-no
@@ -8,11 +8,8 @@ header:
 categories: hike
 tags: 
   - bavaria
-  - wendelstein 
-  - walking
-  - tour 
-  - bayern 
-  - easy
+  - hike 
+  - "mangfall mountains"
 classes: wide
 
 gallery-wendelstein:

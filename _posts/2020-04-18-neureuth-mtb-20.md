@@ -10,6 +10,8 @@ tags:
   - bavaria
   - mtb
   - singletrack
+  - tegernsee
+  - schliersee
 classes: wide
 
 gallery-neureuth:

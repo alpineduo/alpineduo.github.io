@@ -1,5 +1,5 @@
 ---
-title: "Day 7: Thorong La Pas - Oct 19"
+title: "Nepal Day 7: Thorong La Pas - Oct 19"
 description: "Day 7: Thorong La Pas - Oct 19"
 header:
   image: https://lh3.googleusercontent.com/TeqBSWO80_LmWsbrH907zpxfuHtms5a0XXEt2eUoInnylQdcxsgp8V2jtmaRbyVpsSxDh9GHQJ5xaX3O5pXjU5MVmsBvt4UAYYPg_-iYVxmvobaQ1NNdv1DB7kfTpnU6BUtHSs3ytSqyJ4jo5op0XDbGFv0qfOpWXDDNffKbYlNVIHzUAZy4vAhL5k2WqRmeOEoIgNVCXhPLmO6M2UDO5b4Nk8N9J62LGeuCT2VIX2kVLevcXSzw8165ExwqJXq9DFqPmmraO5pcEeGmvm6fz5FoGWR9_aCoGevQmuFu-4Hv78Y84k3yBYWlOUZiYjgWxscco_y6LjglQQ4CGASVsr9gmGN-JTY4fibCN-7EIfrrUoxesMIrimfFAQ02WmXNjRmrpDkRsBuNBxpqU1iDB9zZCKHpJClRCs_xETAa-aO2egTrUEfQSO7nbOTP9r7oUOBj0VClXC_BUbBj3kgnZ3vJZ5chLH7YnLBoVxv3YIXGcDirXD17lgYXpUbPTsVWajEKrVd_hYUMn7NVJvhYpNXkRovUoJ84Ph1Ck2wcLE66_AVxDeIKS-B8EcimjzdV51eGLThXhAzuFqThL5NrbtwYzUbJraznsaCHvT0lJR1Xs_y5_P0Kb3NUigZwHNIXbpy-patPaP3SnvuYL7QQybHr8L46llKxs8CGgVa14nDgXeg4lZ07_niUcagqjMywEyLW2Un_4DdvAeO9S4EF09Rc2GbYvBs5ChoCMsy0uMDWXrg=w958-h719-no
@@ -8,12 +8,7 @@ header:
 categories: hike
 tags:
   - nepal
-  - annapurna
-  - himalaya
-  - himalayas
   - hike
-  - Thorong
-  - high Camp
 classes: wide
 
 gallery-name:

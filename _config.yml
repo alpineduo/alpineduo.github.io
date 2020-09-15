@@ -237,8 +237,8 @@ pagination:
   sort_field: 'date'
   sort_reverse: 'true'
   trail:
-      before: 2
-      after: 2
+      before: 8
+      after: 8
 # Plugin: Auto Pages (jekyll-paginate-v2)
 # autopages:
 #   enabled      : true

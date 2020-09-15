@@ -1,5 +1,5 @@
 ---
-title: "Rosskopf skitour - Jan 19"
+title: "Spitzingsee: Rosskopf skitour - Jan 19"
 description: "Skitour Rosskopf, Spitzingsee, Bavaria skitour"
 header:
   image: assets/images/rosskopf_panorama.jpg

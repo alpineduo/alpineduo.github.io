@@ -9,6 +9,7 @@ categories: hike
 tags:
   - fannmountains
   - hike
+  - tajikistan
 classes: wide
 gallery-Mutnoe:
 

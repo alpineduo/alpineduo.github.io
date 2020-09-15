@@ -1,5 +1,5 @@
 ---
-title: "Teisenberg mtb - Sept 19"
+title: "Chiemgau Alps: Teisenberg mtb - Sept 19"
 description: "Teisenberg Bavaria singletrack mtb"
 header:
   image: https://lh3.googleusercontent.com/jZRVDk6xrg27Uyvpo36x5zXMjyy9EkirOJgqfqvV1lBum7jE64hlKHTwa81koidQEeHSALDY0O-POmRxQkq6Htb1acmJz9zs4eDVSscSZ0-r-JINpAYYBi2yQezsYxrhFlw9KAdPM2wUuAqXNyqq0fF9oNJfUhENXWjN67_TvdVpEGabVp5Gj7lC0EeM2DZt5aRh7JboLW6Vyfqi51IjolLfzEhkxIbdGNneXZ5MMRMn_CmVytcOaYFJz2fU00f93IyflytzNGdbbSZ58vjvNyqnd9-sMBmmEb_9QyqubzUHQfwUiTS5Ag3O8W6L345lZSFq9Z3YMfADJOjhuUAri5T3Zaz5fcsf3BRscd7bDh3D6TA6g7VrDi3CJNWWv-mNyuHq66WG0BzvoQfVm7NOq8GcFEtvbiLo5QqQRZKjirCiIBVjSKaMl6VgBMMMWxtJLulkCNCX7803nMIWMq4yX-mPh_amodMRczn5LtW9qYBN3hU4L8qm2_pHBySKxJZY0gN-GDsZ48axBCS4dMwoo83YI0-ybp8jK7p4a-Q5JvYpnmWi0dpJmiUaBoGp-7yoy9d1bg_oo7I3kYSgl0eZasoVG6b0qeira9ZL9rJxovWwl-xVtPYpQJXepx4KfF3GwI-2xLWZvgnQD6-diny8Boz67T77_h1AW-mMmsrp8zvUe_hzw6xFQxPQDqTJt7NS4DjRwqVpJjdtC2Z4mJhsIajMQCWR14oRCDJe30r6Nxzi7kb0=w1204-h903-no
@@ -9,6 +9,7 @@ categories: mtb
 tags:
   - bavaria
   - mtb
+  - "chiemgau alps"
 classes: wide
 gallery-teisenberg:
 

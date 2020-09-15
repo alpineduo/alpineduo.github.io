@@ -1,5 +1,5 @@
 ---
-title: "Day 1: Kathmandu to Chame - Oct 19"
+title: "Nepal Day 1: Kathmandu to Chame - Oct 19"
 description: "Kathmandu to Chame - Oct 19"
 header:
   image: https://lh3.googleusercontent.com/D5lDmyF1sOaDZAyeQmdSUw7H0dgHnSGFTAbtZgR5DuUbWFwNQWyncSYnBAQMo2Xy6M-23cVELOIhp5Jtaw5-4SwOvtsrtyP0SUIvmvE3_OQQtk-8cIerWLCKelNEVI_IU4z9XiIFXALiEfOvu_OzFrwdmwXUvDAwJpjR2ysaO56a-waBbqSXmPEEQOuPit2aP_1WLP5PfP4mz7b3B5Lu94ZVRr6cJas7In0NR-CobA9928erZ2Jm9x0B7I39uwA95oNwONhb8gPNZmqNa0kP57iey4RB0XcdjyqJt6PLeYy-D1lDISeId3JbhaGXKhM1sA6JrAk7I1WHFk54lXYgGr0on6uqA7fqHR4IgLWaa4Q0yL6R_5-q-hZ6KcMW0aijm6W-9fjYNNvnu3ZynqVwldnixDuuF6vhQBYh0ro3BfoVtpqOCkFuxTGqHdZ-WRPrhX3DEbo6EBbYqFIHerYwmeZ8nzA4SuiDlSAblIjWhbBL1mLhxkniS3FguZCMGPgZeoeI-FpF8bPQRI_FHlHE1f2ryr2Le06kXYC-hOgdzkVVjVL6V_jN44_56vFlcIQshYvng51w_xwJbBEUT0DiK_Xqek2jDizzjlewsEFrSd8__sDZOdIlNYwSYOWNpSOANZFqqMCNsglt8YvnFAYoM7GDrOSM5xXBNQgAKYNQA4o2_O3kBEr2Pnzeo4_s3ewdVfSF_ztf3rc-nO1VItcHPvH_GewMKS_HL5C0eCrTA70AWGw=w839-h630-no
@@ -9,8 +9,6 @@ categories: hike
 tags:
   - nepal
   - hike
-  - annapurna
-  - himalaya
 classes: wide
 
 gallery-name:

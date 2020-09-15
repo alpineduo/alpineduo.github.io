@@ -9,6 +9,7 @@ categories: mtb
 tags:
   - switzerland
   - mtb
+  - davos
 classes: wide
 gallery-davos-day1:
   - url: https://lh3.googleusercontent.com/pw/ACtC-3dsy2mBsa3zSWHrjYm9CXyuO4AqwmeWc58XKhq3698Il4mtHpjhmOKQCDbdTZc7sbeiCjWsxFBzWB4q-tey5SeiV0i1m73ULa2VPKhvTj5U4y5gbZLAwHDbRLdHFBxPJIYbL5UyqdLYcLIH9B2s_3NwAw=w973-h1297-no?authuser=0

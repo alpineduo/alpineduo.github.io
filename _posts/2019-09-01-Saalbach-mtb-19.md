@@ -1,5 +1,5 @@
 ---
-title: "Saalbach mtb - August 19"
+title: "Saalbach mtb weekend - August 19"
 description: "Saalbach mtb tirol"
 header:
   image: https://lh3.googleusercontent.com/NH9e5bhszEBsQSBxn3jc0fjAw5LBFtTwF13leAO62HNjuTj3WjSlkwRtqN8N-IDesgwM2gIOWtPFyTypm6sNRdB6jfJRIBgRQMWJZJShmbwJRSLOegz_zReGM7HQiznA2O5xC9_wNZ43E9uYJEX8IdYGqVSmjvpeZVz89cZqwvSXuj19zfTZHZbbVvWtoxIqWQgAfTHy5UhQU5M29Wem8P19X_DWBqt2jaCjF-YftGxOowIu9QQkBJDOeEXf2s7vKMnpj-cL1QB0bDTbiXSPmwsPPtBEpH8edSmYKCH2FXn4hj4Ls025gmGX-sMA53ZC-Dez1zZbXvqVICPUqT37jIM47RlpCUQGRCVlviUkX0AZIZVv3Mll3T-W1PagxVM5Dw6ImPtllSnVUkn5jBxWpLHfuQEKjaU1Ewgg4ICCR3DjTkXShhJrizfPVWn67BJ-W23zYZ9J9Cxhjid0ICUUGsWaqryCv33DR5kxKD_AmeBtv-yrmyiFfGIw4Z3pE1e_YldBgesvOUOdTvbm52g9ZlsjscbWEoI4TM8GWrSNU6BpRSlRbCXxjyo2Gjj72JeV74v4SPoz4pZrIVB3-kbKtK0L5X0BmdnqbZSwWnbUuW6YWun-h9-AzFeeW8KX4h0mTCpyguiHBdxYv-y7Tn6cavtqC0D8dgmByGhG4r3gnVUPyAJN_hFSfco6KnbI1fuZ3kkJFETAm0JPb2JLChyJgBA5-8LGQu_DiIUUTJGdMecC1Q_MRQ=w1600-h1200-no
@@ -7,7 +7,6 @@ header:
   caption: "alpineduo"
 categories: mtb
 tags:
-  - alps
   - tirol
   - mtb
 classes: wide

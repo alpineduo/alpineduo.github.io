@@ -9,6 +9,7 @@ categories: mtb
 tags:
   - bavaria
   - mtb
+  - karwendel
 classes: wide
 gallery-karwendel-day1:
   - url: https://lh3.googleusercontent.com/pw/ACtC-3dF5CJmMcbz1m8-iZ_gqL6KJuHGDge2gA50PbMOWH1rAicqvq46u6DI8PTS-hvRGaGmwEOyV1PqTTZkXpvNFtu-0ONyXHoEEa9RQxmJYmw9KTsmOHbhBH_MpL7SiZgri_B9Orbfywt-lpuAAAUERLuaiQ=w1756-h1316-no?authuser=0

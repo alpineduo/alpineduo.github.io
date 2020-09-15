@@ -1,5 +1,5 @@
 ---
-title: "Rossstein hike - Jun 19"
+title: "Tegernsee: Rossstein hike - Jun 19"
 description: "Rossstein hike tegernsee bavaria"
 header:
   image: https://lh3.googleusercontent.com/DH23GE25dA4efzxc7lRfX_3DVYYzsH5i3RddNlqu3krxeu8t1ZNTdlT7d2-LnDabLGP8Sc6mRo6JSjva-OD_Vv-kJNqcaJXTq08LFHTfQQM8fOcJ9AiEJVhRpYdJcQvJjHvFzs02bxH7Q73Uu94xYguu8JgK9ut_dDFp8iGRO4nPXHCXeteWPN0m0fGXxGESDBJuELLKP9npr0HIFUcqEoDuRQBx6Pzcb-JN1Petib61mQaTxhNOVe-1aUbuhMDMPFwnD4cvtpDeXB6lm1s6JFG5d-Wc9WWrXxiBjxbyFig-H6vR5f_ny7kycAjbVNF_Btn-S5j7GdN6LVyb0nrSCf8e3F2-wHqj6GqjLYjiPpROTjJ15Ip8x2zy16j2fTROSulXbNl-pGRm68NFqaGD9Xz9lZ-q1JR2tKNYEfLmL67Fqwgi0T2-CPxfOq7_QYHm5HUmHMIU2hzGMBqVWe6M4rvfJ6A_xpwRQZsa0m5hiDxL-0k7C2Z5mxOgKS_P5Xf1LshP-0iDUBrELAW-F-At9vEcXijKB5S_IEPe4HSb1nWxBktQiWFBxQ8i2Bp4GEsG5Ae4mWT7Fshe_gCDVQXFJcDY3dvpr9yCv64W6RxMjNvCgKi2W64t5_gym8Yx_nc-lbIGERiAPn5uTx07hJfrG9pIVhhN6ehwyiQYDczT333BmJJg_bH_DKhq5rNniEk9BoegeIZJKogX6N1ZbUy2jJIVgw=w2054-h1542-no
@@ -7,7 +7,7 @@ header:
   caption: "alpineduo"
 categories: hike
 tags:
-  - alps
+  - tegernsee
   - bavaria
   - hike
 classes: wide

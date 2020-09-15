@@ -1,5 +1,5 @@
 ---
-title: "Day 3: Upper Pissang to Manang - Oct 19"
+title: "Nepal Day 3: Upper Pissang to Manang - Oct 19"
 description: "Upper Pissang to Manang - Oct 19"
 header:
   image: https://lh3.googleusercontent.com/HVnFAyHhYU-aNoxjQv6T6RlLBLas3ObhXsebVx73hd0x_L9E0UQEEmWTpvdO4bnAMUcAlhWwlBwArcF0iykGnpMOSnzNo4Z0Mgk24tvgfpsBNUEVhCr2hiS4i1Yziywpf7Jia6VE9SZZSsM29Qp001BBi8Dz9xBCx2SWV0VzL5PNrA0DScrQUgERWXZuAnR0bOiCz7azNsxMmDmNKSY97H2kRB6UY-WXNydXGFIf_P-a6AMFwmhYBZz4xWyTKQEDlwhkWCHYBQJE08wWq-AWK0eAS55-vhPbKP-XIfpaN0Hpp5iNah5McujGrGyCc7MdFgHTU2_8qkvR-lcjgWqoj90uYf6gkqJXcn6fQrRguhRXJbka7nNbYj6kapKnfrUGYZmYIoSwJviz2N76EUlI8zJBcaiwJQl0hSFLhkG1K3EjfvXe5GKrfTepxZbWP6p92p7AyqsQhOJc0PT8t_coQLRBQSdybR7BLAlnc44U0qagjkxeCRpDglOxoAUjVuSJXtR151YhnGFL90qwazVyQyWJc9mg21IbR9Oo8Ht4zhhCrEMlZiQR-AZeaD5gT22OWEkhkLK9OW1Owo61m4ZRa370oj9bacTUfCmec4aG8rN2O_FhHHoMN7eI3CQqwqLvumuIhvPUMqD0g32veqRIj7hSbPHrlPyT1lz81vVHSYODwK3rQ8iwoIf4zAS9HmVzxx7WWl5J3Atg0yUOfXh6Kz8R0DidZstdTeL7CxI9007inYA=w839-h630-no
@@ -8,12 +8,7 @@ header:
 categories: hike
 tags:
   - nepal
-  - annapurna
-  - himalaya
-  - himalayas
   - hike
-  - Manang
-  - Upper Pissang
 classes: wide
 
 gallery-name:

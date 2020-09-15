@@ -1,6 +1,6 @@
 ---
-title: "Around Hochgern mtb - May 20"
-description: "Hochgern trails mtb singletrack bike"
+title: "Chiemgau Alps: Around Hochgern mtb - May 20"
+description: "Hochgern trails mtb singletrack bike Chiemgau alps"
 header:
   image: https://lh3.googleusercontent.com/pw/ACtC-3c2zkF9QfjuFNd2wz0ubuMiQ7AjdsXuCHMUCRMTTa-J8fjqgNoZ5jf9xGehEcFfoxw_5Ns5LyUBT57-9ZiHoLDmSP9Xgrfj3j6xM6uL4k1d4p3jEW9cq_BOW6nyHtZ0hTkxl4kf6mKgKRIvqxucrXz6eA=w1379-h1297-no?authuser=0
   teaser: https://lh3.googleusercontent.com/pw/ACtC-3c2zkF9QfjuFNd2wz0ubuMiQ7AjdsXuCHMUCRMTTa-J8fjqgNoZ5jf9xGehEcFfoxw_5Ns5LyUBT57-9ZiHoLDmSP9Xgrfj3j6xM6uL4k1d4p3jEW9cq_BOW6nyHtZ0hTkxl4kf6mKgKRIvqxucrXz6eA=w800-h300-no?authuser=0
@@ -10,6 +10,7 @@ tags:
   - bavaria
   - mtb
   - singletrack
+  - "chiemgau alps"
 classes: wide
 
 gallery-hochgern:

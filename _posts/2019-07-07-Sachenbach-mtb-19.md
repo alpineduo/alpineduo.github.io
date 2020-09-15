@@ -1,5 +1,5 @@
 ---
-title: "Sachenbach mtb - July 19"
+title: "Walchensee: Sachenbach mtb - July 19"
 description: "Sachenbach mtb walchensee bavaria"
 header:
   image: https://lh3.googleusercontent.com/uLDkVcIAlT9CQSrD9FE3xvcPe0FCJoTBo8_P8wbx3d6Hpokvnb61KJXSnMdUemYQ11ae0JFusbMfeALNAviPLChP_O4OKuihond-sKO5uZYOXM0w1ms9T2xpLQ9VTt2K9JdI3CO0sHANGn7ka6FQd3Eajov_c_K4PJhgtr7JLBPBI70wulIr6QhCpG8U_f9eZLX3KJCkORNUdZLeEKqP5d82lcW6ztS9vcF7ezAsAC5eACARY3w8eFuUv4fpPqwE8epdKqHkCdPng8MlY4UGkeNvuzvsNmcATi4rahPWr0zXmfCXy9QjLbJnXxgzNwcIPM8SWd-zCAOIg7SuVxKwsPS-3Nu9t_BETHYaFFXmFo9527wh7pFaM8vbfY6VEw4TuhgSNO9XFbDS-OTZddSRFIqvx7o0v0qhyNgSImzwVtUQRKwnyefxap3WFdsT0kwG4gTbimY8usTrpeBtpBKZgkfa0bnCm90sFuRDgMczsbQszLmkvZlmv5jmmV49TcrsqBJMFO7YUrqVsYsDwjnYqk1328AVSyR9c1PhxNQ35eUpkn9CCoe47YmP5syKpSseVoSbnlcX8la4gW9hz4r3TW6ksX58MS4Zkd3jdaOvhE133YGimmA_q72iTehQKhRE63N8iP4pgAJ_TojniYYy5U8IsZ1gXS21DDpgJDJryc5eC9ghbEDhObR5jczOvJvrsEALJCwThL7mmhnEJQIDTyoSMw=w2054-h1542-no
@@ -7,7 +7,7 @@ header:
   caption: "alpineduo"
 categories: mtb
 tags:
-  - alps
+  - walchensee
   - bavaria
   - mtb
 classes: wide

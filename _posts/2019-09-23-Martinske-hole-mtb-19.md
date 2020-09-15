@@ -1,5 +1,5 @@
 ---
-title: "Martinske hole, Slovakia mtb - Sept 19"
+title: "Martinske hole Slovakia mtb - Sept 19"
 description: "Martinske hole Slovakia mtb"
 header:
   image: https://lh3.googleusercontent.com/ZwOgllxFMKE2sC6-9htZor00aK9SA07n_CQVRZFsiV1-ZQyvsLZkEr15ri6b6eWeOsEuoz4Mh7mAMdoReiXVabgZgSKpQ1Kxzr7I7BBkp3K66dfs9goXKCaW5KjJWdAbP9a9ZG0WUvsCYFu4mUa0hDbgly6we9MKaxSEwDGgS4WtlgQcWTvrBumaxk96Okm4pWGx8ycYA4V1pUfd4WRmFT9DpmmIvC1HdPU25KY1a_CVE4fVNIZG3KQiRBRMDF99KZ0LLmy2ZqavWfpJ95OXvSfGx_SdWKWWTrQMOKNuIGnkRI27Gl1cG9s9T1NzVMIG1Z7sFR7Mj_KQw-XijDDHfxD6WUWOTBg2MWObFRix3R9GcfEkoO6rEvPSnKI8DN7Gb1PX0j7kgSPPvSlXORX6Dk28iLG1Ehsn3ACZWecy-bwjGiwNC4Nn-sqjfV0nFPGaueIXaX8Qr1_C-O_q_YQQGXgOmpG2mKrdjG2W-kYEAZIImuGbDdO6v_RN9WpCmQXoNe_Gd9snX8aR4dGTvF5L9d52VcObqyeZa1mK6-PZGip_210ST2h8C6pBEonZK278-UqW8CPnknQ7rHUowtbYWOhYf8cHmjh7eP4nZPgtB2geDPtb0u_v_fJXWmTRtOMF320D10q_VFn5gOh4aKE-bwBqPKmFy7TmynYPAAxx3HOTr_9Pl-mEmMH4XaAtmniDTjok3uHw152yF8T0xHrmG3EO6nK2sA4xRPqAY-0HBSlBYxakCw=w2016-h1134-no
@@ -9,6 +9,7 @@ categories: mtb
 tags:
   - slovakia
   - mtb
+  - "martinske hole"
 classes: wide
 gallery-martinky:
 

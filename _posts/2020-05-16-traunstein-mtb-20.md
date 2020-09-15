@@ -1,5 +1,5 @@
 ---
-title: "Traunstein weekend mtb - May 20"
+title: "Chiemgau alps: Traunstein weekend mtb - May 20"
 description: "mtb around Chiemsee weekend singletrack bike"
 header:
   image: https://lh3.googleusercontent.com/pw/ACtC-3f1yQsqDJKv9LOb1i3b9oSDbA7T_uWfeuAemU6kBtm6dz0ygAgGe_ZdF5nqVgmoWiKTZn7_cMtkcOORi1uION7Od3NnvIa4MmxBNv21zFS0Ws8TqlwLdhHFc-ZOhZwzWFSjH3QQqKKgvTtjreX076rRLg=w1756-h1316-no?authuser=0
@@ -10,6 +10,7 @@ tags:
   - bavaria
   - mtb
   - singletrack
+  - "chiemgau alps"
 classes: wide
 
 gallery-stoisser-alm:

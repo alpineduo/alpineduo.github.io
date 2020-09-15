@@ -1,5 +1,5 @@
 ---
-title: "Day 5: Manang to Letdar - Oct 19"
+title: "Nepal Day 5: Manang to Letdar - Oct 19"
 description: "Day 5: Manang to Letdar - Oct 19"
 header:
   image: https://lh3.googleusercontent.com/yGdGqUlDLobGieUhy90RspV7ufwm1GkS0RqEI7exElFPNazGqyMeSJBZtj5lppbQHFN9J91gbzv-qgHOTsr4HuzTTDD7Ue75fOV57ytvomu4T_lG11D08beyrYGtCMDuKoJ85SWQ80C90KE-pgRQMWB5-WkvA3nfljMhSpwvyf4omjTxxKDmGTqt2KuHRdKNuENsVr8BbOH4afC9a7XFaSJ06ToFGKAaBm3baki2QPLZaFeIavD40fB1RqvYupAfDztYG4fkHZN3VuSlo4gjLrvYe8ULAnaMFGTU3Hoo0u1hEyK0H4bKrmxxfLBV_0GEaEudA_CueuH-WHT17zQ5bFaB_fqoyLnlOSGUMwnO80FVfdqLExCYbB90jTprJgDLSQdIqNS861L_e7VIK3WEhFc0mGRZgl-S27OfqTZoHmgAzfTM6Ua2tTXjy_bX21S7rysMPBoQktK-peLgB1qMcaN7VtZr_mOIXBPCTkxma71VVidUa5ADzYXvHt8tV-mlvl5Jj5RDQojcwkjCSYqNVikZLZbSEdw_Go56dkny9x0c5FPwlLxR2NKxjCKdvS5b3MNvfrjxqvAxJsvNK5iiTw5u5YpZTAhOqWEgGzXv3KQqDdxBUB8Mmw9rLS5_ZXyk-luhO5KS7fXYhCN4c-UpXg0N2XNquAoXsA_NccdPI_KS6eEU8V0uzE2zRu2ZRDe-sDhBo4KT9x52oEU3KKyNN4Pwj4xD3R7mTq_WbK0LMwzTMYo=w839-h630-no
@@ -8,12 +8,7 @@ header:
 categories: hike
 tags:
   - nepal
-  - annapurna
-  - himalaya
-  - himalayas
   - hike
-  - Manang
-  - Letdar
 classes: wide
 
 gallery-name:
