@@ -1,5 +1,5 @@
 ---
-title: "Wendelstein and Lacherspitze evening hike - Jun 19"
+title: "Mangfall mountains: Wendelstein and Lacherspitze evening hike - Jun 19"
 description: "Wendelstein and Lacherspitze bavaria"
 header:
   image: https://lh3.googleusercontent.com/4jNWj5aD8maYPSnDWgoWQmweB3DVVuyYetD3MBKL6jIbHh40A-ilm1kbq1c1wVSMfwbqyMPI9yWxVPW480hwwLmQ2aJsRjeHh0cQUpqKhWQ7fovsooG7wCPJgLACHa9mXTub4bYlsGuQ9SIWx_Gu-5E8EsqYEQceoV5mLz8lpUDa4_jhB3geSaFaJ2TPgOgTZkXMzuskFOIF4xUJeAkOAgPFElhANgLI-AIhOs7EetBI8ddotHYwDfQkAV9kc6cYJUs8M9Ol61vf34g4qGrTJo_fpDZY_-cqUDw8iXAdMdrbjD4yfXoSe0gt-asQsMcxtWvgzmld1Y-Qrp-mMPWLQ0Ojf_qwtUpAX2puAAVyiJBqIuFnzkoKoB8Imzy0_e8mKP3taXDvKkMGCct2g5g-mWDngbe9VzxomRCy3T2HhwlKBW6-4hs_eOC1jrv4Q8o5EnWmWZLwKY8a4ZAwpHmLoSf54LfQ6UtPmhtEXSaDHH2yCexAogsoTnkqDya7wwNRGz0jWagStCAEi9_v2qt9h8edUqPDZzcbPjWabcoJE-BlV-BGwOuUFYC3pwIaZjMZ0SIeUCUWNVK3PaK0z2YWVOlhggtSOVuTwto_ollEomQ4cGJr8IGiboyNOHQFREqL1OJQ78CvKKQX32gooQ0Zw62-xcz45O53SLqmI_na9qN2kzA7ezG56bclIQg2ocUFbxzqJ4v517YHfNCcAKE0Ek_2gg=w2054-h1540-no
@@ -7,7 +7,7 @@ header:
   caption: "alpineduo"
 categories: hike
 tags:
-  - alps
+  - "mangfall mountains"
   - bavaria
   - hike
 classes: wide

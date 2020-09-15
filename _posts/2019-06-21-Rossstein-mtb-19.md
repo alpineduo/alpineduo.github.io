@@ -1,5 +1,5 @@
 ---
-title: "Around Rossstein mtb - Jun 19"
+title: "Tegernsee: Around Rossstein mtb - Jun 19"
 description: "Bike around Rossstein tegernsee bavaria"
 header:
   image: https://lh3.googleusercontent.com/AIP5IwuV-hcCZpDJCFMXKvApFTeW0uT4MaPKWcC9_k6Mb0dNaTE1cHPq2DNI-Nd6BNdihX4MrrYWzk4OULCQ5mJZSL8skCdZw1A4ny4RwqUcX5qodIU3e7wD5XsDgydy57iu8_DkzctiDGQ2WlcyIEne1M7T0RuRommH1UzBJibHVB7qaI5ZBNZDkYrcC_fk3AtTilY5gmZeMxNo5WA-Q0fwyKJee6DxEDKKmsD7XFTSvKUXogu-3SOgbTC2bydhCNPMvAAdJqZAdeHXmoPK42F7fDeayBazP4VlEXJnMx-sIzGEkQhKYg4cE-JWPE3pvXN84Zn_JbQCS-GgV3sCQGuqEhXqUXfxbLgr43pX1QTX5l2gEPytKQJcygL94IiBJcJmIWHXn6PkqdRRWnL6gymWUsSSzjsdnpdLEYo5pO7q6Oo5k3JV10zkrwyhhFgJeaMewJ0MrHQqezj1jyC6It4yhEdv3lekyOQwemVxudEVA9pYhkMWP3kMD6dlflioT71m35TwiuzmjS53URjdjttj-_iyv7ZJeU8LXkmQstTjxKPyfOwboi00PsRRCrniiIn3pEUUvCx98xmUcqoEwuDv767mENRL90QrYkWsUFVC7NZGlb_VW7P_qbJbquSUSKmjYzN3JeTQH7NYLhqSTef3xDZ2ftJdGLaNWmC3jp5Ko3e9-fV240bZ3vNrQf6m-9Mm7GZRFQIq9OwdLT-k_nGBVZOQjH0VDopYX7odA1cOozoY=w1664-h1248-no
@@ -7,7 +7,7 @@ header:
   caption: "alpineduo"
 categories: mtb
 tags:
-  - alps
+  - tegernsee
   - bavaria
   - mtb
 classes: wide

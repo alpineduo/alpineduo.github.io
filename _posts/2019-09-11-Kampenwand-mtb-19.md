@@ -1,13 +1,13 @@
 ---
-title: "Kampenwand Reitweg trail mtb - Sept 19"
-description: "Kampenwand Reitweg trail mtb bavaria"
+title: "Chiemgau Alps: Kampenwand Reitweg trail mtb - Sept 19"
+description: "Kampenwand Reitweg trail mtb bavaria Chiemgau Alps"
 header:
   image: https://lh3.googleusercontent.com/BHf1EaemM0KX7lWcpRI-p_z0qylnGKVMQcBS2clAXLcxn1PRHYCwpRK3huYbc7HkbsO8pwPPwc3JCN0HKA-ePpf6ngveach8OgVBJ_aIkf45NLieJnbGmiyDKbBcHqqJ6wAqJbdV6NDLgcWJ0i31YzOgqkiLDHY2p3gqyxw5c0ZRMv_QiQNKQKd1EQ5NjHcosFqzvyw1PV4dq3Pl_PH7sgtaPeWg6I9GsM8-6PSCDjD-KLLIK4PMaj42dNOlpDaYyJMbLkS-bsKWpgwwmh9XhmTUjZDnZLBNZbcNPafcnAlElP7W7rzrvtPZM3SNBno-hZFVeA_5MKYnJKgMpSuEMkx3CMrmxIspkXQ3YYPMH8tQs4JbY6vl-z9ojw96peRH59dSEDxEUMnKYHGWZuBK-2zZNJUg5DdaR6TSeHFbkOiBnqPeIGjmBvaoNP6ZDbzz-ZKRZeoOd1TWcQyLE2ZtDyxU-ZC9QvoO1lIwsxuKzcWeEoH2QDAVIANC08JQGCpq_GgV-0KoT930Nk158OJd3cGiCXmiHzl-yEipK4mEdPCeRus34dXnNUJ8zPCdNgjXmcN7nfUW9ziIjS-hFL79JJ-vCjUOaxalr7BzD4l1U8lRQRSnWdif-M7U5JAFJLPNAY5xyjIuDL4kqZD2WqRpTggu9BYqXnI832BBwqRi3MVVBJ99LRog9n5wPL1baptBtGA1v8ZF8dM0cXqaZsCYpEVPERU8QpmkMX90bCxGcwdwAN7IlQ=w1508-h1540-no
   teaser: https://lh3.googleusercontent.com/BHf1EaemM0KX7lWcpRI-p_z0qylnGKVMQcBS2clAXLcxn1PRHYCwpRK3huYbc7HkbsO8pwPPwc3JCN0HKA-ePpf6ngveach8OgVBJ_aIkf45NLieJnbGmiyDKbBcHqqJ6wAqJbdV6NDLgcWJ0i31YzOgqkiLDHY2p3gqyxw5c0ZRMv_QiQNKQKd1EQ5NjHcosFqzvyw1PV4dq3Pl_PH7sgtaPeWg6I9GsM8-6PSCDjD-KLLIK4PMaj42dNOlpDaYyJMbLkS-bsKWpgwwmh9XhmTUjZDnZLBNZbcNPafcnAlElP7W7rzrvtPZM3SNBno-hZFVeA_5MKYnJKgMpSuEMkx3CMrmxIspkXQ3YYPMH8tQs4JbY6vl-z9ojw96peRH59dSEDxEUMnKYHGWZuBK-2zZNJUg5DdaR6TSeHFbkOiBnqPeIGjmBvaoNP6ZDbzz-ZKRZeoOd1TWcQyLE2ZtDyxU-ZC9QvoO1lIwsxuKzcWeEoH2QDAVIANC08JQGCpq_GgV-0KoT930Nk158OJd3cGiCXmiHzl-yEipK4mEdPCeRus34dXnNUJ8zPCdNgjXmcN7nfUW9ziIjS-hFL79JJ-vCjUOaxalr7BzD4l1U8lRQRSnWdif-M7U5JAFJLPNAY5xyjIuDL4kqZD2WqRpTggu9BYqXnI832BBwqRi3MVVBJ99LRog9n5wPL1baptBtGA1v8ZF8dM0cXqaZsCYpEVPERU8QpmkMX90bCxGcwdwAN7IlQ=w300-h600-no
   caption: "alpineduo"
 categories: mtb
 tags:
-  - alps
+  - "chiemgau alps"
   - bavaria
   - mtb
 classes: wide
@@ -69,7 +69,7 @@ gallery-reitweg:
 
 After work ride with Peter in Kampenwand area in the middle of the week. We had sunny weather in Munich therefore we could not resist to cycle after work. I hiked few months ago up to Kampenwand and I discovered few trails on the way back. One of them was Reitweg, shown as blue trail on Trailforks. The trail consists of two parts.
 
-Our starting point was Chiemgauer Hochseilgarten. There is natural swimming pool next to it. The parking is free and almost empty when we arrived in the late afternoon. We somehow could not find the beginning of our trail so we crossed few meadows to find the ski bench and the forest road we should have taken. This forest road led us to Mais-Alm. The way up was fine, we also lost few dozen of ascent meters in the middle where we were wondering where to continue. As there was a trail going up, we decided to diverge from the proposed track and find our own way. This diversion allowed us to follow hiking trail, sometimes steep and narrow so we ended up pushing our bikes. Mais-Alm was still opened as it was sunny evening, plenty people sitting outside enjoying the week day evening.
+Our starting point was Chiemgau Hochseilgarten. There is natural swimming pool next to it. The parking is free and almost empty when we arrived in the late afternoon. We somehow could not find the beginning of our trail so we crossed few meadows to find the ski bench and the forest road we should have taken. This forest road led us to Mais-Alm. The way up was fine, we also lost few dozen of ascent meters in the middle where we were wondering where to continue. As there was a trail going up, we decided to diverge from the proposed track and find our own way. This diversion allowed us to follow hiking trail, sometimes steep and narrow so we ended up pushing our bikes. Mais-Alm was still opened as it was sunny evening, plenty people sitting outside enjoying the week day evening.
 
 Few more turns up from Mais-Alm and the gravel road started going down. Note, you find Reitweg on the right side while descending first hundreds meters. Do not be scared of big rocks at the beginning, the trail is rated as S1. You can climb it in the opposite direction without problems. There are at least 2 trees fallen, the trail is not completely clear but nothing major. We did not continue to the lower part as there is a sign "no biking allowed", we were not certain why so we followed the gravel road down to the village and back to our car. It would be almost 3 km of trail with it, anyway good bike ride after work. 
 
@@ -81,7 +81,7 @@ Drive
 : 1:20 hours
 
 Start
-: Parking lot at Chiemgauer Hochseilgarten, free
+: Parking lot at Chiemgau Hochseilgarten, free
 
 Duration
 : 2:30 hours

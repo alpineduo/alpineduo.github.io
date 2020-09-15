@@ -1,5 +1,5 @@
 ---
-title: "Schöttelkarspitze & Soiernsee round hike - Jun 19"
+title: "Karwendel: Schöttelkarspitze & Soiernsee round hike - Jun 19"
 description: "Karwendel hike round around Soiernsee via Schöttelkarspitze"
 header:
   image: https://lh3.googleusercontent.com/EHJRN_rQ8gq_yjmV16IzI9jRCd15O6IGAdZLD04PJ7OZkho5e8BjCB29j4XdVQna9wUORCZQ-Zg3_rzAPh6PlNh7dI-Roe0L7lhbqg0vEz6BWgbcJPlj6baa6XEzfg4F9vkCBXI3o0NVh4CzhnNIM__Jcr9WcM6loRuVgeyyX-uy8wlotrt-0aUu8r_a3RC6WLnyvqbqRpRzRiEWuEMbx7yzdyF1WdQrWrR0v5M6rfCx-znvuvklDdzjITkVpP62n6wrCHT_eN1IVTSEoLfsWodoFl-iKi4Em9isKQNkVy4tT8qTiZPslbLjMITBQ84owqUkOueQJ5O-ZKyHcd18elnVJHSgEIHYPOiGh55DFc1REaRPwjqp5MwxwvJU2a_RAYWxkkyokHHCyDqddsv9efDlAhBs06Jh_xlmfBKgSMBTHVq1HGa5vuuaDkC5Qoct1C9X28UakextwS9ZmBDS8PwiVOgmW7b2EwhuXallk9viuYp5rTL74MPA0u2548-3NjrHb3Kcoq9Y5aXsjvsC5y-Vj2lft212D8LEHZQBFI1j97VE2mGCRJbS43LVLFcsds1MQsDYrFz0rJYAVjY0uuWSAgKNC_f0xCiIJBfQytaI8uPcNO-2Jbek7q5N77lzt0M3ZQFoL2SJp65bOe9OlkTgSVDk3zSvpTmgH6h9mHEVy4HL7kBot_kWJW0Lg5M43nh4asYiTtErPt5n-fZi6-k_wg=w2736-h1318-no
@@ -7,7 +7,7 @@ header:
   caption: "alpineduo"
 categories: hike
 tags:
-  - alps
+  - karwendel
   - bavaria
   - hike
 classes: wide

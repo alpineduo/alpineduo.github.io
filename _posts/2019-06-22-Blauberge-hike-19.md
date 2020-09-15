@@ -1,5 +1,5 @@
 ---
-title: "Blauberg hike - Jun 19"
+title: "Tegernsee: Blauberg hike - Jun 19"
 description: "Blauberg crest hike tegernsee bavaria"
 header:
   image: https://lh3.googleusercontent.com/virODJtHsMYXglB7XVzMZZKTHxXmmSJoSyY938fY6T0YrImEcs_zlSknPQZoNQEF_csZqtX5BgNb1rl_VoKq8Wj0JEjHmd1IuynnBwnqi9WejrwuaXZkipqAX7PVcZYGEYmRVlzIhuC6MePMx5tVCFB2ahYHQFQQi8mBQ9fvk6ABWP96rME48liBLE2mySlAc4ZmmAqqxDvGNx3dcdHfrX80N2L9Ot6jvH10kBysJ4cYcdL9eQoK-oEQElWnhI9W_EoxPlQBAr1u0TOBUt_n6AEWu6FE5miccp4nlJxyt4Zb8N3EtnNhCt5JFUeKSNnU9DWODIFI9VvlZkosK1_YViCBX6j1jztl98S8FnB1Z3PysUXQNnkTOcVJW2rtsZNd0MuDljd6fvWQV1vtAloQG6KRG5o9pYxSxiZjZ9RgKJrLn5LzxjAG9kEZQrzqejVDomxXbndgHfiTKi87pfFdy9X4cg5xU5RXI_K_El1tsHAGyNTCMdLtPZmE71VJ2Vo-0c-2-KMbxqPSEOEbsQCqZ5bQBxD6Y6pFHrUsMmX04-0Mf3HoIt8hKyvVGz_Rhl3nOWsDf1tG1y4Ggwt9iycn3LTPRfk_pfRmqyRCHxOoWqKuWnSDyc0MxUQKTVCuVGPpcyC9vVfYAFGr2WDti2OmZFSEvku_WQcu2Fv_02vv9GKlUcPmaUCPlMSgP7pKkejk5O1HbhjDRYZk6GJJKy0ylhuZ2s9SvDnIsISCUXjHaRmkuKzD=w1664-h1248-no
@@ -7,7 +7,7 @@ header:
   caption: "alpineduo"
 categories: hike
 tags:
-  - alps
+  - tegernsee
   - bavaria
   - hike
 classes: wide

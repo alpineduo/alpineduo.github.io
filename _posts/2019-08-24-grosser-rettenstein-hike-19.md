@@ -1,5 +1,5 @@
 ---
-title: "Großer Rettenstein Kitzbühel  - Aug 19"
+title: "Kitzbühel: Großer Rettenstein  - Aug 19"
 description: "Großer Rettenstein, Kitzbühel hike"
 header:
   image: https://lh3.googleusercontent.com/utb8HmSbDOPxbVzxGpHVcyJgu41PpjWHmXlr9Rz_aUB4h1JFO5xQhgtWM7uBgHFjtvIF5jLW2Y1Hz1Q1sNHZp-Z0DeWL_W_ZMyEvsdAQ57w_XAzqdXLzAIAFRf6lJ0Zs1UmVYts3WczrQ74fftduAyelR6fTMEjrjkZcROoU3CQrr_is0hZMnIDkeUFw_npqul4GHN5ipYXUWg930cyfvwM8fNc_Mf8fAhdm7J_dntI_OL53bjnBZ_v0UkLPtf7Hmztd7YQ4fuUAzvAFrq365S29W9Kwf-QXZ2a2aeHMz6NkIg1PXVSf-D8BMIMbe1xsfSKgzbDYmNzGL3m-bTeJ3L9oZuVpDuSneO_c3lQJVuVsXp3-Bq640iw2PDWaaOvbdE-rXEsrZjTa-i9LOLP6xFrHpu5iy0s7ZZIXDo52xglymxpdZl3BSEktRwRj97G22-aSLTwn1cFlq1wMDwaaSUQ8_M0ytn7JBH3e7OZ02VjsBZH6KuAEOMLLQ8qPaHKv5HCxUjHbo_Jwo7yYeyniVLvErR5uN7RLjNP9WrG90orDQpp3cSbNxnAQR2zmIrEXU1yx7d_wn1EiHSw-m2lXGgAY6ahMnW8tUzBhJQxxGSOh416cZWx43zTruLljyWOpLupBR-qroFArNDtsTF_9oLIwY8dW23uYLJT3mr6PczRSDTUENalQesc3Pu239kBV-RE_SYa-sqU4TBOFIjPxzbL7gg=w1482-h1540-no
@@ -7,7 +7,7 @@ header:
   caption: "alpineduo"
 categories: hike
 tags:
-  - alps
+  - kitzbühel
   - tirol
   - hike
 classes: wide

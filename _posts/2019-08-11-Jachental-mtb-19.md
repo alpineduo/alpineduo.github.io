@@ -1,17 +1,17 @@
 ---
-title: "Jachental mtb - August 19"
-description: "Jachental mtb bavaria"
+title: "Mangfall mountains: Jenbachtal mtb - August 19"
+description: "Jenbachtal mtb bavaria"
 header:
   image: https://lh3.googleusercontent.com/n8f7YJe_vEU0dZU4O8ALz5RSd5HXz9AY_ZSVhogB28aB8BqFs0fE5AuLxFBQ_9K-tSRrPIyiJwPCKl5t7IUotGwujiqSaPs-iHnVHyxMmbtWuKVYh2lfYWWm122X1IB1BRgBHkKbKBYAxsbtNdzQ1cJy425s1bf8FIP9HTLmzw0DyxVqCQWKbcnclZwxx9QB0w9iJ7OwA8s-8OrT25m0GxAS_SfdONPHJYXwN1qY_dmsp9lb4A6ZOVdRvUAFBy6HL2H9nqCdgns2SZW7n85kRRvx3AjBkcvk-hwmnVysZsPiom_Dq6luP5OFzb1Q90hj_geIzOEhpCFImpd6TCZV9xxOJYgCraLLle7N7fDZaUDxhX4xqKLChdMYnoZ6P33HB2KYykZoTPLDWnP2-RnG4v4Y_GSfhidHZ6dkXXE4mm3PQBUpj-4l1LnqJ4w0L5EDhuvVBe3XgQ8rvDU4ot8Cj2v3TgndLFCS8aRiBExfduPVaqS4o2zdZw1YN1hdT9bWXTMT8T-6MXowjS5VNSaua7PnnsDg_IrOhCTnGsabpli8os2r9YGbUTrYfP3LM7G05-zCa_bxllzifiBQvHb2tRvWKS6tnvFjS01p_iVia0aykHCOdL7gLbfC7CCc19OVA8jHL9K6m8zqQG4jHrSAr8y_F6HVR3voIm1NjVa875AGPXx82kYFDh_ZaD7OcJW4Z26T64gcEZ_kHlEkWk6u0ca6HA=w2016-h1512-no
   teaser: https://lh3.googleusercontent.com/n8f7YJe_vEU0dZU4O8ALz5RSd5HXz9AY_ZSVhogB28aB8BqFs0fE5AuLxFBQ_9K-tSRrPIyiJwPCKl5t7IUotGwujiqSaPs-iHnVHyxMmbtWuKVYh2lfYWWm122X1IB1BRgBHkKbKBYAxsbtNdzQ1cJy425s1bf8FIP9HTLmzw0DyxVqCQWKbcnclZwxx9QB0w9iJ7OwA8s-8OrT25m0GxAS_SfdONPHJYXwN1qY_dmsp9lb4A6ZOVdRvUAFBy6HL2H9nqCdgns2SZW7n85kRRvx3AjBkcvk-hwmnVysZsPiom_Dq6luP5OFzb1Q90hj_geIzOEhpCFImpd6TCZV9xxOJYgCraLLle7N7fDZaUDxhX4xqKLChdMYnoZ6P33HB2KYykZoTPLDWnP2-RnG4v4Y_GSfhidHZ6dkXXE4mm3PQBUpj-4l1LnqJ4w0L5EDhuvVBe3XgQ8rvDU4ot8Cj2v3TgndLFCS8aRiBExfduPVaqS4o2zdZw1YN1hdT9bWXTMT8T-6MXowjS5VNSaua7PnnsDg_IrOhCTnGsabpli8os2r9YGbUTrYfP3LM7G05-zCa_bxllzifiBQvHb2tRvWKS6tnvFjS01p_iVia0aykHCOdL7gLbfC7CCc19OVA8jHL9K6m8zqQG4jHrSAr8y_F6HVR3voIm1NjVa875AGPXx82kYFDh_ZaD7OcJW4Z26T64gcEZ_kHlEkWk6u0ca6HA=w800-h300-no
   caption: "alpineduo"
 categories: mtb
 tags:
-  - alps
   - bavaria
   - mtb
+  - "mangfall mountains"
 classes: wide
-gallery-jachental:
+gallery-Jenbachtal:
   - url: https://lh3.googleusercontent.com/e8KaD6kPIzFoJaYdebBpXQIORXaIPhpWgttx1dFTmxhyQVhBoYbIgEOtCGfZccLBIhyZyxP3s1VgpIy9yjjC5J2YtuNx5dcMWQm7G2oWzIJKLDa5HXbUSNwXrUzsgFTaaxHqk044jHu-HdWXIdarptzrm_pZfQgP01etwr_VbAJebO2qzkT-8LnIwoF29dZRdUA04ngwm1OFj898SK8rVZDQxxp3SsoR3JWuO0Jk0wffszF6-AmYGaCmAFDQOXO1g6rHtDK21ydQWw7oqCsbxBzA7Nz_bF0MiPRzll7nnzGzHJiN8JsafqCrne-0zxcivZbazyVapoFz94wlwiVzQZg3e7Bvia4-hRnmnR5_iiTF5EEo2dC6oyovI8e7s5cxxYjPdl2REb5RIqyC_qW4iGqNcv9-mPJQFu46e3UoNJKpIqKcKGzQUj3uJ42dL8AaA6TJC-v9CUWwL_nP-g5LZMI3JBlZS8WBIRizNkL-wgeWr0mjjgkbSuAGp_UcRtpdgZTVfDXOV6MhhFTVoQDzkXdBJrxjxUcabkkY5rayDEgz4JNThjRsHn4LQG7N2d44aQEIr_c54-oXXSThbVH_KlQHBCZZE8TxbW-OQ2v63Y0Hj0eEFjZ04WepP7ebbYBxrVvTNygBHDZ8UlZjdwINKuL57mEQND7doUEiIITtvsYlkzFq4tVZzJ695Qn4LLDK0uJJHvyjBFo8sBySwD-vEdrLkg=w1156-h1540-no
     image_path: https://lh3.googleusercontent.com/e8KaD6kPIzFoJaYdebBpXQIORXaIPhpWgttx1dFTmxhyQVhBoYbIgEOtCGfZccLBIhyZyxP3s1VgpIy9yjjC5J2YtuNx5dcMWQm7G2oWzIJKLDa5HXbUSNwXrUzsgFTaaxHqk044jHu-HdWXIdarptzrm_pZfQgP01etwr_VbAJebO2qzkT-8LnIwoF29dZRdUA04ngwm1OFj898SK8rVZDQxxp3SsoR3JWuO0Jk0wffszF6-AmYGaCmAFDQOXO1g6rHtDK21ydQWw7oqCsbxBzA7Nz_bF0MiPRzll7nnzGzHJiN8JsafqCrne-0zxcivZbazyVapoFz94wlwiVzQZg3e7Bvia4-hRnmnR5_iiTF5EEo2dC6oyovI8e7s5cxxYjPdl2REb5RIqyC_qW4iGqNcv9-mPJQFu46e3UoNJKpIqKcKGzQUj3uJ42dL8AaA6TJC-v9CUWwL_nP-g5LZMI3JBlZS8WBIRizNkL-wgeWr0mjjgkbSuAGp_UcRtpdgZTVfDXOV6MhhFTVoQDzkXdBJrxjxUcabkkY5rayDEgz4JNThjRsHn4LQG7N2d44aQEIr_c54-oXXSThbVH_KlQHBCZZE8TxbW-OQ2v63Y0Hj0eEFjZ04WepP7ebbYBxrVvTNygBHDZ8UlZjdwINKuL57mEQND7doUEiIITtvsYlkzFq4tVZzJ695Qn4LLDK0uJJHvyjBFo8sBySwD-vEdrLkg=w300-h400-no
     title: "The first ascent meters, forest road"
@@ -33,13 +33,13 @@ gallery-jachental:
 
 I am back home ! It's been a month away. I am still processing material, I will blog more about the hiking in Tajikistan in the following days.
 
-I fixed my freewheel yesterday (failed to do before my departure). Today was the test day. Danka's friend joined me for mtb ride. I had Jachental bookmarked for a year, about the time to bike this one. As I was looking at the map in this area, there are many bike trails around that are waiting to be explored.
+I fixed my freewheel yesterday (failed to do before my departure). Today was the test day. Danka's friend joined me for mtb ride. I had Jenbachtal bookmarked for a year, about the time to bike this one. As I was looking at the map in this area, there are many bike trails around that are waiting to be explored.
 
 We arrived to the Deisenried parking lot in the morning and it was already quite full. Most of the people went up to Tregleralm. The ascent is after few kilometers and changes to descent quite often (the trail goes up and down most of the time - my feeling). We haven't met many people in the beginning. It became more crowded later when we get to Jenbachsteig river. Many cars in the parking lot there.
 
 We biked mostly on gravel roads (S0-S1 in some spots), otherwise it is asphalt. There are possibilities to find some singletracks on the way down (I found few, S1) although today was the day for easier ride to get back on bike after a break.
 
-{% include flexgallery id="gallery-jachental" caption="Jachental mtb - August 19" %}
+{% include flexgallery id="gallery-Jenbachtal" caption="Jachental mtb - August 19" %}
 
 ## Tour info
 
