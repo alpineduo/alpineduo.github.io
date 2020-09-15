@@ -8,7 +8,7 @@ header:
 categories: mtb
 tags:
   - bavaria
-  - bike
+  - mtb
   - "bad tölz"
 classes: wide
 

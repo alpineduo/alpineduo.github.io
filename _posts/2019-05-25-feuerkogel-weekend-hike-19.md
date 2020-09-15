@@ -7,7 +7,6 @@ header:
   caption: "alpineduo"
 categories: hike
 tags:
-  - alps
   - tirol
   - hike
   - "höllen mountains"

@@ -8,12 +8,7 @@ header:
 categories: hike
 tags:
   - nepal
-  - annapurna
-  - himalaya
-  - himalayas
   - hike
-  - Manang
-  - Upper Pissang
 classes: wide
 
 gallery-name:

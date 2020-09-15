@@ -8,12 +8,7 @@ header:
 categories: hike
 tags:
   - nepal
-  - annapurna
-  - himalaya
-  - himalayas
   - hike
-  - Kagbeni
-  - Jomsom
 classes: wide
 
 gallery-name:

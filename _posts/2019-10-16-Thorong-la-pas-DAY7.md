@@ -8,12 +8,7 @@ header:
 categories: hike
 tags:
   - nepal
-  - annapurna
-  - himalaya
-  - himalayas
   - hike
-  - Thorong
-  - high Camp
 classes: wide
 
 gallery-name:

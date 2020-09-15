@@ -7,12 +7,8 @@ header:
   caption: "alpineduo"
 categories: hike
 tags:
-  - Nepal
-  - Annapurna
-  - Himalaya
+  - nepal
   - hike
-  - Letdar
-  - High Camp 
 classes: wide
 
 gallery-name:

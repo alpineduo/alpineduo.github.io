@@ -9,8 +9,6 @@ categories: hike
 tags:
   - nepal
   - hike
-  - annapurna
-  - himalaya
 classes: wide
 
 gallery-name:

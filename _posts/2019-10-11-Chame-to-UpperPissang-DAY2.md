@@ -7,12 +7,8 @@ header:
   caption: "alpineduo"
 categories: hike
 tags:
-  - Himalaya
-  - Annapurna
-  - AnnapurnaII
-  - Nepal
-  - Pissang
-  - Upper Pissang
+  - nepal
+  - hike
 classes: wide
 
 gallery-name:

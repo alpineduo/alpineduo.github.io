@@ -8,13 +8,7 @@ header:
 categories: hike
 tags:
   - nepal
-  - annapurna
-  - himalaya
-  - himalayas
   - hike
-  - Manang
-  - Ice Lake
-  - Bhraga
 classes: wide
 
 gallery-name:
