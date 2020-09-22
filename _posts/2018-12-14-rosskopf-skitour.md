@@ -9,12 +9,7 @@ categories: skitour
 tags:
   - prealps
   - bavaria
-  - skitour
-  - skimo
-  - pistentour
   - piste-skitour
-  - earnyourturns
-  - humanpoweredadventures
   - winter
   - spitzingsee
 classes: wide

@@ -10,12 +10,8 @@ tags:
   - prealps
   - tirol
   - karwendel
-  - skitour
-  - skimo
-  - pistentour
   - piste-skitour
   - winter
-  - earnyourturns
 classes: wide
 gallery-schonalmjoch:
   - aspect: "0.400"
