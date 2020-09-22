@@ -10,9 +10,6 @@ categories: skitour
 tags:
   - prealps
   - bavaria
-  - skitour
-  - skimo
-  - pistentour
   - piste-skitour
   - winter
   - lenggries

@@ -11,12 +11,8 @@ categories: skitour
 tags:
   - prealps
   - bavaria
-  - skitour
-  - skimo
-  - pistentour
   - piste-skitour
   - winter
-  - earnyourturns
   - "chiemgau alps"
 classes: wide
 gallery-kampenwand:

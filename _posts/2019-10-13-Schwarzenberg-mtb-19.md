@@ -9,7 +9,7 @@ categories: mtb
 tags:
   - bavaria
   - mtb
-  - "Mangfall mountains"
+  - "mangfall mountains"
 classes: wide
 gallery-schwarzenberg:
 

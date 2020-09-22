@@ -9,9 +9,6 @@ categories: skitour
 tags:
   - "mala fatra"
   - slovakia
-  - skitour
-  - skimo
-  - pistentour
   - piste-skitour
   - winter
 classes: wide

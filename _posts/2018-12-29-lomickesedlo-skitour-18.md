@@ -10,9 +10,6 @@ categories: skitour
 tags:
   - "vysoke tatry"
   - slovakia
-  - skitour
-  - skimo
-  - pistentour
   - piste-skitour
   - winter
 classes: wide

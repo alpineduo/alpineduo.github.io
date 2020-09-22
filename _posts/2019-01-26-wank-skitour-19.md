@@ -9,12 +9,8 @@ categories: skitour
 tags:
   - prealps
   - bavaria
-  - skitour
-  - skimo
-  - pistentour
   - piste-skitour
   - winter
-  - earnyourturns
   - garmisch
 classes: wide
 gallery-wank:

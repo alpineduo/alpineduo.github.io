@@ -8,12 +8,8 @@ header:
 categories: skitour
 tags:
   - slovakia
-  - skitour
-  - skimo
-  - pistentour
   - piste-skitour
   - winter
-  - earnyourturns
 classes: wide
 gallery-velkaraca:
   - aspect: "0.250"

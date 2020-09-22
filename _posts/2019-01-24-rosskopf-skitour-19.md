@@ -11,12 +11,8 @@ categories: skitour
 tags:
   - prealps
   - bavaria
-  - skitour
-  - skimo
-  - pistentour
   - piste-skitour
   - winter
-  - earnyourturns
   - spitzingsee
 classes: wide
 gallery-rosskopf:
