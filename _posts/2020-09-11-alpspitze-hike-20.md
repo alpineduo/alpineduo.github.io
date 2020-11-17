@@ -179,7 +179,7 @@ We descended via Mathaisenkar. It is another B/C ferrata trail, leading to Höll
 
 We continued via Höllentalklamm back to Garmisch. There is an entrace fee (we noticed the sign later on the way down). Höllentalklamm is another highlight of the day. We arrived back to our car 10 hours later. We were exhausted but full of excitment that we finally went up to Alpspitze. 
 
-{% include flexgallery id="gallery-alpspitze" caption="Garmisch: Alpspitze hike - July 20" %}
+{% include flexgallery id="gallery-alpspitze" caption="Garmisch: Alpspitze hike - September 20" %}
 
 ## Tour info
 
