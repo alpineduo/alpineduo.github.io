@@ -18,8 +18,8 @@ gallery-tegelberg:
 
   - url: https://lh3.googleusercontent.com/pw/ACtC-3dHbPHD3eVag_vk_3u2XwyO0xZmbbJU2Tyr0spTdLQVq0yqyNfK-yAhFGLpOoNkM7lTRjtBlI4UJir0Ymg5Hxk5zYj1zRgocSNaJcZejjTJ5gez05a59t1-y6jpO1L8k1vLsDfWvXLLOmN7L0hpWMXcJQ=w1756-h1316-no?authuser=0
     image_path: https://lh3.googleusercontent.com/pw/ACtC-3dHbPHD3eVag_vk_3u2XwyO0xZmbbJU2Tyr0spTdLQVq0yqyNfK-yAhFGLpOoNkM7lTRjtBlI4UJir0Ymg5Hxk5zYj1zRgocSNaJcZejjTJ5gez05a59t1-y6jpO1L8k1vLsDfWvXLLOmN7L0hpWMXcJQ=w400-h300-no?authuser=0
-    title: "Me & Dana are looking at the peaks around on the way up to Tegelberg"
-    alt: "Me & Dana are looking at the peaks around on the way up to Tegelberg"
+    title: "Me & Danka are looking at the peaks around on the way up to Tegelberg"
+    alt: "Me & Danka are looking at the peaks around on the way up to Tegelberg"
 
   - url: https://lh3.googleusercontent.com/pw/ACtC-3ccvh9GDHc-1CzzlwhOcWCtpW_LpY6tVXwroxSpIbY3K8GIgKxxubVzxHaXtHFL2-_2m45LIzQcju8vFSIz00PYIfKJd2vwGOSKkLaEko8VEySraAyy5QPapLgC0FHREXv6pEb6X3lPDRjrCC78oFM3Tg=w1756-h1316-no?authuser=0
     image_path: https://lh3.googleusercontent.com/pw/ACtC-3ccvh9GDHc-1CzzlwhOcWCtpW_LpY6tVXwroxSpIbY3K8GIgKxxubVzxHaXtHFL2-_2m45LIzQcju8vFSIz00PYIfKJd2vwGOSKkLaEko8VEySraAyy5QPapLgC0FHREXv6pEb6X3lPDRjrCC78oFM3Tg=w400-h300-no?authuser=0
@@ -130,13 +130,11 @@ We started early on Saturday. The hike starts at Tegelberg lift station. Note, t
 
 From Tegelberghaus, we continued to Branderschrofen. This is just a small detour worth taking. Small scrambling to the peak's top. We continued towards the hut. On the way we reached one more peak, Ahornspitze. We found many more interesting peaks, Hochplatte and some others around. We got plans for the next time we return here. From Ahornspitze, we started descending to Bleckenaustraße. It leads to the Fritz-Putz Hut. We had good time at the hut. It was renovated and it provides everything a person needs.
 
-We continued the second day to Säuling. There is the trail leading from the hut, traversing below Säuling. We lost the trail for few minutes, not certain how but somehow we continued traversing but 50 meters below the official trail. After couple of minutes, we realized we had to loose the trail and started checking the map how far we got. It was just 50 meters above us, so we scrambled through the stream back to the trail. It was much faster to stay on trail :-)
+We continued the second day to Säuling, Danka decided to have a rest day. There is the trail leading from the hut, it is a traverse below Säuling. We lost the trail for few minutes, not certain how but somehow we continued without any trail ahead. We realized after couple of minutes the trail must be somewhere. We lost 50 ascent meters that we had to gain again to find the trail. We scrambled through the dry stream back to the trail. When the traverse ended, the rocky section started. There are fixed ropes, one or two ladders. Nothing exposed or hard. We only met one person who descended this way.
 
-The rocky section starts to reach Säuling. There are fixed ropes, one or two ladders. Nothing that exposed, and no people on the trail neither. We only met one person who descended through our chosen trail.
+We descended down to Säulinghaus (again fixed ropes, plenty of rocks) which was unfortunately closed so we continued towards Neuschwanstein. From the Säulinghaus, it's just easy hike back to the car. Descending through the forest back to the castle and then down to the village. 
 
-We descended down to Säulinghaus (again fixed ropes, plenty of rocks but nothing hard) which was unfortunately closed so we continued towards Neuschwanstein. From the Säulinghaus, it's just easy hike back to the car. Just one traverse and then descending through the forest back to the castle and then down to the village. 
-
-{% include flexgallery id="gallery-tegelberg" caption="Allgäu: Tegelberg - Säuling hike - Oct 20" %}
+{% include flexgallery id="gallery-tegelberg" caption="Allgäu: Tegelberg - Säuling weekend hike - Oct 20" %}
 
 ## Tour info
 
@@ -144,10 +142,10 @@ Drive
 : 1:25 hour
 
 Start
-: Parking lot at Tegelberg, paid. No overnight parking allowed, you better to part it somewhere nearby
+: Parking lot at Tegelberg, paid. No overnight parking allowed, you better to park it somewhere nearby
 
 Duration
-: 9:50 hours
+: 11 hours (total)
 
 ## Activity view
 
