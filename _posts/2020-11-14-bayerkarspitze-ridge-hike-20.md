@@ -137,15 +137,15 @@ gallery-bayerkarspitze:
     
 ---
 
-Time for another ridge hike! Our tour started at the parking lot near Oswaldhütte, Karwendel. Be warned about parking in not designed areas. This is nature park so you rather think twice. We parked along the road first behind other cars but a ranger passed by and he gave us a friendly warning. 
+Time for another ridge hike! Our tour started at the parking lot near Oswaldhütte, Karwendel. Be warned about parking only in designed areas as this is nature park. We parked along the road first behind other cars but a ranger gave us a friendly warning while he was passing by. 
 
-The first summit is about 2:30 hours away from the parking lot. It is the lowest peak of the day. From the first summit, the trail continues along the ridge and almost constantly up and down. It is easy to follow, quite wide most of the time (at least in the first half, once it becomes more rocky, it gets more narrow). We continued to Fermerskopf where you can see much further ahead. We finally spotted Krapfenkarspitze, our highest peak.
+The first summit is about 2:30 hours away from the parking lot. From the first summit, the trail continues along the ridge and almost constantly up and down. The trail is easy to follow, wide most of the time (at least in the first half, once it becomes more rocky, it gets more narrow). We continued to Fermerskopf where you can see much further ahead. We finally spotted Krapfenkarspitze, our highest peak. First thought how to get to the top, will it go via that ridge or we go around?
 
-The trail started to be more interesting closer to Krapfenkarspitze. We initially lost a trail so we had to scramble a bit through the rocks. Our trail was actually going around these rocks. It took us 6 hours to reach the highest point of the day. The summit is quite spacious, we took a longer break to enjoy the Karwendel scenery. From this moment, it was just going down and reaching only one more summit (Gumpenkarspitze).
+The trail started to be more interesting as we were approaching Krapfenkarspitze. We initially lost a trail right below the summit so we had to scramble a bit through the rocks. The trail was actually going around these rocks. It took us 6 hours to reach the highest point of the day. The summit is quite spacious, we took a longer break to enjoy the Karwendel scenery and rest. We reached one more summit (Gumpenkarspitze).
 
-We descended down to Jägersruh saddle. The way back goes below the summits we just reached. It is quite a nice traverse. The trail looks old, narrow often. I assume it is not frequently used. It became more challenged later. Some parts of the trail just vanished due to rock fall or water. We jumped or carefully stepped on narrow sandy trails above streams. We got back to our car after almost 10 hours (with brakes), just before it got completely dark.
+We descended down to Jägersruh saddle. The way back goes below the summits we just reached. It is quite nice traverse through the woods. The trail looks unused much, destroyed sometimes or just abandoned. There are some challenging parts that were waiting for us. The trail just vanished due to rock fall or water made its marks. We jumped from one part to another or carefully stepped through narrow sandy residues. We got back to our car after almost 10 hours just before it got completely dark.
 
-This was a beautiful ridge, worth doing in the opposite direction the next time.
+This was a beautiful ridge, worth doing in the opposite direction the next time with more peaks if we can.
 
 {% include flexgallery id="gallery-bayerkarspitze" caption="Karwendel: Bayerkarspitze ridge hike - Nov 20" %}
 
