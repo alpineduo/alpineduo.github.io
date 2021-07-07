@@ -2,8 +2,8 @@
 title: "Schliersee: Huberspitz trails mtb - June 21"
 description: "Huberspitz trails mtb singletrack Schliersee"
 header:
-  image: https://lh3.googleusercontent.com/pw/AM-JKLXjOIa6GGaopp0IxTI-QjXxSKLqLhJh9qp2sJRytPURjV7RzI8eovbDyuNq_LVxGOQj5hMUslXhy1dF0M-q4Zo2ZJzmKWmaXE3CFL4WfXmr5IZwirZ-X10EpjgWMUzaiFqYIXD-KtPqPLWOu7qyITEg6Q=w986-h1314-no?authuser=0
-  teaser: https://lh3.googleusercontent.com/pw/AM-JKLXjOIa6GGaopp0IxTI-QjXxSKLqLhJh9qp2sJRytPURjV7RzI8eovbDyuNq_LVxGOQj5hMUslXhy1dF0M-q4Zo2ZJzmKWmaXE3CFL4WfXmr5IZwirZ-X10EpjgWMUzaiFqYIXD-KtPqPLWOu7qyITEg6Q=w300-h800-no?authuser=0
+  image: https://lh3.googleusercontent.com/pw/AM-JKLUOkM95yA0jRAeS5ry9ScU3yAOmS4whAIwiepvABg-GmuUSpr7XmhFFdP2wNKWhDNnnjm2fAZPN5obQ5qE8GtgImG9GP92dE2VP88wN8MsprKGYEEKP7LT3TDyU9lz7ef9Ew18Bv2c7MwBsAFZupNdqKQ=w1240-h1314-no?authuser=0
+  teaser: https://lh3.googleusercontent.com/pw/AM-JKLUOkM95yA0jRAeS5ry9ScU3yAOmS4whAIwiepvABg-GmuUSpr7XmhFFdP2wNKWhDNnnjm2fAZPN5obQ5qE8GtgImG9GP92dE2VP88wN8MsprKGYEEKP7LT3TDyU9lz7ef9Ew18Bv2c7MwBsAFZupNdqKQ=w300-h800-no?authuser=0
   caption: "alpineduo"
 categories: mtb
 tags:
@@ -90,7 +90,7 @@ gallery-huberspitz:
 
 
   - url: https://lh3.googleusercontent.com/pw/AM-JKLUmcM2SzVF71327nfEn403a7PrtEq0Hzhg5WP0-ZFaJoQoYYF7kEL_fYfwUx7shBc6gCMvcn0cr9diTuizcO4YFwa7b01C5nRwiv4byd80fIbYruKBZkWjPU5J6UVO-SySkbzSMGUr9bjprLV3TT1tnWQ=w1752-h1314-no?authuser=0
-    image_path: https://lh3.googleusercontent.com/pw/AM-JKLUmcM2SzVF71327nfEn403a7PrtEq0Hzhg5WP0-ZFaJoQoYYF7kEL_fYfwUx7shBc6gCMvcn0cr9diTuizcO4YFwa7b01C5nRwiv4byd80fIbYruKBZkWjPU5J6UVO-SySkbzSMGUr9bjprLV3TT1tnWQ=w1752-h1314-no?authuser=0
+    image_path: https://lh3.googleusercontent.com/pw/AM-JKLUmcM2SzVF71327nfEn403a7PrtEq0Hzhg5WP0-ZFaJoQoYYF7kEL_fYfwUx7shBc6gCMvcn0cr9diTuizcO4YFwa7b01C5nRwiv4byd80fIbYruKBZkWjPU5J6UVO-SySkbzSMGUr9bjprLV3TT1tnWQ=w400-h300-no?authuser=0
     title: "Schliersee from Almbad Huberspitz"
     alt: "Schliersee from Almbad Huberspitz"
 
