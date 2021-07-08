@@ -96,11 +96,11 @@ gallery-huberspitz:
 
 ---
 
-We had limited time the previous weekend. Schliersee offers couple of shorther trails like Huberspitz trails. There are couple of trails, we chose Huberspitz busline and Huberspitz alternative.
+We had limited time the previous weekend, we were looking for shorter ride. Schliersee offers couple of shorther trails like Huberspitz trails.
 
-You need to climb to Almbad Huberspitz first, continue further about 1 kilometer to get to the starting point for the busline trail. It starts with smaller uphil section and then just goes down all the way to the Hausham. There are few more difficult spots, mainly due to recent rains although as I read most of the days it is muddy. I would rate this as S2. Few branches or smaller trees were layed down crossing the trail. Someone intentionally put them there.
+You need to climb to Almbad Huberspitz first. We stopped for a minute and we continued further about 1 kilometer to get to the starting point for the busline trail. There's bigger open area with a small wooden open structure (looks like a bus stop). The trail starts with smaller uphil section and then just goes down all the way to the Hausham. There are few difficult spots, mainly due to recent rains although as I read most of the days it is muddy. I would rate this as S2. Few branches or smaller trees were layed down crossing the trail. Someone intentionally place them there.
 
-Climbing again the same way as before, only up to Almbad Huberspitz. The hut was closed eventhough it was Sunday (no reason give, just it's closed).
+The second round starts by climbing again the same way up, this time we stop at Almbad Huberspitz. The hut was closed eventhough it was Sunday afternoon and it should be opened (no reason give, just it's closed).
 
 The second trail is easy way down via 682a path (rated as S1). We met locals at the trail beginning who told us this path will be closed for bikers soon. There were no signs at the moment but as we heard and later read online, it was decide to be for hikers only and the signs will come soon (June 2021).
 
