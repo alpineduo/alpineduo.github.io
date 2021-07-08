@@ -11,6 +11,7 @@ tags:
   - mtb
   - singletrack
   - "sts: s2"
+  - schliersee
 classes: wide
 
 gallery-huberspitz:
