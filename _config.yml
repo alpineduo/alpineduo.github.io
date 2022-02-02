@@ -111,7 +111,7 @@ author:
   avatar           : "/assets/images/profile_picture.jpg"
   bio              : "Ain't no mountain high enough. 🚵‍ ⛷️ 🧗 ⛰️"
   location         : "Munich, Germany"
-  email            : contact@alpineduo.com
+  email            : contact[at]alpineduo.com
   links:
     # - label: "Email"
       # icon: "fas fa-fw fa-envelope-square"
