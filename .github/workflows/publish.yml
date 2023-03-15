@@ -13,7 +13,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - uses: fabacab/jekyll-builder-for-github-pages-action@master
+      - uses: 0xc0170/jekyll-builder-for-github-pages-action@fix-safe-workspace
         with:
           secret_gh_pages_api_token: ${{ secrets.GH_PAGES_TOKEN }}
-          pre_build_commands: git config --global --add safe.directory "*"
